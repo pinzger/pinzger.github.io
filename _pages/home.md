@@ -1,35 +1,13 @@
 ---
-title: "SERG - Home"
+title: "Martin Pinzger - Home"
 layout: homelay
-excerpt: "SERG at Alpen-Adria-Universität Klagenfurt."
+excerpt: "Martin Pinzger at Alpen-Adria-Universität Klagenfurt."
 sitemap: false
 permalink: /
 ---
 
-# Software Engineering Research Group
+# Martin Pinzger, Prof. Dr.
 
-Our mission is to research and teach theories, methods, processes, and techniques for **building and evolving large, complex, and long-living software systems**. We aim at adding the **engineering** to the profession of software developers, making their live more productive and cheerful, and resulting in software systems of high quality. SERG is led by Martin Pinzger and part of the [Department of Informatics Systems](https://www.aau.at/en/isys/), [Faculty of Technical Sciences](http://www.aau.at/tewi/), at the [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/).
+Martin Pinzger is a Full Professor and Chair of Software Engineering at the [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/), Austria. He is leading the [Software Engineering Research Group](https://serg.aau.at/bin/view/Main/WebHome) and he is the head of the [Department of Informatics Systems](https://www.aau.at/en/isys/). Martin Pinzger received a MSc (Dipl. Ing.) in 2001 and PhD (Dr. techn.) in 2005 in informatics from the Vienna University of Technology, both with distinction. He was a Postdoc at the University of Zurich and an Assistant Professor at the Delft University of Technology from which he received tenure in 2012. His research interests are in software engineering with a focus on software evolution, mining software repositories, program analysis, software visualization, software design, and empirical studies in software engineering. In 2012, he won a prestigious [NWO Vidi grant](http://www.nwo.nl/en/news-and-events/news/2012/NWO+awards+Vidi+grants+to+94+top+researchers.html) for his research proposal on recording and analysis of fine-grained code changes. In 2013, he received an [ICSE 2013 ACM SIGSOFT distinguished paper award](http://2013.icse-conferences.org/content/icse2013-awards.html) for his work on data clone detection in spreadsheets and the [ICSM 2013 most influential paper award](http://icsm2013.tue.nl/AwardWinners/index.html) for his work on the release history database. In 2014, he won the [ICSME 2014 best paper award](http://www.icsme.org/2014) for his work on a genetic algorithm to refactor fat Java interfaces. He is a member of ACM and a senior member of IEEE.
 
-### Studying Computer Science at the Alpen-Adria-Universität Klagenfurt
-
-Our university offers an attractive and international program for doing a Bachelor, Master, and/or a Doctorate in Computer Science. As one of our Master students stated: "Studying computer science at the Alpen-Adria-Universität Klagenfurt offers a challenging road that is rewarded with great job opportunities." For more information see the study guides on the Bachelor, Master and Doctorate programs.
-
-**We** are looking for students with strong technical or research skills for doing a Master's Thesis or a Softwarepraktika with us. We have a number of open thesis projects also in collaboration with industry. Find out more info on our open thesis projects on this web-site. Regarding Softwarepraktika check out this web-site.
-
-### Collaborating with SERG
-In addition to basic research, we have a big interest in performing applied research whose results are transferred to industry, governmental institutions, and open source communities. The collaborations of SERG with X-Automata, Philips Healthcare, KPMG, Robeco, and the Software Improvement Group (SIG) are good examples of such a knowledge transfer. If you are interested in a collaboration with SERG, e.g., in form of a partner in a research project, sponsor of our research, or in some other form, please contact us.
-
-We are grateful for funding from the [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/), [FWF](https://www.fwf.ac.at/en/), and [FFG](https://www.ffg.at/en).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
-
-
-
-
-
-
+I am looking for Master Students with strong technical or research skills for doing a Master's Thesis with me. Drop me an email for more information.
