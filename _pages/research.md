@@ -1,7 +1,7 @@
 ---
-title: "Martin Pinzger - Research"
+title: "Research"
 layout: textlay
-excerpt: "Martin Pinzger -- Research"
+excerpt: "Martin Pinzger - Research"
 sitemap: false
 permalink: /research/
 ---

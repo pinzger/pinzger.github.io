@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 layout: textlay
-excerpt: "Teaching"
+excerpt: "Martin Pinzger - Teaching"
 sitemap: false
 permalink: /teaching/
 ---

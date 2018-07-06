@@ -1,7 +1,7 @@
 ---
 title: "Martin Pinzger"
 layout: homelay
-excerpt: "Martin Pinzger at Alpen-Adria-Universität Klagenfurt."
+excerpt: "Martin Pinzger at Alpen-Adria-Universität Klagenfurt"
 sitemap: false
 permalink: /
 ---
