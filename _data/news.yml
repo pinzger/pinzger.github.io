@@ -9,3 +9,30 @@
 
 - date: <strong>May 2018</strong> 
   headline: "Our paper <strong>Towards Model Checking Security of Real Time Java Software</strong> has been accepted at <a href=\"http://hpcs2018.cisedu.info/2-conference/workshops---hpcs2018/workshop10-shpcs\">SHPCS 2018</a>, co-located with <a href=\"http://hpcs2018.cisedu.info/\">HPCS 2017</a> in Orléans, France."
+  
+- date: <strong>April 2018</strong>
+  headline: "<a href=\"https://serg.aau.at/bin/view/StefanieBeyer/WebHome\">Stefanie Beyer</a> successfully defended her PhD Thesis <strong>Identifying Android App Developers’ Challenges through Mining Stack Overflow</strong>. Well done Steffi!"
+
+- date: <strong>March 2018</strong> 
+  headline: "Our paper <strong>Automatically Classifying Posts into Question Categories on Stack Overflow</strong> has been accepted at <a href=\"https://conf.researchr.org/home/icpc-2018\">ICPC 2018</a>, co-located with <a href=\"https://www.icse2018.org/\">ICSE 2018</a> in Gothenborg, Sweden."
+  
+- date: <strong>March 2018</strong> 
+  headline: "Our paper <strong>Modeling Time in Java Programs for Automatic Error Detection</strong> has been accepted at <a href=\"http://www.formalise.org/\">FormaliSE 2018</a>, co-located with <a href=\"https://www.icse2018.org/\">ICSE 2018</a> in Gothenborg, Sweden."
+  
+- date: <strong>February 2018</strong> 
+  headline: "Our paper <strong>Co-evolution Analysis of Production and Test Code by Learning Association Rules of Changes</strong> has been accepted at <a href=\"https://maltesque.github.io/\">MaLTeSQuE 2018</a>, co-located with <a href=\"http://saner.unimol.it/\">SANER 2018</a> in Campobasso, Italy."
+  
+- date: <strong>January 2018</strong> 
+  headline: "Joined the <a href=\"https://icsme2018.github.io/\">ICSME 2018</a> PC."
+  
+- date: <strong>December 2017</strong> 
+  headline: "Our paper <strong>Automatically Repairing Dependency-Related Build Breakage</strong> has been accepted at <a href=\"http://saner.unimol.it/\">SANER 2018</a> in Campobasso, Italy."
+  
+- date: <strong>October 2017</strong> 
+  headline: "Our paper <strong>FEVER: An approach to analyze feature-oriented changes and artefact co-evolution in highly configurable systems</strong> is available <a href=\"http://www.springer.com/-/3/AV-Ui8ABZZYXVFkW9cWc\">Online First</a> at Springer."
+  
+- date: <strong>October 2017</strong> 
+  headline: "Joined the <a href=\"http://2018.msrconf.org/\">MSR 2018</a> PC."
+  
+- date: <strong>September 2017</strong> 
+  headline: I have been elevated to IEEE Senior Member.
