@@ -49,20 +49,20 @@ A demo of the installation and example usage of the tool is available here: http
   link:
     url: ../papers/Beyer2018-classification.pdf
     display: pdf
-  highlight: 1
+  highlight: 
 
 - title: "Modeling Time in Java Programs for Automatic Error Detection"
-  image: 
+  image: timeerrordetection.png
   authors: G. Liva, M. T. Khan, F. Spegni, L.Spalazzi, A. Bollin, and M. Pinzger
   proceedings: In Proceedings of the International Conference on Formal Methods in Software Engineering (FormaliSE)
   pages: to appear
   publisher: IEEE
   year: 2018
-  description: 
+  description: "In this paper, we present an approach that considers the time semantics of the Java language to systematically detect time related errors in Java programs. With the formal time semantics, our approach determines which integer variables handle time and which statements use or alter their values. Based on this information, it translates these statements into an SMT model that is passed to an SMT solver. The solver formally verifies the correctness of the model and reports the violations of time properties in that program. For the evaluation, we have implemented our approach in a prototype tool and applied it to the source code of 20 Java open source projects. The results show that our approach is scalable and it is capable of detecting time errors precisely enough allowing its usability in real-world applications."
   link:
     url: ../papers/Liva2018-timeerrors.pdf
     display: pdf
-  highlight: 
+  highlight: 1
 
 - title: "Co-Evolution Analysis of Production and Test Code by Learning Association Rules of Changes"
   image: 
@@ -88,20 +88,20 @@ A demo of the installation and example usage of the tool is available here: http
   link:
     url: https://link.springer.com/article/10.1007/s10664-017-9557-6
     display: open access
-  highlight: 1
+  highlight:
 
 - title: "Automatically Repairing Dependency-Related Build Breakage"
-  image: 
+  image: buildmedic.png
   authors: C. Macho, S. McIntosh, and M. Pinzger
   proceedings: In Proceedings of the International Conference on Software Analysis, Evolution, and Reengineering (SANER)
   pages: pp. 106-117
   publisher: IEEE
   year: 2018
-  description: 
+  description: "BUILDMEDIC is an approach to automatically repair Maven builds that break due to dependency- related issues. Based on a manual investigation of 37 broken Maven builds in 23 open source Java projects, we derived the three repair strategies Version Update, Delete Dependency, and Add Repository to repair broking builds. We evaluated the three strategies on 84 additional broken builds from the 23 studied projects. The evaluation shows that BUILDMEDIC can automatically repair 45 of these broken builds (54%). Furthermore, in 36% of the successfully repaired build breakages, BUILDMEDIC outputs at least one repair candidate that is considered a correct repair. Moreover, 76% of them could be repaired with only a single dependency correction."
   link:
     url: ../papers/Macho2018-buildmedic.pdf
     display: pdf
-  highlight: 
+  highlight: 1
 
 - title: "Extracting Timed Automata from Java Methods"
   image: 
