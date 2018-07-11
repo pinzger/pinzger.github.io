@@ -91,3 +91,24 @@ firstp {
     margin-right: 30px;
 }
 
+/* Change bg of footer panel */
+.panel-footer.panel-custom {
+	padding: 10px 0px;
+    background: white;
+    border: 0;
+    border-bottom-style: none;
+    box-shadow: none;
+}
+
+.panel.panel-custom {
+    background: white;
+    border: 0;
+    border-bottom-style: none;
+    box-shadow: none;
+}
+
+.container-fluid.container-custom {
+    border: 0;
+    border-bottom-style: none;
+    box-shadow: none;
+}
