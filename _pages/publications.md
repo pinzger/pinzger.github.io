@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+We include the papers on this page to ensure timely dissemination on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by the copyrights. These works may not be reposted without the explicit permission of the copyright holder.
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+## Recent
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -56,8 +56,15 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  <strong>{{ publi.title }} </strong> {% if publi.link.url != %} (<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>) {% endif %} <br /> 
+  {{ publi.authors }}. {{ publi.proceedings }}, {{ publi.pages }}, {{ publi.publisher }}, {{ publi.year }}. {% if publi.award != %} <strong>{{ publi.award }}</strong> {% endif %}
+
 
 {% endfor %}
 
+## Theses
+<strong>ArchView - Analyzing Evolutionary Aspects of Complex Software Systems</strong> (<a href="../papers/Pinzger2005-phdthesis.pdf">pdf</a>) <br />
+M. Pinzger. Doctoral Thesis, Vienna University of Technology, 2005.
+
+<strong>Reengineering von Flugplanungssoftware</strong> (in German) <br />
+M. Pinzger. Master’s Thesis, EADS Dornier GmbH and Vienna University of Technology, 2001.

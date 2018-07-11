@@ -1,10 +1,1147 @@
-- title: "Generating Accurate and Compact Edit Scripts using Tree Differencing"
+- title: "Generating Accurate and Compact Edit Scripts Using Tree Differencing"
   image: 
-  description: Short description ...
   authors: V. Frick, T. Grassauer, F. Beck, and M. Pinzger 
+  proceedings: In Proceedings of the International Conference on Software Maintenance and Evolution (ICSME)
+  pages: to appear
+  publisher: IEEE
+  year: 2018
+  description: Short description ...
   link:
     url: 
-    display:  (pdf) (2018)
+    display: pdf
   highlight: 1
-  news2: 
 
+- title: "DiffViz: A Diff Algorithm Independent Visualization Tool for Edit Scripts"
+  image: 
+  authors: V. Frick, C. Wedenig, and M. Pinzger 
+  proceedings: In Proceedings of the International Conference on Software Maintenance and Evolution (ICSME), Tool Demo Track
+  pages: to appear
+  publisher: IEEE
+  year: 2018
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Towards Model Checking Security of Real Time Java Software"
+  image: 
+  authors: F. Spegni, L.Spalazzi, G. Liva, and M. Pinzger
+  proceedings: In Proceedings of the International Workshop on Security and High Performance Computing Systems (SHPCS)
+  pages: to appear
+  publisher: IEEE/ACM
+  year: 2018
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 1
+
+- title: "Automatically Classifying Posts into Question Categories on Stack Overflow"
+  image: 
+  authors: S. Beyer, C. Macho, M. di Penta, and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Program Comprehension (ICPC)
+  pages: to appear
+  publisher: IEEE
+  year: 2018
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 1
+
+- title: "Modeling Time in Java Programs for Automatic Error Detection"
+  image: 
+  authors: G. Liva, M. T. Khan, F. Spegni, L.Spalazzi, A. Bollin, and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Formal Methods in Software Engineering (FormaliSE)
+  pages: to appear
+  publisher: IEEE
+  year: 2018
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Co-Evolution Analysis of Production and Test Code by Learning Association Rules of Changes"
+  image: 
+  authors: L. Vidács and M. Pinzger
+  proceedings: In Proceedings of the International Workshop on Machine Learning Techniques for Software Quality Evaluation (MaLTeSQuE)
+  pages: pp. 31-36
+  publisher: IEEE
+  year: 2018
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "FEVER: An Approach to Analyze Feature-Oriented Changes and Artefact Co-Evolution in Highly Configurable Systems"
+  image: 
+  authors: N. Dintzner, A. van Deursen, and M. Pinzger
+  proceedings: Journal of Empirical Software Engineering (EMSE)
+  pages: online, pp. 1-48
+  publisher: Springer
+  year: 2018
+  description: 
+  link:
+    url: https://link.springer.com/article/10.1007/s10664-017-9557-6
+    display: open access
+  highlight: 1
+
+- title: "Automatically Repairing Dependency-Related Build Breakage"
+  image: 
+  authors: C. Macho, S. McIntosh, and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+  pages: pp. 106-117
+  publisher: IEEE
+  year: 2018
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Extracting Timed Automata from Java Methods"
+  image: 
+  authors: G. Liva, M. T. Khan, and M. Pinzger
+  proceedings: In Proceedings of the International Working Conference on Source Code Analysis and Manipulation (SCAM)
+  pages: pp. 91-100
+  publisher: IEEE
+  year: 2017
+  description: 
+  link:
+    url: https://serg.aau.at/pub/GiovanniLiva/WebHome/Extracting_Timed_Automata_from_Java_Methods.pdf
+    display: pdf
+  highlight: 
+
+- title: "Guest Editorial: Mining Software Repositories"
+  image: 
+  authors: R. Robbes, Y. Kamei, and M. Pinzger
+  proceedings: Journal of Empirical Software Engineering (EMSE)
+  pages: vol. 22, no. 3, pp. 1143-1145
+  publisher: Springer
+  year: 2017
+  description: 
+  link:
+    url: https://link.springer.com/article/10.1007/s10664-017-9527-z
+    display: pdf
+  highlight: 
+
+- title: "Extracting Build Changes with BUILDDIFF"
+  image: 
+  authors: C. Macho, S. McIntosh, and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Mining Software Repositories (MSR)
+  pages: pp. 368-378
+  publisher: IEEE/ACM
+  year: 2017
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Analysing the Linux Kernel Feature Model Changes Using FMDiff"
+  image: 
+  authors: N. Dintzner, A. van Deursen, and M. Pinzger
+  proceedings: Journal of Software & Systems Modeling
+  pages: vol. 16, no. 1, pp. 55-76
+  publisher: Springer
+  year: 2017
+  description: 
+  link:
+    url: http://link.springer.com/content/pdf/10.1007%2Fs10270-015-0472-2.pdf
+    display: pdf
+  highlight: 
+
+- title: "Extracting Parallel Control Flow Graphs with Synchronization Information from Java Programs"
+  image: 
+  authors: G. Liva, F. Spegni, L. Spalazzi, A. Bollin, M. Pinzger
+  proceedings: Technical Report, Alpen-Adria-Universität
+  pages: 
+  publisher: IEEE
+  year: 2017
+  description: 
+  link:
+    url: http://serg.aau.at/pub/GiovanniLiva/WebHome/AAU-SERG-2017-001.pdf
+    display: pdf
+  highlight: 
+
+- title: "Guest Editorial: Mining Software Repositories"
+  image: 
+  authors: M. Pinzger and S. Kim
+  proceedings: Journal of Empirical Software Engineering (EMSE)
+  pages: vol. 21, no. 5, pp. 2033-2034
+  publisher: Springer
+  year: 2016
+  description: 
+  link:
+    url: http://link.springer.com/article/10.1007/s10664-016-9450-8
+    display: pdf
+  highlight: 
+
+- title: "Grouping Android Tag Synonyms on Stack Overflow"
+  image: 
+  authors: S. Beyer and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Mining Software Repositories (MSR)
+  pages: pp. 430-440
+  publisher: IEEE/ACM
+  year: 2016
+  description: 
+  link:
+    url: http://dl.acm.org/authorize?N12719
+    display: pdf
+  highlight: 
+
+- title: "FEVER: Extracting Feature-Oriented Changes from Commits"
+  image: 
+  authors: N. Dintzner, A. van Deursen, and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Mining Software Repositories (MSR)
+  pages: EEE/ACM pp. 85-96
+  publisher: IEEE
+  year: 2016
+  description: 
+  link:
+    url: http://dl.acm.org/authorize?N12718
+    display: pdf
+  highlight: 
+
+- title: "Predicting Build Co-Changes with Source Code Change and Commit Categories"
+  image: 
+  authors: C. Macho, S. McIntosh, and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Software Analysis, Evolution, and Reengineering (SANER)
+  pages: pp. 541-551
+  publisher: IEEE
+  year: 2016
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+  award: Candidate for Best Paper Award
+
+- title: "XVIZIT: Visualizing Cognitive Units in Spreadsheets"
+  image: 
+  authors: K. Hodnigg and M. Pinzger
+  proceedings: In Proceedings of the Working Conference on Software Visualization, Tool Demo
+  pages: pp. 210-214
+  publisher: IEEE
+  year: 2015
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Synonym Suggestion for Tags on Stack Overflow"
+  image: 
+  authors: S. Beyer and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Program Comprehension (ICPC)
+  pages: pp. 94-103
+  publisher: IEEE
+  year: 2015
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Evaluating Feature Change Impact on Multi-Product Line Configurations Using Partial Information"
+  image: 
+  authors: N. Dintzner, U. Kulesza, A. Van Deursen, and M. Pinzger
+  proceedings: In Software Reuse for Dynamic Systems in the Cloud and Beyond
+  pages: pp. 1-16
+  publisher: Lecture Notes in Computer Science, Springer
+  year: 2015
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Detecting and Refactoring Code Smells in Spreadsheet Formulas"
+  image: 
+  authors: F. Hermans, M. Pinzger, and A. van Deursen
+  proceedings: Journal of Empirical Software Engineering (EMSE)
+  pages: vol. 20, no. 2, pp. 549-575
+  publisher: Springer
+  year: 2015
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "A Manual Categorization of Android App Development Issues Using Stack Overflow Posts"
+  image: 
+  authors: S. Beyer and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Software Maintenance and Evolution, Early Research Achievements (ICSME ERA)
+  pages: pp. 531-535
+  publisher: IEEE
+  year: 2014
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Refactoring Fat Interfaces Using a Genetic Algorithm"
+  image: 
+  authors: D. Romano, S. Raemaekers, and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Software Maintenance and Evolution (ICSME)
+  pages: pp. 351-360
+  publisher: IEEE
+  year: 2014
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+  award: ICSME 2014 Best Paper award
+
+- title: "A Genetic Algorithm to Find the Adequate Granularity for Service Interfaces"
+  image: 
+  authors: D. Romano and M. Pinzger
+  proceedings: In Proceedings of the World Congress on Services (SERVICES)
+  pages: pp. 478-485
+  publisher: IEEE
+  year: 2014
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "An Exploratory Study of the Pull-Based Software Development Model"
+  image: 
+  authors: G. Gousios, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the International Conference on Software Engineering (ICSE)
+  pages: pp. 345-355
+  publisher: IEEE/ACM
+  year: 2014
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Special Issue: A Selection of Distinguished Papers from the 18th Working Conference on Reverse Engineering 2011"
+  image: 
+  authors: M. Pinzger and D. Poshyvanyk
+  proceedings: "Journal of Software: Evolution and Process"
+  pages: vol. 26, no. 1, pp. 1-2
+  publisher: John Wiley & Sons
+  year: 2014
+  description: 
+  link:
+    url: http://onlinelibrary.wiley.com/doi/10.1002/smr.1638/full
+    display: pdf
+  highlight: 
+
+- title: "Studying Late Propagations in Code Clone Evolution Using Software Repository Mining"
+  image: 
+  authors: H. H. Mui, A. Zaidman and M. Pinzger
+  proceedings: In Electronic Communications of the EASST
+  pages: vol. 63
+  publisher: EASST
+  year: 2014
+  description: 
+  link:
+    url: http://journal.ub.tu-berlin.de/eceasst/article/view/916
+    display: pdf
+  highlight: 
+
+- title: "Extracting Feature Model Changes from the Linux Kernel Using FMDiff"
+  image: 
+  authors: N. Dintzner, A. van Deursen and M. Pinzger
+  proceedings: In Proceedings of the International Workshop on Variability Modelling of Software-intensive Systems (VAMOS)
+  pages: pp. 22:1--22:8
+  publisher: ACM
+  year: 2014
+  description: 
+  link:
+    url: http://dl.acm.org/authorize?N84059
+    display: pdf
+  highlight: 
+
+- title: "Guest Editorial: Reverse Engineering"
+  image: 
+  authors: M. Pinzger and G. Antoniol
+  proceedings: Journal of Empirical Software Engineering (EMSE)
+  pages: vol. 18, no. 5, pp. 857-858
+  publisher: Springer
+  year: 2013
+  description: 
+  link:
+    url: http://www.springer.com/alert/urltracking.do?id=Le867a5Mb3b9dfSb05b03f
+    display: pdf
+  highlight: 
+
+- title: "Towards a Weighted Voting System for Q&A Sites"
+  image: 
+  authors: D. Romano and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Software Maintenance, Early Research Achievements (ICSM ERA)
+  pages: pp. 268-271
+  publisher: IEEE
+  year: 2013
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Communication in Open Source Software Development Mailing Lists"
+  image: 
+  authors: A. Guzzi, A. Bachelli, M. Lanza, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the Working Conference on Mining Software Repositories (MSR)
+  pages: pp. 277-286
+  publisher: IEEE/ACM
+  year: 2013
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Data Clone Detection and Visualization in Spreadsheets"
+  image: 
+  authors: F. Hermans, B. Sedee, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the International Conference on Software Engineering (ICSE)
+  pages: pp. 292-301
+  publisher: IEEE/ACM
+  year: 2013
+  description: 
+  link:
+    url: ../papers/
+    display: pdf
+  highlight: 
+  award: ACM SIGSOFT Distinguished Paper award
+
+- title: "Analyzing the Impact of Antipatterns on Change-Proneness Using Fine-Grained Source Code Changes"
+  image: 
+  authors: D. Romano, P. Raila, M. Pinzger, and F. Khomh
+  proceedings: In Proceedings of the Working Conference on Reverse Engineering (WCRE)
+  pages: pp. 437-446
+  publisher: IEEE
+  year: 2012
+  description: 
+  link:
+    url: ../papers/Romano2012-antipatterns.pdf
+    display: pdf
+  highlight: 
+
+- title: "Detecting Code Smells in Spreadsheet Formulas"
+  image: 
+  authors: F. Hermans, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the International Conference on Software Maintenance (ICSM)
+  pages: pp. 409-418
+  publisher: IEEE
+  year: 2012
+  description: 
+  link:
+    url: ../papers/Hermans2012-formulasmells.pdf
+    display: pdf
+  highlight: 
+
+- title: "Measuring Spreadsheet Formula Understandability"
+  image: 
+  authors: F. Hermans, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the European Spreadsheet Risks Interest Group Conference (EuSpRiG)
+  pages: 
+  publisher: CoRR
+  year: 2012
+  description: 
+  link:
+    url: ../papers/Hermans2012-understandability.pdf
+    display: pdf
+  highlight: 
+
+- title: "Method-Level Bug Prediction"
+  image: 
+  authors: E. Giger, M. D'Ambros, M. Pinzger, H. C. Gall
+  proceedings: In Proceedings of the International Symposium on Empirical Software Engineering and Measurement (ESEM)
+  pages: pp. 171-180
+  publisher: IEEE
+  year: 2012
+  description: 
+  link:
+    url: ../papers/Giger2012-methodlevel.pdf
+    display: pdf
+  highlight: 
+
+- title: "Analyzing the Evolution of Web Services using Fine-Grained Changes"
+  image: 
+  authors: D. Romano and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Web Services (ICWS), Application and Experience Track
+  pages: pp. 392-399
+  publisher: IEEE
+  year: 2012
+  description: 
+  link:
+    url: ../papers/Romano2012-wsdldiff.pdf
+    display: pdf
+  highlight: 
+
+- title: "Can we Predict Types of Code Changes? An Empirical Analysis"
+  image: 
+  authors: E. Giger, M. Pinzger, H. C. Gall
+  proceedings: In Proceedings of the Working Conference on Mining Software Repositories (MSR)
+  pages: pp. 217-226
+  publisher: IEEE/ACM
+  year: 2012
+  description: 
+  link:
+    url: ../papers/Giger2012-changetypes.pdf
+    display: pdf
+  highlight: 
+
+- title: "Detecting and Visualizing Inter-Worksheet Smells in Spreadsheets"
+  image: 
+  authors: F. Hermans, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the International Conference on Software Engineering (ICSE)
+  pages: pp. 441-451
+  publisher: IEEE/ACM
+  year: 2012
+  description: 
+  link:
+    url: ../papers/Hermans2012-worksheetsmells.pdf
+    display: pdf
+  highlight: 
+
+- title: "Extracting Dynamic Dependencies between Web Services Using Vector Clocks"
+  image: 
+  authors: D. Romano, M. Pinzger, and E. Bouwers
+  proceedings: In Proceedings of the IEEE International Conference on Service-Oriented Computing and Applications (SOCA)
+  pages: pp. 1-8
+  publisher: IEEE
+  year: 2011
+  description: 
+  link:
+    url: ../papers/Romano2011-dependencies.pdf
+    display: pdf
+  highlight: 
+
+- title: "Using Vector Clocks to Monitor Dependencies among Services at Runtime"
+  image: 
+  authors: D. Romano and M. Pinzger
+  proceedings: In Proceedings of the International Workshop on Quality Assurance for Service-based Applications (QASBA)
+  pages: pp. 1-4
+  publisher: ACM
+  year: 2011
+  description: 
+  link:
+    url: ../papers/Romano2011-monitoring.pdf
+    display: pdf
+  highlight: 
+
+- title: "Using the Gini Coefficient for Bug Prediction in Eclipse"
+  image: 
+  authors: E. Giger, M. Pinzger, H. C. Gall
+  proceedings: In Proceedings of the International Workshop on Principles on Software Evolution, ERCIM Workshop on Software Evolution (IWPSE-EVOL)
+  pages: pp. 51-55
+  publisher: ACM
+  year: 2011
+  description: 
+  link:
+    url: ../papers/Giger2011-gini.pdf
+    display: pdf
+  highlight: 
+
+- title: "Using Source Code Metrics to Predict Change-Prone Java Interfaces"
+  image: 
+  authors: D. Romano and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Software Maintenance (ICSM)
+  pages: pp. 303-312
+  publisher: IEEE
+  year: 2011
+  description: 
+  link:
+    url: ../papers/Romano2011-interfaces.pdf
+    display: pdf
+  highlight: 
+
+- title: "Breviz: Visualizing Spreadsheets using Dataflow Diagrams "
+  image: 
+  authors: F. Hermans, M. Pinzger, A. van Deursen
+  proceedings: In Proceedings of the European Spreadsheet Risks Interest Group Conference (EuSpRiG)
+  pages: 
+  publisher: CoRR
+  year: 2011
+  description: 
+  link:
+    url: ../papers/Hermans2011-breviz.pdf
+    display: pdf
+  highlight: 
+
+- title: "Collective Code Bookmarks for Program Comprehension"
+  image: 
+  authors: A. Guzzi, L. Hattori, M. Lanza, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the International Conference on Program Comprehension (ICPC)
+  pages: pp. 101-110
+  publisher: IEEE
+  year: 2011
+  description: 
+  link:
+    url: ../papers/Guzzi2011-bookmarking.pdf
+    display: pdf
+  highlight: 
+
+- title: "Comparing Fine-Grained Source Code Changes And Code Churn For Bug Prediction"
+  image: 
+  authors: E. Giger, M. Pinzger, and H. C. Gall
+  proceedings: In Proceedings of the Working Conference on Mining Software Repositories (MSR)
+  pages: pp. 83-92
+  publisher: IEEE/ACM
+  year: 2011
+  description: 
+  link:
+    url: ../papers/Giger2011-bugprediction.pdf
+    display: pdf
+  highlight: 
+
+- title: "Supporting Professional Spreadsheet Users by Generating Leveled Dataflow Diagrams"
+  image: 
+  authors: F. Hermans, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the International Conference on Software Engineering (ICSE)
+  pages: pp. 451-460
+  publisher: IEEE/ACM
+  year: 2011
+  description: 
+  link:
+    url: ../papers/Hermans2011-dataflows.pdf
+    display: pdf
+  highlight: 
+
+- title: "Combining Micro-Blogging and IDE Interactions to Support Developers in their Quests"
+  image: 
+  authors: A. Guzzi, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the International Conference on Software Maintenance, Early Research Achievements (ICSM ERA)
+  pages: pp. 1-5
+  publisher: IEEE
+  year: 2010
+  description: 
+  link:
+    url: ../papers/Guzzi2010-james.pdf
+    display: pdf
+  highlight: 
+
+- title: "Visual Patterns in Software Process Data"
+  image: 
+  authors: P. Knab, M. Pinzger, and H. C. Gall
+  proceedings: In Proceedings of the International Conference on Software Process (ICSP)
+  pages: pp. 222-233
+  publisher: Lecture Notes in Computer Science, Springer
+  year: 2010
+  description: 
+  link:
+    url: ../papers/Knab2010-patterns.pdf
+    display: pdf
+  highlight: 
+
+- title: "Automatically Extracting Class Diagrams from Spreadsheets"
+  image: 
+  authors: F. Hermans, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the European Conference on Object-Oriented Programming (ECOOP)
+  pages: pp. 52-75
+  publisher: Lecture Notes in Computer Science, Springer
+  year: 2010
+  description: 
+  link:
+    url: ../papers/Hermans2010-classdiagrams.pdf
+    display: pdf
+  highlight: 
+
+- title: "Adinda: A Knowledgable, Browser-Based IDE"
+  image: 
+  authors: A. van Deursen, A. Mesbah, B. Cornelissen, A. Zaidman, M. Pinzger, and A. Guzzi
+  proceedings: In Proceedings of the International Conference on Software Engineering, New Ideas and Emerging Results Track (ICSE NIER)
+  pages: pp. 203-206
+  publisher: ACM
+  year: 2010
+  description: 
+  link:
+    url: ../papers/VanDeursen2010-adinda.pdf
+    display: pdf
+  highlight: 
+
+- title: "Predicting the Fix Time of Bugs"
+  image: 
+  authors: E. Giger, M. Pinzger, and H. C. Gall
+  proceedings: In Proceedings of the International Workshop on Recommendation Systems for Software Engineering (RSSE)
+  pages: pp. 52-56
+  publisher: ACM
+  year: 2010
+  description: 
+  link:
+    url: ../papers/Giger2010-fixtime.pdf
+    display: pdf
+  highlight: 
+
+- title: "Software Evolution"
+  image: 
+  authors: A. Zaidman, M. Pinzger, A. van Deursen
+  proceedings: In Encyclopedia of Software Engineering, P. A. Laplante (eds)
+  pages: pp. 1127-1137
+  publisher: Taylor & Francis
+  year: 2010
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Dynamic Analysis of Communication and Collaboration in OSS Projects"
+  image: 
+  authors: M. Pinzger and H. C. Gall
+  proceedings: In Collaborative Software Engineering, I. Mistrík, J. Grundy, A. van der Hoek, J. Whitehead (eds.)
+  pages: pp. 265-284
+  publisher: Springer
+  year: 2010
+  description: 
+  link:
+    url: ../papers/Pinzger2010-collaboration.pdf
+    display: pdf
+  highlight: 
+
+- title: "Change Analysis with Evolizer and ChangeDistiller"
+  image: 
+  authors: H. C. Gall, B. Fluri, and M. Pinzger
+  proceedings: IEEE Software
+  pages: vol. 26, no. 1, pp. 26-33
+  publisher: IEEE
+  year: 2009
+  description: 
+  link:
+    url: ../papers/Gall2009-evolizer.pdf
+    display: pdf
+  highlight: 
+
+- title: "Domain-Specific Languages in Practice: A User Study on the Success Factors"
+  image: 
+  authors: F. Hermans, M. Pinzger, and A. van Deursen
+  proceedings: In Proceedings of the International Conference on Model Driven Engineering Languages and Systems (MODELS)
+  pages: pp. 423-437
+  publisher: Lecture Notes in Computer Science, Springer
+  year: 2009
+  description: 
+  link:
+    url: ../papers/Hermans2009-dsl.pdf
+    display: pdf
+  highlight: 
+
+- title: "Smart Views for Analyzing Problem Reports: Tool Demo"
+  image: 
+  authors: P. Knab, M. Pinzger, and H. C. Gall
+  proceedings: In Proceedings of the European Software Engineering Conference (ESEC) and the ACM SIGSOFT Symposium on the Foundations of Software Engineering (FSE), Tool Demo Track
+  pages: pp. 289-290
+  publisher: ACM
+  year: 2009
+  description: 
+  link:
+    url: ../papers/Knab2009-smartviews.pdf
+    display: pdf
+  highlight: 
+
+- title: "Interactive Views for Analyzing Problem Reports"
+  image: 
+  authors: P. Knab, B. Fluri, M. Pinzger, and H. C. Gall
+  proceedings: In Proceedings of the International Conference on Software Maintenance (ICSM)
+  pages: pp. 527-530
+  publisher: IEEE
+  year: 2009
+  description: 
+  link:
+    url: ../papers/Knab2009-interactiveviews.pdf
+    display: pdf
+  highlight: 
+
+- title: "Using Association Rules to Study the Co-Evolution of Production & Test Code"
+  image: 
+  authors: Z. Lubsen, A. Zaidman, and M. Pinzger
+  proceedings: In Proceedings of the Working Conference on Mining Software Repositories (MSR)
+  pages: pp. 151-154
+  publisher: IEEE
+  year: 2009
+  description: 
+  link:
+    url: ../papers/Lubsen2009-coevolution.pdf
+    display: pdf
+  highlight: 
+
+- title: "Can Developer-Module Networks Predict Failures?"
+  image: 
+  authors: M. Pinzger, N. Nagappan, and B. Murphy
+  proceedings: In Proceedings of the International Symposium on Foundations of Software Engineering (FSE)
+  pages: pp. 2-12
+  publisher: ACM
+  year: 2008
+  description: 
+  link:
+    url: ../papers/Pinzger2008-developers.pdf
+    display: pdf
+  highlight: 
+
+- title: "A Tool for Visual Understanding of Source Code Dependencies"
+  image: 
+  authors: M. Pinzger, K. Gräfenhain, P. Knab, and H. C. Gall
+  proceedings: In Proceedings of the International Conference on Program Comprehension (ICPC)
+  pages: pp. 254-259
+  publisher: IEEE
+  year: 2008
+  description: 
+  link:
+    url: ../papers/Pinzger2008-da4java.pdf
+    display: pdf
+  highlight: 
+
+- title: "Analyzing Software Repositories to Understand Software Evolution"
+  image: 
+  authors: M. D'Ambros, H. C. Gall, M. Lanza, and M. Pinzger
+  proceedings: In Software Evolution, T. Mens and S. Demeyer (eds.)
+  pages: pp. 37-67
+  publisher: Springer
+  year: 2008
+  description: 
+  link:
+    url: ../papers/Dambros2008-evolution.pdf
+    display: pdf
+  highlight: 
+
+- title: "Software Evolution Analysis and Visualization"
+  image: 
+  authors: M. Pinzger, H. C. Gall, and M. Fischer
+  proceedings: In Emerging Methods, Technologies, and Process Management in Software Engineering, A. De Lucia, F. Ferrucci, G. Tortora, M. Tucci (eds.)
+  pages: pp. 177-200
+  publisher: John Wiley & Sons
+  year: 2008
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
+- title: "Change Distilling: Tree Differencing for Fine-Grained Source Code Change Extraction"
+  image: 
+  authors: B. Fluri, M. Würsch, M. Pinzger, and H. C. Gall
+  proceedings: IEEE Transactions on Software Engineering (TSE)
+  pages: vol. 33, no. 11, pp. 725-743
+  publisher: IEEE
+  year: 2007
+  description: 
+  link:
+    url: ../papers/Fluri2007-changedistiller.pdf
+    display: pdf
+  highlight: 
+
+- title: "Quality Assessment Based on Attribute Series of Software Evolution"
+  image: 
+  authors: J. Ratzinger, H. C. Gall, and M. Pinzger
+  proceedings: In Proceedings of the 14th Working Conference on Reverse Engineering (WCRE)
+  pages: pp. 80–89
+  publisher: IEEE
+  year: 2007
+  description: 
+  link:
+    url: ../papers/Ratzinger2007-quality.pdf
+    display: pdf
+  highlight: 
+
+- title: "EQ-Mine: Predicting Short-Term Defects for Software Evolution"
+  image: 
+  authors: J. Ratzinger, M. Pinzger, and H. C. Gall
+  proceedings: In Proceedings of the Fundamental Approaches to Software Engineering (FASE)
+  pages: pp. 12-26
+  publisher: Lecture Notes in Computer Science, Springer
+  year: 2007
+  description: 
+  link:
+    url: ../papers/Ratzinger2007-eqmine.pdf
+    display: pdf
+  highlight: 
+
+- title: "Improving Defect Prediction Using Temporal Features and Non Linear Models"
+  image: 
+  authors: A. Bernstein, J. Ekanayake, and M. Pinzger
+  proceedings: In Proceedings of the International Workshop on Principles of Software Evolution (IWPSE)
+  pages: pp. 11–18
+  publisher: IEEE
+  year: 2007
+  description: 
+  link:
+    url: ../papers/Bernstein2007-nonlinear.pdf
+    display: pdf
+  highlight: 
+
+- title: "\"A Bug’s Life\" Visualizing a Bug Database"
+  image: 
+  authors: M. D’Ambros, M. Lanza, and M. Pinzger
+  proceedings: In Proceedings of the 4th IEEE International Workshop on Visualizing Software for Understanding and Analysis (VisSoft)
+  pages: pp. 113-120
+  publisher: IEEE
+  year: 2007
+  description: 
+  link:
+    url: ../papers/Dambros2007-bugslife.pdf
+    display: pdf
+  highlight: 
+
+- title: "Relation of Code Clones and Change Couplings"
+  image: 
+  authors: R. Geiger, B. Fluri, H. C. Gall, and M. Pinzger
+  proceedings: In Proceedings of the Fundamental Approaches to Software Engineering (FASE)
+  pages: pp. 411-425
+  publisher: Lecture Notes in Computer Science, Springer
+  year: 2006
+  description: 
+  link:
+    url: ../papers/Geiger2006-clones.pdf
+    display: pdf
+  highlight: 
+
+- title: "TA-RE: An Exchange Language for Mining Software Repositories"
+  image: 
+  authors: S. Kim, T. Zimmermann, M. Kim, A. Hassan, A. Mockus, T. Girba, M. Pinzger, E. J. Whitehead, Jr., and A. Zeller
+  proceedings: In Proceedings of the International Workshop on Mining Software Repositories (MSR)
+  pages: pp. 22-25
+  publisher: ACM
+  year: 2006
+  description: 
+  link:
+    url: ../papers/Kim2006-tare.pdf
+    display: pdf
+  highlight: 
+
+- title: "Detecting Similar Java Classes Using Tree Algorithms"
+  image: 
+  authors: T. Sager, A. Bernstein, M. Pinzger, and C. Kiefer
+  proceedings: In Proceedings of the International Workshop on Mining Software Repositories (MSR)
+  pages: pp. 65-71
+  publisher: ACM
+  year: 2006
+  description: 
+  link:
+    url: ../papers/Sager2006-treesimilarity.pdf
+    display: pdf
+  highlight: 
+
+- title: "Predicting Defect Densities in Source Code Files with Decision Tree Learners"
+  image: 
+  authors: P. Knab, M. Pinzger, and A. Bernstein
+  proceedings: In Proceedings of the International Workshop on Mining Software Repositories (MSR)
+  pages: pp. 119-125
+  publisher: ACM
+  year: 2006
+  description: 
+  link:
+    url: ../papers/Knab2006-densities.pdf
+    display: pdf
+  highlight: 
+
+- title: "Towards the Integration of Versioning Systems, Bug Reports and Source Code Meta-Models"
+  image: 
+  authors: G. Antoniol, M. D. Penta, H. Gall, and M. Pinzger
+  proceedings: Electronic Notes in Theoretical Computer Science (ENTCS)
+  pages: vol. 127, no. 3, pp. 87–99
+  publisher: Elsevier
+  year: 2005
+  description: 
+  link:
+    url: ../papers/Antoniol2005-integration.pdf
+    display: pdf
+  highlight: 
+
+- title: "Towards an Integrated View on Architecture and its Evolution"
+  image: 
+  authors: M. Pinzger, M. Fischer, and H. Gall
+  proceedings: Electronic Notes in Theoretical Computer Science (ENTCS)
+  pages: vol. 127, no. 3, pp. 183–196
+  publisher: Elsevier
+  year: 2005
+  description: 
+  link:
+    url: ../papers/Pinzger2005-integration.pdf
+    display: pdf
+  highlight: 
+
+- title: "Asset Recovery and Incorporation into Product Lines"
+  image: 
+  authors: J. Knodel, I. John, D. Ganesan, M. Pinzger, F. Usero, J. L. Arciniegas, and C. Riva
+  proceedings: In Proceedings of the 12th Working Conference on Reverse Engineering (WCRE)
+  pages: pp 120-129
+  publisher: IEEE
+  year: 2005
+  description: 
+  link:
+    url: ../papers/Knodel2005-assets.pdf
+    display: pdf
+  highlight: 
+
+- title: "Visualizing Multiple Evolution Metrics"
+  image: 
+  authors: M. Pinzger, H. C. Gall, M. Fischer, and M. Lanza
+  proceedings: In Proceedings of the ACM Symposium on Software Visualization (SoftVis)
+  pages: pp. 67-75
+  publisher: ACM
+  year: 2005
+  description: 
+  link:
+    url: ../papers/Pinzger2005-kiviats.pdf
+    display: pdf
+  highlight: 
+
+- title: "CodeCrawler - An Information Visualization Tool for Program Comprehension"
+  image: 
+  authors: M. Lanza, S. Ducasse, H. C. Gall, and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Software Engineering (ICSE), Tool Demo Track
+  pages: pp. 672-673
+  publisher: IEEE
+  year: 2005
+  description: 
+  link:
+    url: ../papers/Lanza2005-codecrawler.pdf
+    display: pdf
+  highlight: 
+
+- title: "Fine-Grained Analysis of Change Couplings"
+  image: 
+  authors: B. Fluri, H. C. Gall, and M. Pinzger
+  proceedings: In Proceedings of the 5th International Workshop on Source Code Analysis and Manipulation (SCAM)
+  pages: pp. 66-74
+  publisher: IEEE
+  year: 2005
+  description: 
+  link:
+    url: ../papers/Fluri2005-couplings.pdf
+    display: pdf
+  highlight: 
+
+- title: "Architecture Recovery for Product Families"
+  image: 
+  authors: M. Pinzger, H. C. Gall, J.-F. Girard, J. Knode, C. Riva, W. Pasman, C. Broerse, and J. G. Wijnstra
+  proceedings: In Proceedings of the International Workshop on Product Family Engineering (PFE)
+  pages: pp. 332-351
+  publisher: Lecture Notes in Computer Science, Springer
+  year: 2004
+  description: 
+  link:
+    url: ../papers/Pinzger2004-recovery.pdf
+    display: pdf
+  highlight: 
+
+- title: "Abstracting Module Views from Source Code"
+  image: 
+  authors: M. Pinzger, M. Fischer, M. Jazayeri, and H. C. Gall
+  proceedings: In Proceedings of the International Conference on Software Maintenance (ICSM), Poster Track
+  pages: pp. 533
+  publisher: IEEE
+  year: 2004
+  description: 
+  link:
+    url: ../papers/Pinzger2004-views.pdf
+    display: pdf
+  highlight: 
+
+- title: "TUAnalyzer - Analyzing Templates in C++ Code"
+  image: 
+  authors: T. Gschwind, M. Pinzger, and H. C. Gall
+  proceedings: In Proceedings of the Working Conference on Reverse Engineering (WCRE)
+  pages: pp. 48-57
+  publisher: IEEE
+  year: 2004
+  description: 
+  link:
+    url: ../papers/Gschwind2004-tuanalyzer.pdf
+    display: pdf
+  highlight: 
+
+- title: "Analyzing and Relating Bug Report Data for Feature Tracking"
+  image: 
+  authors: M. Fischer, M. Pinzger, and H. C. Gall
+  proceedings: In Proceedings of the Working Conference on Reverse Engineering (WCRE)
+  pages: pp. 90-99
+  publisher: IEEE
+  year: 2003
+  description: 
+  link:
+    url: ../papers/Fischer2003-tracking.pdf
+    display: pdf
+  highlight: 
+
+- title: "Populating a Release History Database from Version Control and Bug Tracking Systems"
+  image: 
+  authors: M. Fischer, M. Pinzger, and H. C. Gall
+  proceedings: In Proceedings of the International Conference on Software Maintenance (ICSM)
+  pages: pp. 23-32
+  publisher: IEEE
+  year: 2003
+  description: 
+  link:
+    url: ../papers/Fischer2003-rhdb.pdf
+    display: pdf
+  highlight: 
+  award: ICSM 2013 Most Influential Paper award
+
+- title: "Improving Fact Extraction of Framework-Based Software Systems"
+  image: 
+  authors: J. Knodel and M. Pinzger
+  proceedings: In Proceedings of the Working Conference on Reverse Engineering (WCRE)
+  pages: pp.186-195
+  publisher: IEEE
+  year: 2003
+  description: 
+  link:
+    url: ../papers/Knodel2003-extraction.pdf
+    display: pdf
+  highlight: 
+
+- title: "Analyzing and Understanding Architectural Characteristics of COM+ Components"
+  image: 
+  authors: M. Pinzger, J. Oberleitner, and H. C. Gall
+  proceedings: In Proceedings of the International Workshop on Program Comprehension (IWPC)
+  pages: pp. 54-63
+  publisher: IEEE
+  year: 2003
+  description: 
+  link:
+    url: ../papers/Pinzger2004-com.pdf
+    display: pdf
+  highlight: 
+
+- title: "Using Run-Time Data for Program Comprehension"
+  image: 
+  authors: T. Gschwind, J. Oberleitner, and M. Pinzger
+  proceedings: In Proceedings of the International Workshop on Program Comprehension (IWPC)
+  pages: pp. 245-250
+  publisher: IEEE
+  year: 2003
+  description: 
+  link:
+    url: ../papers/Gschwind2003-runtime.pdf
+    display: pdf
+  highlight: 
+
+- title: "Revealer: A lexical Pattern Matcher for Architecture Recovery"
+  image: 
+  authors: M. Pinzger, M. Fischer, H. C. Gall, M. Jazayeri
+  proceedings: In Proceedings of the Working Conference on Reverse Engineering (WCRE)
+  pages: pp. 170-178
+  publisher: IEEE
+  year: 2002
+  description: 
+  link:
+    url: ../papers/Pinzger2002-revealer.pdf
+    display: pdf
+  highlight: 
+
+- title: "Pattern-Supported Architecture Recovery"
+  image: 
+  authors: M. Pinzger and H. C. Gall
+  proceedings: In Proceedings of the International Workshop on Program Comprehension (IWPC)
+  pages: pp. 53-61
+  publisher: IEEE
+  year: 2002
+  description: 
+  link:
+    url: ../papers/Pinzger2002-patterns.pdf
+    display: pdf
+  highlight: 
