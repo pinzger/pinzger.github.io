@@ -14,7 +14,7 @@ permalink: /
 </div>
 <div class="col-sm-7">
 Professor of Software Engineering <br />
-Head of the [Software Engineering Research Group](https://serg.aau.at/) <br />
+[Software Engineering Research Group](https://serg.aau.at/) <br />
 [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/) <br/>
 Universitätsstraße 65-67<br/>
 9020 Klagenfurt, Austria <br />
