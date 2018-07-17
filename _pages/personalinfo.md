@@ -21,18 +21,17 @@ Pfunds ([google map](http://maps.google.com/maps?q=Pfunds)) that is a beautiful 
 </div>
 
 ### Skiing
-Skiing and climbing are my passion. Several years ago my best colleagues and I founded the team called [powderski](http://www.powderski.at/). Since then we have climbed and carved down mountains and north-faces with our skis. The steeper the better!
+Skiing and climbing are my passion. Several years ago my best friends and I founded the team called [powderski](http://www.powderski.at/). Since then we have climbed and carved down mountains and north-faces with our skis. The steeper the better!
 
-For the interested x-treme skier, I highly recommend to read the book over [Heini Holzer "Meine Spur, mein Leben"](http://www.amazon.de/dp/8872831369/ref=as_li_ss_til?tag=powderskiat-21&camp=2906&creative=19474&linkCode=as4&creativeASIN=8872831369&adid=0Y3TZD8S502HXQPE6E6C) (in German). He was the pioneer in skiing steep north-faces.
+For the interested x-skier, I highly recommend to read the book [Heini Holzer "Meine Spur, mein Leben"](http://www.amazon.de/dp/8872831369/ref=as_li_ss_til?tag=powderskiat-21&camp=2906&creative=19474&linkCode=as4&creativeASIN=8872831369&adid=0Y3TZD8S502HXQPE6E6C) (in German). He was the pioneer in skiing steep north-faces - he inspired us a lot.
 
 ### Climbing and Bouldering
 While we were climbing classical routes in the Alps I often spotted impressively beautiful rock walls. Immediately I thought, wouldn't it be awesome to climb these walls. My hands started sweating and I knew I had to do this and started with free and sports climbing.
 
-Areas and Training Centers
 I have been to many beautiful places for climbing in Europe. Several short reports and pictures on our climbing trips are available at [powderski.at](http://www.powderski.at/category/felsklettern/). Below, I added several links to other spots and training centers, which I try to visit regularly.
 
 #### Alps
-There are many beautiful places in the Alps and I still need to discover most of them. Among the many places I have been to, my favorite spots are Grimsel & Furka, and Bergell. All have excellent granite with plenty of multi-pitch routes. Here you can find some impressions from our trip to [Grimsel in 2013](http://www.powderski.at/2013/08/02/grimsel-motoerhead/#more-759) where we climbed some classics, such as the route Motörhead.
+There are many beautiful places in the Alps and I still need to discover many of them. Among the many places I have been to, my favorite spots are Grimsel & Furka and Bergell. All have excellent granite with plenty of multi-pitch routes. Here you can find some impressions from our trip to [Grimsel in 2013](http://www.powderski.at/2013/08/02/grimsel-motoerhead/#more-759) where we climbed some classics, such as the route Motörhead.
 
 #### Climbing in Kaernten and Klagenfurt
 
