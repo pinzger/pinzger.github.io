@@ -8,7 +8,7 @@ permalink: /students/
 
 # PhD and Master Students
 
-I have and had the privilege of supervising a number of PhD and Master students.
+I am having and had the privilege of supervising a number of PhD and Master students.
 
 ### PhD Students
 
@@ -17,7 +17,7 @@ I have and had the privilege of supervising a number of PhD and Master students.
 * [Veit Frick](https://serg.aau.at/bin/view/VeitFrick/WebHome)
 * [Christian Macho](https://mitschi.github.io/)
 * [Giovanni Liva](https://serg.aau.at/bin/view/GiovanniLiva/WebHome)
-* Karin Maria Hodnigg, econob
+* Karin Maria Hodnigg
 
 #### Finished
 
@@ -28,7 +28,7 @@ I have and had the privilege of supervising a number of PhD and Master students.
 * [Felienne Hermans](http://www.felienne.com/), Analyzing and Visualizing Spreadsheets, TU Delft, The Netherlands, defended in January, 2013
 
 #### PhD Committee Memberships
-* [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), University of Lugano
+* [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), University of Lugano, An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, defended in June 2018
 * [Haidar Osman](http://scg.unibe.ch/staff/Osman), University of Bern, Empirically-Grounded Construction of Bug Prediction and Detection Tools, defended in December 2017
 * [Marko Janković](http://si.linkedin.com/in/markojm), Semi-automatic Reconstruction and Continuous Improvement of Software Development Methods, University of Ljubljana
 * [Gerald Ninaus](http://www.iitf.at/ueber-uns/team/gerald-ninaus/), Recommendation Technologies in Requirements Engineering, Technische Universitaet Graz, defended in April 2016
