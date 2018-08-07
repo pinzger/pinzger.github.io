@@ -1,3 +1,16 @@
+- title: "Noise and Heterogeneity in Historical Build Data: An Empirical Study of Travis CI"
+  image: sample_ijm.png
+  authors: K. Gallaba, C. Macho, M. Pinzger, and S. McIntosh 
+  proceedings: In Proceedings of the International Conference on Automated Software Engineering (ASE)
+  pages: to appear
+  publisher: IEEE/ACM
+  year: 2018
+  description: 
+  link:
+    url: http://rebels.ece.mcgill.ca/papers/ase2018_gallaba.pdf
+    display: pdf
+  highlight: 
+
 - title: "Generating Accurate and Compact Edit Scripts Using Tree Differencing"
   image: sample_ijm.png
   authors: V. Frick, T. Grassauer, F. Beck, and M. Pinzger 
