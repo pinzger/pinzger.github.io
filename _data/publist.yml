@@ -32,7 +32,7 @@
   publisher: IEEE
   year: 2018
   description: "A number of approaches and tools exist that extract and visualize the changes between two versions of a file and thereby help developers to understand them. DiffViz is an inter- active visualization tool that visualizes the changes independent from the differencing algorithm. It supports, but is not limited to, a granularity on the level of abstract syntax trees. Furthermore, it provides several new features, such as node matching and the mini-map, to navigate and analyze the changes.
-A demo of the installation and example usage of the tool is available here: https://youtu.be/RF93ey9GYoc"
+A demo of the installation and example usage of the tool is available here: <a href=\"https://youtu.be/RF93ey9GYoc\">https://youtu.be/RF93ey9GYoc</a>"
   link:
     url: ../papers/Frick2018-diffviz.pdf
     display: pdf
