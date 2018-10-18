@@ -1,3 +1,16 @@
+- title: "Exploring Visual Comparison of Multivariate Runtime Statistics"
+  image: 
+  authors: H. Tarner, V. Frick, M. Pinzger, and F. Beck 
+  proceedings: In Proceedings of the Symposium on Software Performance (SSP)
+  pages: to appear
+  publisher: GI Softwaretechnik-Trends
+  year: 2018
+  description: 
+  link:
+    url: 
+    display: 
+  highlight: 
+
 - title: "Noise and Heterogeneity in Historical Build Data: An Empirical Study of Travis CI"
   image: sample_ijm.png
   authors: K. Gallaba, C. Macho, M. Pinzger, and S. McIntosh 
