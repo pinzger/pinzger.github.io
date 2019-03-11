@@ -1,3 +1,16 @@
+- title: "Semantics-Driven Extraction of Timed Automata from Java Programs"
+  image: 
+  authors: G. Liva, M. T. Khan, and M. Pinzger 
+  proceedings: Journal of Empirical Software Engineering (EMSE)
+  pages: to appear
+  publisher: Springer
+  year: 2019
+  description: 
+  link:
+    url: 
+    display: 
+  highlight: 
+
 - title: "Can I Depend on You? Mapping the Dependency and Quality Landscape of ROS Packages"
   image: 
   authors: M. Pichler, B. Dieber, and M. Pinzger 
