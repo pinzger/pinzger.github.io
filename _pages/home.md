@@ -40,3 +40,5 @@ My research interests are in:
 * automating software engineering tasks
 
 I am always on the lookout for PhD and Master Students with strong technical and research skills for doing a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
+
+### I am currently on Sabbatical at [Dynatrace](https://www.dynatrace.com/).
