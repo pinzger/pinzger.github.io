@@ -7,21 +7,21 @@
   year: 2019
   description: 
   link:
-    url: https://link.springer.com/article/10.1007/s10664-019-09699-5
-    display: online
+    url: ../papers/Liva2019-tasext.pdf
+    display: pdf
   highlight: 
 
 - title: "Can I Depend on You? Mapping the Dependency and Quality Landscape of ROS Packages"
   image: 
   authors: M. Pichler, B. Dieber, and M. Pinzger 
   proceedings: In Proceedings of the International Conference on Robotic Computing (IRC)
-  pages: to appear
+  pages: 78-85
   publisher: IEEE
   year: 2019
   description: 
   link:
-    url: 
-    display: 
+    url: ../papers/Pichler2019-rosmap.pdf
+    display: pdf
   highlight: 
   
 - title: "Exploring Visual Comparison of Multivariate Runtime Statistics"
@@ -138,8 +138,8 @@ A demo of the installation and example usage of the tool is available here: <a h
   year: 2018
   description: 
   link:
-    url: https://link.springer.com/article/10.1007/s10664-017-9557-6
-    display: online
+    url: ../papers/Dintzner2018-feverext.pdf
+    display: pdf
   highlight:
 
 - title: "Automatically Repairing Dependency-Related Build Breakage"
