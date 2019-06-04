@@ -8,7 +8,7 @@
   description: 
   link:
     url: https://link.springer.com/article/10.1007/s10664-019-09699-5
-    display: 
+    display: online
   highlight: 
 
 - title: "Can I Depend on You? Mapping the Dependency and Quality Landscape of ROS Packages"
@@ -133,13 +133,13 @@ A demo of the installation and example usage of the tool is available here: <a h
   image: 
   authors: N. Dintzner, A. van Deursen, and M. Pinzger
   proceedings: Journal of Empirical Software Engineering (EMSE)
-  pages: online, pp. 1-48
+  pages: vol. 23, no. 2, pp. 905-952
   publisher: Springer
   year: 2018
   description: 
   link:
     url: https://link.springer.com/article/10.1007/s10664-017-9557-6
-    display: open access
+    display: online
   highlight:
 
 - title: "Automatically Repairing Dependency-Related Build Breakage"
