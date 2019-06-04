@@ -50,6 +50,7 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
+* [SE 2020](http://se20.ocg.at/) - Software Engineering (German)
 * [ICSE 2019 Posters](https://2019.icse-conferences.org/) - International Conference on Software Engineering, Posters Track
 * [MSR 2019](http://2019.msrconf.org/) - Working Conference on Mining Software Repositories
 * [ESEC/FSE 2019](http://esec-fse19.ut.ee/) - Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering

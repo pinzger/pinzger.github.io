@@ -15,21 +15,24 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 #### Ongoing 
 
 * [Veit Frick](https://serg.aau.at/bin/view/VeitFrick/WebHome)
-* [Christian Macho](https://mitschi.github.io/)
 * [Giovanni Liva](https://serg.aau.at/bin/view/GiovanniLiva/WebHome)
 * Karin Maria Hodnigg
 
 #### Finished
 
+* [Christian Macho](https://mitschi.github.io/), Preventing and Repairing Build Breakage, AAU, Austria, defended in May 2019
 * [Stefanie Beyer](https://serg.aau.at/bin/view/StefanieBeyer/WebHome), Identifying Android App Developers’ Challenges through Mining Stack Overflow, AAU, Austria, defended in April 2018
 * [Nicolas Dintzner](http://swerl.tudelft.nl/bin/view/NicolasDintzner/WebHome), Feature-Oriented Evolution of Variant-rich Software Systems TU Delft, The Netherlands, defended in July 2017
 * [Anja Guzzi](http://swerl.tudelft.nl/bin/view/Main/AnjaGuzzi), Supporting Developers’ Teamwork from within the IDE, TU Delft, The Netherlands, defended in March 2015
 * [Daniele Romano](http://swerl.tudelft.nl/bin/view/DanieleRomano/WebHome), Analyzing the Change-Proneness of APIs and Web APIs, TU Delft, The Netherlands, defended in January 2015
 * [Felienne Hermans](http://www.felienne.com/), Analyzing and Visualizing Spreadsheets, TU Delft, The Netherlands, defended in January, 2013
 
-#### PhD Committee Memberships
-* [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), University of Lugano, An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, defended in June 2018
-* [Haidar Osman](http://scg.unibe.ch/staff/Osman), University of Bern, Empirically-Grounded Construction of Bug Prediction and Detection Tools, defended in December 2017
+#### PhD Committee Memberships / Reviewer
+* [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano
+* Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen
+* Fiorella Zampetti, Studying and Supporting Developers’ Activities in Continuous Delivery Pipelines, University of Sannio
+* [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, University of Lugano, defended in June 2018
+* [Haidar Osman](http://scg.unibe.ch/staff/Osman), Empirically-Grounded Construction of Bug Prediction and Detection Tools, University of Bern, defended in December 2017
 * [Marko Janković](http://si.linkedin.com/in/markojm), Semi-automatic Reconstruction and Continuous Improvement of Software Development Methods, University of Ljubljana
 * [Gerald Ninaus](http://www.iitf.at/ueber-uns/team/gerald-ninaus/), Recommendation Technologies in Requirements Engineering, Technische Universitaet Graz, defended in April 2016
 * [Jaechang Nam](http://www.cse.ust.hk/~jcnam/), Defect Prediction on Unlabeled Software Datasets, Hong Kong University of Science and Technology, defended in July 2015
