@@ -29,7 +29,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### PhD Committee Memberships / Reviewer
 * [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano
-* Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen
+* Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen, defended in June 2019
 * Fiorella Zampetti, Studying and Supporting Developers’ Activities in Continuous Delivery Pipelines, University of Sannio
 * [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, University of Lugano, defended in June 2018
 * [Haidar Osman](http://scg.unibe.ch/staff/Osman), Empirically-Grounded Construction of Bug Prediction and Detection Tools, University of Bern, defended in December 2017
@@ -44,11 +44,11 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing
 
-* Karin Wagner
 * Guido Breitenhuber
 
 #### Finished
 
+* Karin Wagner, Closing the Gap between Firmware Development and Integrated Test Development, June 2019
 * Thomas Grassauer, Studying Co-Evolution of Production and Test Code in .NET Open Source Projects, October 2016
 * Kavitha Shanmugam, Evolution of Custom SAP Applications (together with Infineon), September 2014
 * Jelle Fresen, Analyzing web applications by visualizing their state-flow graphs (together with Andy Zaidman), October 2013

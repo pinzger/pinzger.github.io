@@ -31,8 +31,9 @@ permalink: /service/
 * [MSR 2006](http://msr.uwaterloo.ca/challenge/) Mining Challenge Chair
 
 ### Steering Committees
-* International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2017 -- present
-* Working Conference on Mining Software Repositories (MSR), 2014 -- present
+* Chair of the steering committee of the International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2019 -- present, 
+* International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2017 -- present, 
+* Working Conference on Mining Software Repositories (MSR), 2014 -- 2018
 
 ### Editorial-Boards
 * Associate Editor for the Elsevier [Journal of Systems & Software](https://www.journals.elsevier.com/journal-of-systems-and-software), 2017 -- present

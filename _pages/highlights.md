@@ -8,6 +8,7 @@ permalink: /highlights/
 
 # Professional Highlights
 
+* **2019**: Chair of the steering committee of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER)
 * **2017**: Elevated to IEEE Senior Member
 * **2017**: General chair of the 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering ([SANER 2017](http://saner.aau.at/)), Klagenfurt, Austria.
 * **2015**: Appointed permanent full professor of software engineering at the [Department for Informatics Systems](https://www.aau.at/en/isys/), [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/)
