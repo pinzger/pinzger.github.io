@@ -1,3 +1,16 @@
+- title: "What kind of questions do developers ask on Stack Overflow? A comparison of automated approaches to classify posts into question categories"
+  image: 
+  authors: S. Beyer, C. Macho, M. Di Penta, and M. Pinzger 
+  proceedings: Journal of Empirical Software Engineering (EMSE)
+  pages: to appear
+  publisher: Springer
+  year: 2019
+  description: 
+  link:
+    url: 
+    display: pdf
+  highlight: 
+
 - title: "Semantics-Driven Extraction of Timed Automata from Java Programs"
   image: 
   authors: G. Liva, M. T. Khan, and M. Pinzger 
