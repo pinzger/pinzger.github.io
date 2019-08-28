@@ -14,14 +14,15 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing 
 
-* [Veit Frick](https://serg.aau.at/bin/view/VeitFrick/WebHome)
-* [Giovanni Liva](https://serg.aau.at/bin/view/GiovanniLiva/WebHome)
-* Karin Maria Hodnigg
+* [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/)
+* [Giovanni Liva](https://www.aau.at/en/isys/serg/team/liva-giovanni/)
+* [Karin Maria Hodnigg](https://www.aau.at/en/isys/serg/team/hodnigg-karin/)
+* Patrick Kubiak, Volkswagen Financial Services Digital Solutions GmbH
 
 #### Finished
 
 * [Christian Macho](https://mitschi.github.io/), Preventing and Repairing Build Breakage, AAU, Austria, defended in May 2019
-* [Stefanie Beyer](https://serg.aau.at/bin/view/StefanieBeyer/WebHome), Identifying Android App Developers’ Challenges through Mining Stack Overflow, AAU, Austria, defended in April 2018
+* [Stefanie Beyer](https://www.aau.at/en/isys/serg/team/beyer-stefanie/), Identifying Android App Developers’ Challenges through Mining Stack Overflow, AAU, Austria, defended in April 2018
 * [Nicolas Dintzner](http://swerl.tudelft.nl/bin/view/NicolasDintzner/WebHome), Feature-Oriented Evolution of Variant-rich Software Systems TU Delft, The Netherlands, defended in July 2017
 * [Anja Guzzi](http://swerl.tudelft.nl/bin/view/Main/AnjaGuzzi), Supporting Developers’ Teamwork from within the IDE, TU Delft, The Netherlands, defended in March 2015
 * [Daniele Romano](http://swerl.tudelft.nl/bin/view/DanieleRomano/WebHome), Analyzing the Change-Proneness of APIs and Web APIs, TU Delft, The Netherlands, defended in January 2015
@@ -29,6 +30,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### PhD Committee Memberships / Reviewer
 * [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano
+* [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart
 * Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen, defended in June 2019
 * Fiorella Zampetti, Studying and Supporting Developers’ Activities in Continuous Delivery Pipelines, University of Sannio
 * [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, University of Lugano, defended in June 2018
