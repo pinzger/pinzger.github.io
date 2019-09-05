@@ -51,14 +51,16 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
+* [MSR 2020](http://2020.msrconf.org/) - International Conference on Mining Software Repositories
+* [SANER 2020](https://saner2020.csd.uwo.ca) - International Conference on Software Analysis, Evolution, and Reengineering
 * [SE 2020](http://se20.ocg.at/) - Software Engineering (German)
 * [ICSE 2019 Posters](https://2019.icse-conferences.org/) - International Conference on Software Engineering, Posters Track
-* [MSR 2019](http://2019.msrconf.org/) - Working Conference on Mining Software Repositories
+* [MSR 2019](http://2019.msrconf.org/) - International Conference on Mining Software Repositories
 * [ESEC/FSE 2019](http://esec-fse19.ut.ee/) - Joint Meeting of the European Software Engineering Conference and the ACM SIGSOFT Symposium on the Foundations of Software Engineering
 * [SANER 2019](https://saner2019.github.io/) - International Conference on Software Analysis, Evolution, and Reengineering
 * [ICSME 2018](https://icsme2018.github.io/) - International Conference on Software Maintenance and Evolution
 * [ICPC 2018](https://conf.researchr.org/home/icpc-2018) ERA - International Conference on Program Comprehension, Early Research Achievement
-* [MSR 2018](http://2018.msrconf.org/) - Working Conference on Mining Software Repositories
+* [MSR 2018](http://2018.msrconf.org/) - International Conference on Mining Software Repositories
 * [SANER 2018](http://saner.unimol.it/) - International Conference on Software Analysis, Evolution, and Reengineering
 * [ICSME 2017](https://icsme2017.github.io/) - International Conference on Software Maintenance and Evolution
 * [ASE 2017](http://www.ase2017.org/) - International Conference on Automated Software Engineering
