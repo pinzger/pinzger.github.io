@@ -27,7 +27,7 @@ For the [full list of publications](#full-list) see below or check my profile on
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
+  {% if publi.image != %} <img src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" /> {% endif %}
   <p>{{ publi.description }}</p>
   <p>{{ publi.authors }} {% if publi.link.url != %}(<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>){% endif %}</p>
  </div>
