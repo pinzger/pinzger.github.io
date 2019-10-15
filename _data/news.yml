@@ -1,3 +1,9 @@
+- date: <strong>October 2019</strong>
+  headline: "Our paper <strong>Automatic Repair of Timestamp Comparisons</strong> has been accepted for publication in the IEEE journal Transactions on Software Engineering."
+
+- date: <strong>September 2019</strong>
+  headline: "Co-organizing the 1st International Workshop on Engineering Resilient Robot Software Systems (<a href=\"https://www.erross.org/\">ERRoSS</a>) co-located with <a href=\"http://irc.asia.edu.tw/2020\">IRC 2020</a>."
+
 - date: <strong>September 2019</strong>
   headline: "Joined the PC of <a href=\"http://2020.msrconf.org/\">MSR 2020</a> co-located with ICSE in Seoul, South Korea."
 
@@ -11,7 +17,7 @@
   headline: "I will give a seminar on \"Mining and Analyzing Source Code Changes\" at the <a href=\"https://siesta.si.usi.ch/2019/\">SIESTA 2019 International Summer School on Software Engineering</a> in Termoli, Italy."
   
 - date: <strong>July 2019</strong>
-  headline: "Our paper <strong>What kind of questions do developers ask on Stack Overflow? A comparison of automated approaches to classify posts into question categories</strong> has been accepted for publication in the journal Empirical Software Engineering."
+  headline: "Our paper <strong>What kind of questions do developers ask on Stack Overflow? A comparison of automated approaches to classify posts into question categories</strong> has been accepted for publication in the Springer journal Empirical Software Engineering."
 
 - date: <strong>May 2019</strong>
   headline: "<a href=\"https://mitschi.github.io/\">Christian Macho</a> successfully defended his PhD Thesis \"Preventing and Repairing Build Breakage\". Well done Christian!!!"

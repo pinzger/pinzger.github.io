@@ -40,3 +40,5 @@ My research interests are in:
 * automating software engineering tasks
 
 I am always on the lookout for PhD and Master Students with strong technical and research skills for doing a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
+
+I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). We welcome submissions of research, work-in-progress, lessons learned, and vision papers.
