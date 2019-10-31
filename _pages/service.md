@@ -20,6 +20,7 @@ permalink: /service/
 * [WCRE 2010](http://web.soccerlab.polymtl.ca/wcre2010/) Program Co-Chair
 
 ### Co-Organizer
+* [VST 2020](http://vst2020.scch.at/) Co-Organizer
 * [ERRoSS 2020](https://www.erross.org/) Co-Organizer
 * [ICPC 2017](http://icpc2017.unibas.it/) ERA track Co-Chair
 * [FSE 2014](http://fse22.gatech.edu/) Publicity Co-Chair
@@ -32,8 +33,8 @@ permalink: /service/
 * [MSR 2006](http://msr.uwaterloo.ca/challenge/) Mining Challenge Chair
 
 ### Steering Committees
-* Chair of the steering committee of the International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2019 -- present, 
-* International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2017 -- present, 
+* Chair of the steering committee of the International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2019 -- present 
+* International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2017 -- present 
 * Working Conference on Mining Software Repositories (MSR), 2014 -- 2018
 
 ### Editorial-Boards
