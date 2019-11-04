@@ -17,7 +17,7 @@ permalink: /highlights/
 * **2014**, 2015: Program co-chair of the Working Conference on Mining Software Repositories ([MSR 2014](http://2014.msrconf.org/), [MSR 2015](http://2015.msrconf.org/))
 * **2013**: Winner of the [ICSM 2013 Most Influential Paper (MIP) Award](http://icsm2013.tue.nl/AwardWinners/index.html), together with Michael Fischer and Harald C. Gall for our work on the release history database
 * **2013**: Winner of the [ICSE 2013 Distinguished Paper Award](http://2013.icse-conferences.org/content/icse2013-awards.html), together with Felienne Hermans, Ben Sedee, and Arie van Deursen for our work on data clone detection in spreadsheets
-* **2013**: Inaugural lecture at the [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/), covering the [challenges of a knowledgeable software engineer](http://serg.aau.at/bin/view/MartinPinzger/InaugurationLecture) (see also article in [TT](http://mobileapps.tt.com/panorama/gesellschaft/7570438-91/pfundser-an-universit%C3%A4t-berufen.csp) and [Uni News](http://www.uni-klu.ac.at/main/inhalt/uninews_42162.htm))
+* **2013**: Inaugural lecture at the [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/), covering the challenges of a knowledgeable software engineer (see also article in [TT](http://mobileapps.tt.com/panorama/gesellschaft/7570438-91/pfundser-an-universit%C3%A4t-berufen.csp) and [Uni News](http://www.uni-klu.ac.at/main/inhalt/uninews_42162.htm))
 * **2013**: Appointed full professor of software engineering at the [Department for Informatics Systems](https://www.aau.at/en/isys/), [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/)
 * **2012**: Winner of an [NWO Vidi](http://www.nwo.nl/en/news-and-events/news/2012/NWO+awards+Vidi+grants+to+94+top+researchers.html) individual research grant from The Netherlands Organisation for Scientific Research (NWO)
 * **2012**: Received tenure from the [Delft University of Technology](http://www.tudelft.nl/)
@@ -26,7 +26,7 @@ permalink: /highlights/
 * **2008**: Appointed assistant professor at the [Department of Software Technology](http://www.st.ewi.tudelft.nl/), Delft University of Technology
 * **2007**: Visiting researcher in the [Empirical Software Engineering Group](http://research.microsoft.com/en-us/groups/ese/) at Microsoft Research in Redmond, USA investigating the relationship between developer contribution structure and failure-proneness
 * **2005**: Appointed senior research associate in the [software evolution and architecture lab](http://www.ifi.uzh.ch/seal) at University of Zurich
-* **2005**: PhD (Dr. techn.) from the Vienna University of Technology for the research [ArchView - Analyzing Evolutionary Aspects of Complex Software Systems](http://serg.aau.at/pub/MartinPinzger/Publications/pinzger_phdthesis05.pdf) supervised by [Harald C. Gall](http://www.ifi.uzh.ch/seal/people/gall.html) and [Mehdi Jazayeri](http://www.inf.usi.ch/faculty/jazayeri/)
+* **2005**: PhD (Dr. techn.) from the Vienna University of Technology for the research [ArchView - Analyzing Evolutionary Aspects of Complex Software Systems](https://pinzger.github.io/papers/Pinzger2005-phdthesis.pdf) supervised by [Harald C. Gall](http://www.ifi.uzh.ch/seal/people/gall.html) and [Mehdi Jazayeri](http://www.inf.usi.ch/faculty/jazayeri/)
 
 
 
