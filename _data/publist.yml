@@ -1,14 +1,28 @@
+- title: "Verifying Temporal Specifications of Java Programs"
+  image: 
+  authors: F. Spegni, and L. Spalazzi, G. Liva, M. Pinzger, and A. Bollin 
+  proceedings: Software Quality Journal (SQJ)
+  pages: to appear
+  publisher: Springer
+  year: 2019
+  description: 
+  link:
+    url: 
+    display: 
+  highlight: 
+
+
 - title: "Automatic Repair of Timestamp Comparisons"
   image: tsrepair.png
   authors: G. Liva, M. T. Khan, M. Pinzger, F. Spegni, and L. Spalazzi 
   proceedings: IEEE Transactions on Software Engineering (TSE)
-  pages: to appear
+  pages: online
   publisher: IEEE
   year: 2019
   description: "We propose a new strategy to automatically repair programs that suffer from timestamp overflows that are manifested in comparison expressions. It unifies the benefits of static analysis and automatic program repair avoiding dependency on testing to identify and correct defected code. Our approach performs an abstract analysis over the time domain of a program using a Time Type System to identify the problematic comparison expressions. The repairing strategy rewrites the timestamp comparisons exploiting the binary representation of machine numbers to correct the code. We have validated the applicability of our approach with 20 open source Java projects. The results show that it is able to correctly repair all 246 identified errors. To further validate the reliability of our approach, we have proved the soundness of both, type system and repairing strategy. Furthermore, several patches for three open source projects have been acknowledged and accepted by their developers" 
   link:
-    url: 
-    display: 
+    url: ../papers/Liva2019-repair.pdf
+    display: pdf
   highlight: 1
 
 
@@ -16,7 +30,7 @@
   image: 
   authors: S. Beyer, C. Macho, M. Di Penta, and M. Pinzger 
   proceedings: Journal of Empirical Software Engineering (EMSE)
-  pages: to appear
+  pages: online
   publisher: Springer
   year: 2019
   description: "On question and answer sites, such as Stack Overflow (SO), developers use tags to label the content of a post and to support developers in question searching and browsing. However, these tags mainly refer to technological aspects instead of the purpose of the question. Tagging questions with their purpose can add a new dimension to the identification of discussed topics in posts on SO. In this paper, we aim at automating the classification of SO question posts into seven question categories. As a first step, we harmonized existing taxonomies of question categories and then, we manually classified 1,000 SO questions according to our new taxonomy. We then use this data set to automate the classification of posts using two approaches. The results show that using the regular expression approach, we can classify posts into the correct question category with an average precision and recall of 0.90, and an MCC of 0.68." 
@@ -29,7 +43,7 @@
   image: 
   authors: G. Liva, M. T. Khan, and M. Pinzger 
   proceedings: Journal of Empirical Software Engineering (EMSE)
-  pages: online
+  pages: vol. 24, no. 5, pp. 3114–3150
   publisher: Springer
   year: 2019
   description: 

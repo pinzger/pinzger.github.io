@@ -15,12 +15,12 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 #### Ongoing 
 
 * [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/)
-* [Giovanni Liva](https://www.aau.at/en/isys/serg/team/liva-giovanni/)
 * [Karin Maria Hodnigg](https://www.aau.at/en/isys/serg/team/hodnigg-karin/)
 * Patrick Kubiak, Volkswagen Financial Services Digital Solutions GmbH
 
 #### Finished
 
+* [Giovanni Liva](https://thisthat.github.io/), Formal Analysis & Verification of Timed Programs, AAU, Austria, defended in November 2019
 * [Christian Macho](https://mitschi.github.io/), Preventing and Repairing Build Breakage, AAU, Austria, defended in May 2019
 * [Stefanie Beyer](https://www.aau.at/en/isys/serg/team/beyer-stefanie/), Identifying Android App Developers’ Challenges through Mining Stack Overflow, AAU, Austria, defended in April 2018
 * [Nicolas Dintzner](http://swerl.tudelft.nl/bin/view/NicolasDintzner/WebHome), Feature-Oriented Evolution of Variant-rich Software Systems TU Delft, The Netherlands, defended in July 2017
@@ -30,7 +30,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### PhD Committee Memberships / Reviewer
 * [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano
-* [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart
+* [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart, defended in November 2019
 * Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen, defended in June 2019
 * Fiorella Zampetti, Studying and Supporting Developers’ Activities in Continuous Delivery Pipelines, University of Sannio
 * [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, University of Lugano, defended in June 2018
