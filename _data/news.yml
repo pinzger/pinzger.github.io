@@ -1,3 +1,9 @@
+- date: <strong>January 2020</strong>
+  headline: "Our short paper <strong>Data-driven Robot Introspection</strong> has been accepted at <a href=\"http://irc.asia.edu.tw/2020\">IRC 2020</a> in Taichung, Taiwan."
+
+- date: <strong>December 2019</strong>
+  headline: "Our paper <strong>Leveraging Machine Learning for Software Redocumentation</strong> has been accepted for publication in the <a href=\"https://saner2020.csd.uwo.ca/\">SANER 2020</a>, Industrial track."
+
 - date: <strong>November 2019</strong>
   headline: "Our paper <strong>Verifying Temporal Specifications of Java Programs</strong> has been accepted for publication in the Springer Software Quality Journal."
 
@@ -35,7 +41,7 @@
   headline: "Our paper <strong>Semantics-Driven Extraction of Timed Automata from Java Programs</strong> has been accepted for publication in the journal Empirical Software Engineering."
 
 - date: <strong>December 2018</strong>
-  headline: "Our paper <strong>Can I Depend on You? Mapping the Dependency and Quality Landscape of ROS Packages</strong> has been accepted at <a href=\"http://irc.asia.edu.tw/2019/\">IRC 2018</a> in Naples, Italy."
+  headline: "Our paper <strong>Can I Depend on You? Mapping the Dependency and Quality Landscape of ROS Packages</strong> has been accepted at <a href=\"http://irc.asia.edu.tw/2019/\">IRC 2019</a> in Naples, Italy."
 
 - date: <strong>October 2018</strong>
   headline: "Our paper <strong>Exploring Visual Comparison of Multivariate Runtime Statistics</strong> has been accepted at <a href=\"http://www.performance-symposium.org/2018/\">SSP 2018</a> in Hildesheim, Germany."
