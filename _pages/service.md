@@ -54,8 +54,9 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
-* [ICSE 2020 ACM SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition) - International Conference on Software Engineering, ACM
-Student Research Competition
+* [ICSME 2020](https://icsme2020.github.io/) - International Conference on Software Maintenance and Evolution
+* [ICSE 2021](https://conf.researchr.org/home/icse-2021) - International Conference on Software Engineering
+* [ICSE 2020 ACM SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition) - International Conference on Software Engineering, ACM Student Research Competition
 * [MSR 2020](http://2020.msrconf.org/) - International Conference on Mining Software Repositories
 * [SANER 2020](https://saner2020.csd.uwo.ca) - International Conference on Software Analysis, Evolution, and Reengineering
 * [SE 2020](http://se20.ocg.at/) - Software Engineering (German)

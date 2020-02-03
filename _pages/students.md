@@ -17,6 +17,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 * [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/)
 * [Karin Maria Hodnigg](https://www.aau.at/en/isys/serg/team/hodnigg-karin/)
 * Patrick Kubiak, Volkswagen Financial Services Digital Solutions GmbH
+* [Dr. Bernhard Dieber](https://www.joanneum.at/robotics/das-institut/team/detail/employee/dieber/), Joanneum Research
 
 #### Finished
 
@@ -35,7 +36,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 * Fiorella Zampetti, Studying and Supporting Developers’ Activities in Continuous Delivery Pipelines, University of Sannio
 * [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, University of Lugano, defended in June 2018
 * [Haidar Osman](http://scg.unibe.ch/staff/Osman), Empirically-Grounded Construction of Bug Prediction and Detection Tools, University of Bern, defended in December 2017
-* [Marko Janković](http://si.linkedin.com/in/markojm), Semi-automatic Reconstruction and Continuous Improvement of Software Development Methods, University of Ljubljana
+* [Marko Janković](http://si.linkedin.com/in/markojm), Semi-automatic Reconstruction and Documentation of Software Development Methods, University of Ljubljana, defended in January 2020
 * [Gerald Ninaus](http://www.iitf.at/ueber-uns/team/gerald-ninaus/), Recommendation Technologies in Requirements Engineering, Technische Universitaet Graz, defended in April 2016
 * [Jaechang Nam](http://www.cse.ust.hk/~jcnam/), Defect Prediction on Unlabeled Software Datasets, Hong Kong University of Science and Technology, defended in July 2015
 * [Fehmi Jaafar](https://sites.google.com/site/fehmijaafar/), Analyzing Artefacts Dependencies to Evolving Software Systems, University of Montreal, defended in December 2013
@@ -47,6 +48,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 #### Ongoing
 
 * Guido Breitenhuber
+* Kevin van Dommele
 
 #### Finished
 
