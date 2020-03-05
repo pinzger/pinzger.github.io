@@ -33,8 +33,8 @@ permalink: /service/
 * [MSR 2006](http://msr.uwaterloo.ca/challenge/) Mining Challenge Chair
 
 ### Steering Committees
-* Chair of the steering committee of the International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2019 -- present 
-* International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2017 -- present 
+* Chair of the steering committee of the International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2019 -- 2020 
+* International Conference on Software Analysis, Evolution, and Reengineering (SANER), 2017 -- 2020 
 * Working Conference on Mining Software Repositories (MSR), 2014 -- 2018
 
 ### Editorial-Boards
@@ -54,8 +54,8 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
-* [ICSME 2020](https://icsme2020.github.io/) - International Conference on Software Maintenance and Evolution
 * [ICSE 2021](https://conf.researchr.org/home/icse-2021) - International Conference on Software Engineering
+* [ICSME 2020](https://icsme2020.github.io/) - International Conference on Software Maintenance and Evolution
 * [ICSE 2020 ACM SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition) - International Conference on Software Engineering, ACM Student Research Competition
 * [MSR 2020](http://2020.msrconf.org/) - International Conference on Mining Software Repositories
 * [SANER 2020](https://saner2020.csd.uwo.ca) - International Conference on Software Analysis, Evolution, and Reengineering

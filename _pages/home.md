@@ -41,6 +41,5 @@ My research interests are in:
 
 I am always on the lookout for PhD and Master Students with strong technical and research skills for doing a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
 
-I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). We welcome submissions of research, work-in-progress, lessons learned, and vision papers.
+I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). We welcome submissions of research, work-in-progress, lessons learned, and vision papers. **Note, due to the Coronavirus, IRC 2020 and ERRoSS 2020 have been postponed.** 
 
-And, I am co-organizing the [3rd Workshop on Validation, Analysis and Evolution of Software Tests](http://vst2020.scch.at/) (VST) co-located with [SANER 2020](https://saner2020.csd.uwo.ca/). We welcome submissions of research, position, and tool demo papers.

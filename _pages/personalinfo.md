@@ -8,18 +8,6 @@ permalink: /personalinfo/
 
 # Personal Info
 
-### I am from...
-Pfunds ([google map](http://maps.google.com/maps?q=Pfunds)) that is a beautiful village in the western part of Tyrol, Austria.
-
-<div class="row">
-<div class="col-sm-1">
-[<img src="{{ site.url }}{{ site.baseurl }}/images/Wappen-Pfunds.gif" alt="Wappen-Pfunds.gif" width="50" height="62" />](http://www.pfunds.at/)
-</div>
-<div class="col-sm-1">
-[<img src="{{ site.url }}{{ site.baseurl }}/images/Tirol-Logo.gif" alt="Tirol-Logo.gif" width="100" height="40" />](https://www.tirol.gv.at/)
-</div>
-</div>
-
 ### Skiing
 Skiing and climbing are my passion. Several years ago my best friends and I founded the team called [powderski](http://www.powderski.at/). Since then we have climbed and carved down mountains and north-faces with our skis. The steeper the better!
 
