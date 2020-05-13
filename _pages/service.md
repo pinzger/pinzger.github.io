@@ -54,6 +54,7 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
+* [SWQD 2021](https://https://www.software-quality-days.com/en/) - Software Quality Days
 * [ICSE 2021](https://conf.researchr.org/home/icse-2021) - International Conference on Software Engineering
 * [ICSME 2020](https://icsme2020.github.io/) - International Conference on Software Maintenance and Evolution
 * [ICSE 2020 ACM SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition) - International Conference on Software Engineering, ACM Student Research Competition
