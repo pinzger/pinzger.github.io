@@ -15,9 +15,10 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 #### Ongoing 
 
 * [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/)
-* [Karin Maria Hodnigg](https://www.aau.at/en/isys/serg/team/hodnigg-karin/)
-* Patrick Kubiak, Volkswagen Financial Services Digital Solutions GmbH
+* [Karin Maria Hodnigg](https://www.aau.at/en/isys/serg/team/hodnigg-karin/) (co-supervised with Dietmar Jannach)
+* Patrick Kubiak, Volkswagen Financial Services Digital Solutions GmbH (co-supervised with Stefan Rass)
 * [Dr. Bernhard Dieber](https://www.joanneum.at/robotics/das-institut/team/detail/employee/dieber/), Joanneum Research
+* [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), Alias Robotics (co-supervised with Stefan Rass)
 
 #### Finished
 
