@@ -21,7 +21,7 @@
   description: 
   link:
     url: ../papers/Geist2020-redocu.pdf
-    display: 
+    display: pdf
   highlight: 
 
 - title: "Verifying Temporal Specifications of Java Programs"
@@ -34,7 +34,7 @@
   description: 
   link:
     url: ../papers/Spegni2020-verifying.pdf
-    display: 
+    display: pdf
   highlight: 
 
 - title: "Automatic Repair of Timestamp Comparisons"
