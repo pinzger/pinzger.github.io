@@ -15,12 +15,12 @@
   image: 
   authors: V. Geist, M. Moser, J. Pichler, S. Beyer, and M. Pinzger
   proceedings: In Proceedings of the International Conference on Software Analysis, Evolution and Reengineering (SANER), Industrial Track
-  pages: to appear
+  pages: pp. 622-626
   publisher: IEEE
   year: 2020
   description: 
   link:
-    url: 
+    url: ../papers/Geist2020-redocu.pdf
     display: 
   highlight: 
 
@@ -28,12 +28,12 @@
   image: 
   authors: F. Spegni, L. Spalazzi, G. Liva, M. Pinzger, and A. Bollin 
   proceedings: Software Quality Journal (SQJ)
-  pages: to appear
+  pages: Open Access
   publisher: Springer
-  year: 2019
+  year: 2020
   description: 
   link:
-    url: 
+    url: ../papers/Spegni2020-verifying.pdf
     display: 
   highlight: 
 
@@ -54,9 +54,9 @@
   image: 
   authors: S. Beyer, C. Macho, M. Di Penta, and M. Pinzger 
   proceedings: Journal of Empirical Software Engineering (EMSE)
-  pages: online
+  pages: vol. 25, pp.2258-2301
   publisher: Springer
-  year: 2019
+  year: 2020
   description: "On question and answer sites, such as Stack Overflow (SO), developers use tags to label the content of a post and to support developers in question searching and browsing. However, these tags mainly refer to technological aspects instead of the purpose of the question. Tagging questions with their purpose can add a new dimension to the identification of discussed topics in posts on SO. In this paper, we aim at automating the classification of SO question posts into seven question categories. As a first step, we harmonized existing taxonomies of question categories and then, we manually classified 1,000 SO questions according to our new taxonomy. We then use this data set to automate the classification of posts using two approaches. The results show that using the regular expression approach, we can classify posts into the correct question category with an average precision and recall of 0.90, and an MCC of 0.68." 
   link:
     url: ../papers/Beyer2019-questions.pdf
