@@ -1,3 +1,16 @@
+- title: "IT-Application Behaviour Analysis: Predicting Critical System States on OpenStack using Monitoring Performance Data and Log Files"
+  image: 
+  authors: P. Kubiak, S. Rass, and M. Pinzger
+  proceedings: In Proceedings of the International Conference on Software Technologies (ICST)
+  pages: pp. 589-596
+  publisher: SciTePress
+  year: 2020
+  description: 
+  link:
+    url: ../papers/Kubiak2020-itm.pdf
+    display: pdf
+  highlight: 
+
 - title: "Data-driven Robot Introspection"
   image: 
   authors: B. Dieber, S. Taurer, T. Haspl, M. Pichler, and M. Pinzger
