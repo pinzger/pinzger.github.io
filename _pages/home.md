@@ -45,5 +45,5 @@ I am always on the lookout for PhD and Master Students with strong technical and
 I am looking for a PhD student to work on analyzing and preventing vulnerabilities in robotic systems (DevSafe) in the [SEEROSE](https://www.aau.at/forschung/forschungsprofil/karl-popper-kolleg/seerose/) project. For more information see the [DevSafe job announcement](https://jobs.aau.at/en/job/pre-doc-scientist-f-m-d-software-engineering/). The deadline for submitting your application is **September 30th, 2020**.
 
 #### ERRoSS
-I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). We welcome submissions of research, work-in-progress, lessons learned, and vision papers. **Note, due to the Coronavirus, IRC 2020 and ERRoSS 2020 have been postponed.** 
+I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). We welcome submissions of research, work-in-progress, lessons learned, and vision papers. Note, due to the Coronavirus, IRC 2020 and ERRoSS 2020 have been moved to **November 9-11th, 2020**. They will go fully virtual. 
 
