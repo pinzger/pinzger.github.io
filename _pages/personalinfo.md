@@ -8,6 +8,8 @@ permalink: /personalinfo/
 
 # Personal Info
 
+We have three beautiful and very active kids that keep me and my wife Maria busy: Fabian, Julian and Florian. I try to spend most of my free time with them and I look forward to go hiking, skiing, and climbing with them.
+
 ### Skiing
 Skiing and climbing are my passion. Several years ago my best friends and I founded the team called [powderski](http://www.powderski.at/). Since then we have climbed and carved down mountains and north-faces with our skis. The steeper the better!
 
