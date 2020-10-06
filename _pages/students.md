@@ -48,8 +48,11 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing
 
-* Guido Breitenhuber
-* Kevin van Dommele
+* Guido Breitenhuber, Joanneum Research
+* Kevin van Dommele, Infineon
+* Christoph Wedenig, Dynatrace
+* Andreas Tscheinig, Dynatrace
+* Christof Bachmann, AAU-ZID
 
 #### Finished
 
