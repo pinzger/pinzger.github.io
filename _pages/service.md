@@ -42,7 +42,7 @@ permalink: /service/
 * Associate Editor for the Elsevier [Journal of Systems & Software](https://www.journals.elsevier.com/journal-of-systems-and-software), 2017 -- present
 
 ### Keynotes and Invited Talks
-* Mining and Analyzing Source Code Changes, [ASQT 2020](http://www.asqt.org/) 
+* Mining and Analyzing Source Code Changes, [ASQT 2020](http://www.asqt.org/) ([slides](../papers/Pinzger2020-ASQT.pdf))
 * Mining and Analyzing Source Code Changes, International Summer School on Software Engineering, [SIESTA 2019](https://siesta.si.usi.ch/2019/)  ([slides](../papers/Pinzger2019-Siesta.pdf))
 * A Tale of Bug Prediction in Software Development, CHAQ Steering Board Meeting 2016 ([slides](http://www.slideshare.net/pinzger/a-tale-of-experiments-on-bug-prediction-57948413))
 * Analyzing Changes in Software Systems: From ChangeDistiller to FMDiff, [SATToSE 2015](http://sattose.org/2015) ([slides](http://www.slideshare.net/pinzger/sat-to-se2015keynote))
