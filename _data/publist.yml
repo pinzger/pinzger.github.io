@@ -1,3 +1,16 @@
+- title: "Runtime Protection of Real-time Critical Control Applications against Known Threats"
+  image: 
+  authors: M. T. Khan, M. Pinzger, D. Serpanos, and H. Shrobe
+  proceedings: IEEE Design & Test
+  pages: vol. 37, no. 6, pp. 88-95
+  publisher: IEEE
+  year: 2020
+  description: 
+  link:
+    url: ../papers/Khan2020-runtime.pdf
+    display: pdf
+  highlight: 
+
 - title: "IT-Application Behaviour Analysis: Predicting Critical System States on OpenStack using Monitoring Performance Data and Log Files"
   image: 
   authors: P. Kubiak, S. Rass, and M. Pinzger
