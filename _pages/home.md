@@ -53,4 +53,4 @@ I am co-organizing the [1st International Workshop on Engineering Resilient Robo
 -->
 
 #### VST 2021
-I am co-organizing the [4th Workshop on Validation, Analysis and Evolution of Software Tests](https://vst2021.scch.at/) (VST 2021) co-located with [SANER 2021](https://saner2021.shidler.hawaii.edu/). We welcome full, position, and tool-demo papers until December 11th, 2020. Check our web-site for more information.
+I am co-organizing the [4th Workshop on Validation, Analysis and Evolution of Software Tests](https://vst2021.scch.at/) (VST 2021) co-located with [SANER 2021](https://saner2021.shidler.hawaii.edu/). We welcome the submission of full, position, and tool-demo papers. Check our web-site for more information.

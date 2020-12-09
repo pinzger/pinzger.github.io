@@ -1,3 +1,16 @@
+- title: "The Nature of Build Changes: An Empirical Study of Maven-based Build Systems"
+  image: 
+  authors: C. Macho, S. Beyer, S. McIntosh, and M. Pinzger
+  proceedings: Empirical Software Engineering (EMSE)
+  pages: to appear
+  publisher: Springer
+  year: 2020
+  description: 
+  link:
+    url: 
+    display: 
+  highlight: 
+
 - title: "Runtime Protection of Real-time Critical Control Applications against Known Threats"
   image: 
   authors: M. T. Khan, M. Pinzger, D. Serpanos, and H. Shrobe
