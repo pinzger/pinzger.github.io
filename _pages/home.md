@@ -41,13 +41,23 @@ My research interests are in:
 
 I am always on the lookout for PhD and Master Students with strong technical and research skills for doing a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
 
-<!--
 #### Open position 
-Currently, we do not have any open positions.
+<!--Currently, we do not have any open positions.-->
 
- I am looking for a PhD student to work on analyzing and preventing vulnerabilities in robotic systems (DevSafe) in the [SEEROSE](https://www.aau.at/forschung/forschungsprofil/karl-popper-kolleg/seerose/) project. For more information see the [DevSafe job announcement](https://jobs.aau.at/en/job/pre-doc-scientist-f-m-d-software-engineering/). The deadline for submitting your application is **September 30th, 2020**.
+I have an open position for a PhD student in software engineering, with a focus on change and change impact analysis and/or automating software engineering tasks. The position is for 4 years. The basic requirements are:
 
+* Completed Master's degree or graduate degree in Computer Science/Computer Science with a
+focus on Software Engineering at a domestic or foreign university
+* Demonstrated knowledge in at least one of the following subject areas:
+   * Software Reengineering
+   * Software Testing
+   * Program Analysis
+   * Mining Software Repositories
+* Fluency in written and spoken English
 
+Should you fulfill these requirements, please do not hesitate to submit your application until  **February 3rd, 2021**. More information on the job offer is available in our [newsletter](../uploads/625-20_A-Text_Univ.-AssistsentIn_ISYS_NF Macho.pdf).
+
+<!--
 #### ERRoSS
 I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). Both, IRC 2020 and ERRoSS 2020 will be held online on **November 9-11th, 2020**. Check our web-site for more information.
 -->
