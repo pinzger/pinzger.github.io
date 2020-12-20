@@ -44,10 +44,10 @@ I am always on the lookout for PhD and Master Students with strong technical and
 #### Open position 
 <!--Currently, we do not have any open positions.-->
 
-I have an open position for a PhD student in software engineering, with a focus on change and change impact analysis and/or automating software engineering tasks. The position is for 4 years. The basic requirements are:
+I have an open position for a PhD student in software engineering, with a focus on change and change impact analysis and/or automating software engineering tasks. The position is for 4 years and the planned starting date is March 1st, 2021. The basic requirements are:
 
 * Completed Master's degree or graduate degree in Computer Science/Computer Science with a
-focus on Software Engineering at a domestic or foreign university
+major in Software Engineering at a domestic or foreign university
 * Demonstrated knowledge in at least one of the following subject areas:
    * Software Reengineering
    * Software Testing
