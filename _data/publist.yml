@@ -1,3 +1,16 @@
+- title: "A Cryptography-Powered Infrastructure to Ensure the Integrity of Robot Workflows"
+  image: 
+  authors: B. Breiling, B. Dieber, M. Pinzger, and S. Rass
+  proceedings: Journal of Cybersecurity and Privacy
+  pages: vol 1, no. 1, pp. 93-118
+  publisher: MDPI
+  year: 2021
+  description: 
+  link:
+    url: ../papers/Breiling2021-cryptoinfra.pdf
+    display: pdf
+  highlight: 
+
 - title: "The Nature of Build Changes: An Empirical Study of Maven-based Build Systems"
   image: 
   authors: C. Macho, S. Beyer, S. McIntosh, and M. Pinzger
