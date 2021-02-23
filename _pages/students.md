@@ -31,7 +31,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 * [Felienne Hermans](http://www.felienne.com/), Analyzing and Visualizing Spreadsheets, TU Delft, The Netherlands, defended in January, 2013
 
 #### PhD Committee Memberships / Reviewer
-* [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano
+* [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano, defended in June 2020
 * [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart, defended in November 2019
 * Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen, defended in June 2019
 * Fiorella Zampetti, Studying and Supporting Developers’ Activities in Continuous Delivery Pipelines, University of Sannio

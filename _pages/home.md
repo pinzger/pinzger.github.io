@@ -41,8 +41,8 @@ My research interests are in:
 
 I am always on the lookout for PhD and Master Students with strong technical and research skills for doing a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
 
-#### Open position 
-<!--Currently, we do not have any open positions.-->
+<!--#### Open position 
+Currently, we do not have any open positions.
 
 I have an open position for a PhD student in software engineering, with a focus on change and change impact analysis and/or automating software engineering tasks. The position is for 4 years and the planned starting date is March 1st, 2021. The basic requirements are:
 
@@ -56,7 +56,7 @@ major in Software Engineering at a domestic or foreign university
 * Fluency in written and spoken English
 
 Should you fulfill these requirements, please do not hesitate to submit your application until  **February 3rd, 2021**. More information on the job offer (in German) is available at the [jobs web-site](https://jobs.aau.at/en/job/universitaetsassistentin-2/). Click [here to submit your application](https://jobs.aau.at/en/job/universitaetsassistentin-2/?bewerben=true).
-
+-->
 <!--
 #### ERRoSS
 I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). Both, IRC 2020 and ERRoSS 2020 will be held online on **November 9-11th, 2020**. Check our web-site for more information.
