@@ -14,8 +14,8 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing 
 
-* [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/)
-* [Karin Maria Hodnigg](https://www.aau.at/en/isys/serg/team/hodnigg-karin/) (co-supervised with Dietmar Jannach)
+* [Tareq Mohammed Nazir](https://www.aau.at/en/team/nazir-tareq-mohammed/), AAU-SERG
+* [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/), AAU-SERG
 * Patrick Kubiak, Volkswagen Financial Services Digital Solutions GmbH (co-supervised with Stefan Rass)
 * [Dr. Bernhard Dieber](https://www.joanneum.at/robotics/das-institut/team/detail/employee/dieber/), Joanneum Research
 * [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), Alias Robotics (co-supervised with Stefan Rass)
@@ -31,6 +31,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 * [Felienne Hermans](http://www.felienne.com/), Analyzing and Visualizing Spreadsheets, TU Delft, The Netherlands, defended in January, 2013
 
 #### PhD Committee Memberships / Reviewer
+* [Andreas Schörgenhumer](http://mevss.jku.at/?page_id=1647), Data Analysis and Error Analytics in Large-Scale Heterogeneous Software Systems, Johannes Kepler University Linz
 * [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano, defended in June 2020
 * [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart, defended in November 2019
 * Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen, defended in June 2019
@@ -48,6 +49,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing
 
+* Andreas Kopeinig, AAU-SERG
 * Guido Breitenhuber, Joanneum Research
 * Kevin van Dommele, Infineon
 * Christoph Wedenig, Dynatrace

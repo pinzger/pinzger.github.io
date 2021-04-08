@@ -1,3 +1,17 @@
+- title: "Comprehending Spreadsheets: Which Strategies do Users Apply?"
+  image: 
+  authors: K. M. Hodnigg, C. Macho, M. Pinzger, and D. Jannach
+  proceedings: Proceedings of the International Conference on Program Comprehension (ICPC)
+  pages: to appear
+  publisher: IEEE
+  year: 2021
+  description: 
+  link:
+    url: 
+    display:
+  highlight: 
+
+
 - title: "A Cryptography-Powered Infrastructure to Ensure the Integrity of Robot Workflows"
   image: 
   authors: B. Breiling, B. Dieber, M. Pinzger, and S. Rass
@@ -15,14 +29,14 @@
   image: 
   authors: C. Macho, S. Beyer, S. McIntosh, and M. Pinzger
   proceedings: Empirical Software Engineering (EMSE)
-  pages: to appear
+  pages: online
   publisher: Springer
   year: 2020
-  description: 
-  link:
-    url: 
-    display: 
-  highlight: 
+  description: "This paper presents BUILDDIFF, an approach to extract detailed build changes from MAVEN build files and classify them into 143 change types. We then present two studies using the build changes extracted from 144 open source Java projects to study the frequency and time of build changes. The results show that the top-10 most frequent change types account for 51% of the build changes. Among them, changes to version numbers and changes to dependencies of the projects occur most frequently. We also observe frequently co-occurring changes, such as changes to the source code management definitions, and corresponding changes to the dependency management system and the dependency declaration. Furthermore, our results show that build changes frequently occur around release days. In particular, critical changes, such as updates to plu- gin configuration parts and dependency insertions, are performed before a release day."
+  link: 
+    url: ../papers/Macho2021-buildchanges.pdf
+    display: pdf
+  highlight: 1
 
 - title: "Runtime Protection of Real-time Critical Control Applications against Known Threats"
   image: 
@@ -270,7 +284,7 @@ A demo of the installation and example usage of the tool is available here: <a h
   link:
     url: ../papers/Macho2018-buildmedic.pdf
     display: pdf
-  highlight: 1
+  highlight: 
 
 - title: "Extracting Timed Automata from Java Methods"
   image: 

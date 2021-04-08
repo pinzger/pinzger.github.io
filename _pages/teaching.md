@@ -20,12 +20,9 @@ Practical courses give master students the opportunity to participate in (large)
 We collaborate with a number of companies in Carinthia, such as [Mazda IT](http://www.mazda.at/), [Peaksolutions](http://www.peaksolution.com/), [Skidata](https://www.skidata.com/), [Dynatrace](https://www.dynatrace.com/), [Infineon](https://www.infineon.com/cms/austria/en/), and many others. They offer assignments for Softwarepraktika and Praxissemesters. Please contact the company for open assignments or drop me an email.
 
 ### Assignments at SERG (Forschungssemester)
-These assignments are performed within our research group. They offer students an excellent opportunity to get in touch with an internationally renowned research group in the area of software engineering. We offer a professional environment and, for some assignments, also a financial compensation for excellent work. Currently, the following assignments are available.
+These assignments are performed within our research group. They offer students an excellent opportunity to get in touch with an internationally renowned research group in the area of software engineering. We offer a professional environment and, for some assignments, also a financial compensation for excellent work. 
 
-#### Reengineering and Improving DA4Java
-The main goal of this assignment is to reengineer our existing source code visualization tool DA4Java to use a new, open source graphic library and to move it to the web-browser. DA4Java currently is an Eclipse plug-in implemented in Java that uses Hibernate to access the database and a commercial graph library to visualize the graphs. For the new version of DA4Java, we plan to use an open source graph library, e.g., JGraph. As another option, we are also open for a complete re-implementation of the tool using new technologies for storing and visualizing graphs, such as [neo4j](http://neo4j.com/) and/or [d3js](http://d3js.org/). Furthermore, we are also open for new features and improvements of DA4Java.
+Various assignments in the areas of mining software repositories, program analysis, software visualization, and automating software engineering tasks are available. **Note**, for all our assignments, candidates need to a have a very strong background in programming.
 
-**Requirements**: Candidates need to a have strong background in Java programming and should be knowledgeable in implementing Eclipse plug-ins and/or web applications.
-
-For more information contact me.
+Interested? Please drop me an email to discuss the assignments in more detail.
 
