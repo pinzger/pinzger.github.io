@@ -27,9 +27,9 @@ For the [full list of publications](#full-list) see below or check my profile on
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  {% if publi.image != %} <img src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" /> {% endif %}
+  {% if publi.image != null and publi.image != "" %} <img src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" /> {% endif %}
   <p>{{ publi.description }}</p>
-  <p>{{ publi.authors }} {% if publi.link.url != %}(<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>){% endif %}</p>
+  <p>{{ publi.authors }} {% if publi.link.url != null and publi.link.url != "" %}(<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>){% endif %}</p>
  </div>
 </div>
 
@@ -54,8 +54,8 @@ For the [full list of publications](#full-list) see below or check my profile on
 
 {% for publi in site.data.publist %}
 
-  <strong>{{ publi.title }} </strong> {% if publi.link.url != %} (<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>) {% endif %} <br /> 
-  {{ publi.authors }}. {{ publi.proceedings }}, {{ publi.pages }}, {{ publi.publisher }}, {{ publi.year }}. {% if publi.award != %} <strong>{{ publi.award }}</strong> {% endif %}
+  <strong>{{ publi.title }} </strong> {% if  publi.link.url != null and publi.link.url != "" %} (<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>) {% endif %} <br /> 
+  {{ publi.authors }}. {{ publi.proceedings }}, {{ publi.pages }}, {{ publi.publisher }}, {{ publi.year }}. {% if publi.award != null and publi.award != "" %} <strong>{{ publi.award }}</strong> {% endif %}
 
 
 {% endfor %}
