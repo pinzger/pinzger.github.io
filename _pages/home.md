@@ -41,8 +41,8 @@ My research interests are in:
 
 I am always on the lookout for PhD and Master Students with strong technical and research skills for doing a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
 
-#### Open position 
-We have **two** open positions for PhD students in software engineering, with a focus on change and change impact analysis and/or automating software engineering tasks. The position is for 4 years and the planned starting date is September 1st, 2021. The basic requirements are:
+#### Open positions 
+We have **two** open positions for PhD students in software engineering, with a focus on change and change impact analysis and/or automating software engineering tasks. Each position is for 4 years and the planned starting date is September 1st, 2021. The basic requirements are:
 
 * Completed Master’s degree or graduate degree in Informatics/Computer Science at a domestic or foreign university
 * Demonstrated knowledge in at least one of the following subject areas:
