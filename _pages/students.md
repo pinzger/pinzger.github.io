@@ -15,9 +15,8 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 #### Ongoing 
 
 * [Tareq Mohammed Nazir](https://www.aau.at/en/team/nazir-tareq-mohammed/), AAU-SERG
-* [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/), AAU-SERG
+* [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/), AAU-SERG and Dynatrace
 * Patrick Kubiak, Volkswagen Financial Services Digital Solutions GmbH (co-supervised with Stefan Rass)
-* [Dr. Bernhard Dieber](https://www.joanneum.at/robotics/das-institut/team/detail/employee/dieber/), Joanneum Research
 * [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), Alias Robotics (co-supervised with Stefan Rass)
 
 #### Finished
