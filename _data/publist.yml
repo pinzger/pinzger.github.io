@@ -1,3 +1,16 @@
+- title: "Comparing fine-grained source code changes and code churn for bug prediction - A retrospective"
+  image: 
+  authors: M. Pinzger, E. Giger, and H. C. Gall
+  proceedings: ACM SIGSOFT Software Engineering Notes
+  pages: vol. 46, no. 3, pp. 21-23
+  publisher: ACM
+  year: 2022
+  description: 
+  link:
+    url: ../papers/Pinzger2021-retrospective.pdf
+    display: pdf
+  highlight: 
+
 - title: "Comprehending Spreadsheets: Which Strategies do Users Apply?"
   image: 
   authors: K. M. Hodnigg, C. Macho, M. Pinzger, and D. Jannach
@@ -781,7 +794,8 @@ A demo of the installation and example usage of the tool is available here: <a h
   link:
     url: ../papers/Giger2011-bugprediction.pdf
     display: pdf
-  highlight: 
+  highlight:
+  award: Candidate for MSR 2021 Most Influential Paper Award 
 
 - title: "Supporting Professional Spreadsheet Users by Generating Leveled Dataflow Diagrams"
   image: 

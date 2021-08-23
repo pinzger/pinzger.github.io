@@ -56,6 +56,8 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
+* [SANER 2022](https://saner2022.uom.gr/) - International Conference on Software Analysis, Evolution, and Reengineering
+* [MSR 2022](https://conf.researchr.org/home/msr-2022) - International Conference on Mining Software Repositories
 * [ESEC/FSE 2022](https://2022.esec-fse.org/) - Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
 * [VISSOFT 2021](https://vissoft.info/2021/) - Working Conference on Software Visualization
 * [SE 2021](https://se-2021.tu-bs.de/) - Software Engineering (German)
