@@ -15,7 +15,7 @@
   image: 
   authors: K. M. Hodnigg, C. Macho, M. Pinzger, and D. Jannach
   proceedings: Proceedings of the International Conference on Program Comprehension (ICPC)
-  pages: to appear
+  pages: pp. 386-390
   publisher: IEEE
   year: 2021
   description: 
@@ -23,7 +23,6 @@
     url: ../papers/Hodnigg2021-comprehending.pdf
     display: pdf
   highlight: 
-
 
 - title: "A Cryptography-Powered Infrastructure to Ensure the Integrity of Robot Workflows"
   image: 
@@ -42,9 +41,9 @@
   image: 
   authors: C. Macho, S. Beyer, S. McIntosh, and M. Pinzger
   proceedings: Empirical Software Engineering (EMSE)
-  pages: online
+  pages: vol 26, no. 3, pp. 32
   publisher: Springer
-  year: 2020
+  year: 2021
   description: "This paper presents BUILDDIFF, an approach to extract detailed build changes from MAVEN build files and classify them into 143 change types. We then present two studies using the build changes extracted from 144 open source Java projects to study the frequency and time of build changes. The results show that the top-10 most frequent change types account for 51% of the build changes. Among them, changes to version numbers and changes to dependencies of the projects occur most frequently. We also observe frequently co-occurring changes, such as changes to the source code management definitions, and corresponding changes to the dependency management system and the dependency declaration. Furthermore, our results show that build changes frequently occur around release days. In particular, critical changes, such as updates to plu- gin configuration parts and dependency insertions, are performed before a release day."
   link: 
     url: ../papers/Macho2021-buildchanges.pdf
@@ -64,10 +63,23 @@
     display: pdf
   highlight: 
 
+- title: "A Method for the Joint Analysis of Numerical and Textual IT-System Data to Predict Critical System States"
+  image: 
+  authors: P. Kubiak, S. Rass, M. Pinzger, and S. Schneider
+  proceedings: Software Technologies. Communications in Computer and Information Science
+  pages: vol. 1447, pp. 242-261
+  publisher: Springer
+  year: 2020
+  description: 
+  link:
+    url: ../papers/Kubiak2020-pss.pdf
+    display: pdf
+  highlight: 
+
 - title: "IT-Application Behaviour Analysis: Predicting Critical System States on OpenStack using Monitoring Performance Data and Log Files"
   image: 
   authors: P. Kubiak, S. Rass, and M. Pinzger
-  proceedings: In Proceedings of the International Conference on Software Technologies (ICST)
+  proceedings: In Proceedings of the International Conference on Software Technologies (ICSOFT)
   pages: pp. 589-596
   publisher: SciTePress
   year: 2020
@@ -75,19 +87,6 @@
   link:
     url: ../papers/Kubiak2020-itm.pdf
     display: pdf
-  highlight: 
-
-- title: "Data-driven Robot Introspection"
-  image: 
-  authors: B. Dieber, S. Taurer, T. Haspl, M. Pichler, and M. Pinzger
-  proceedings: In Proceedings of the International Conference on Robotic Computing (IRC)
-  pages: to appear
-  publisher: IEEE
-  year: 2020
-  description: 
-  link:
-    url: 
-    display: 
   highlight: 
 
 - title: "Leveraging Machine Learning for Software Redocumentation"
@@ -100,6 +99,19 @@
   description: 
   link:
     url: ../papers/Geist2020-redocu.pdf
+    display: pdf
+  highlight: 
+
+- title: "Visualizing Evolution and Performance Metrics on Method-Level as Multivariate Data"
+  image: 
+  authors: H. Tarner, V. Frick, M. Pinzger, and F. Beck
+  proceedings: In Proceedings of the Seminar on Advanced Techniques & Tools for Software Evolution (SATToSE)
+  pages: vol. 2754
+  publisher: CEUR-WS.org
+  year: 2020
+  description: 
+  link:
+    url: ../papers/Tarner2020-sattose.pdf
     display: pdf
   highlight: 
 
@@ -133,7 +145,7 @@
   image: 
   authors: S. Beyer, C. Macho, M. Di Penta, and M. Pinzger 
   proceedings: Journal of Empirical Software Engineering (EMSE)
-  pages: vol. 25, no. 3, pp.2258-2301
+  pages: vol. 25, no. 3, pp. 2258-2301
   publisher: Springer
   year: 2020
   description: "On question and answer sites, such as Stack Overflow (SO), developers use tags to label the content of a post and to support developers in question searching and browsing. However, these tags mainly refer to technological aspects instead of the purpose of the question. Tagging questions with their purpose can add a new dimension to the identification of discussed topics in posts on SO. In this paper, we aim at automating the classification of SO question posts into seven question categories. As a first step, we harmonized existing taxonomies of question categories and then, we manually classified 1,000 SO questions according to our new taxonomy. We then use this data set to automate the classification of posts using two approaches. The results show that using the regular expression approach, we can classify posts into the correct question category with an average precision and recall of 0.90, and an MCC of 0.68." 

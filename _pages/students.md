@@ -30,7 +30,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 * [Felienne Hermans](http://www.felienne.com/), Analyzing and Visualizing Spreadsheets, TU Delft, The Netherlands, defended in January, 2013
 
 #### PhD Committee Memberships / Reviewer
-* [Andreas Schörgenhumer](http://mevss.jku.at/?page_id=1647), Data Analysis and Error Analytics in Large-Scale Heterogeneous Software Systems, Johannes Kepler University Linz
+* [Andreas Schörgenhumer](http://mevss.jku.at/?page_id=1647), Data Analysis and Error Analytics in Large-Scale Heterogeneous Software Systems, Johannes Kepler University Linz, defended in August 2021
 * [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano, defended in June 2020
 * [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart, defended in November 2019
 * Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen, defended in June 2019
@@ -52,11 +52,11 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 * Guido Breitenhuber, Joanneum Research
 * Kevin van Dommele, Infineon
 * Christoph Wedenig, Dynatrace
-* Andreas Tscheinig, Dynatrace
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Andreas Tscheinig, Advanced Analytics for Autonomous Cloud Delivery Operations, August 2021
 * Karin Wagner, Closing the Gap between Firmware Development and Integrated Test Development, June 2019
 * Thomas Grassauer, Studying Co-Evolution of Production and Test Code in .NET Open Source Projects, October 2016
 * Kavitha Shanmugam, Evolution of Custom SAP Applications (together with Infineon), September 2014
