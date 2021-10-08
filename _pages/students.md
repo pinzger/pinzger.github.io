@@ -14,6 +14,8 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing 
 
+* [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
+* [Johann Aichberger](https://www.aau.at/en/team/aichberger-johann/), AAU-SERG
 * [Tareq Mohammed Nazir](https://www.aau.at/en/team/nazir-tareq-mohammed/), AAU-SERG
 * [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/), AAU-SERG and Dynatrace
 * Patrick Kubiak, Volkswagen Financial Services Digital Solutions GmbH (co-supervised with Stefan Rass)
@@ -50,12 +52,12 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 * Andreas Kopeinig, AAU-SERG
 * Guido Breitenhuber, Joanneum Research
-* Kevin van Dommele, Infineon
 * Christoph Wedenig, Dynatrace
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Kevin van Dommele, Bridging Component Validation Frameworks, September 2021
 * Andreas Tscheinig, Advanced Analytics for Autonomous Cloud Delivery Operations, August 2021
 * Karin Wagner, Closing the Gap between Firmware Development and Integrated Test Development, June 2019
 * Thomas Grassauer, Studying Co-Evolution of Production and Test Code in .NET Open Source Projects, October 2016
