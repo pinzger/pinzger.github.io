@@ -20,8 +20,9 @@ permalink: /service/
 * [WCRE 2010](http://web.soccerlab.polymtl.ca/wcre2010/) Program Co-Chair
 
 ### Co-Organizer
-* [VST 2021](http://vst2021.scch.at/) Co-Organizer
-* [VST 2020](http://vst2020.scch.at/) Co-Organizer
+* [VST 2022](https://vst2022.scch.at/) Co-Organizer
+* [VST 2021](https://vst2021.scch.at/) Co-Organizer
+* [VST 2020](https://vst2020.scch.at/) Co-Organizer
 * [ERRoSS 2020](https://www.erross.org/) Co-Organizer
 * [ICPC 2017](http://icpc2017.unibas.it/) ERA track Co-Chair
 * [FSE 2014](http://fse22.gatech.edu/) Publicity Co-Chair

@@ -59,7 +59,7 @@ Should you fulfill these requirements, please do not hesitate to submit your app
 <!--
 #### ERRoSS
 I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). Both, IRC 2020 and ERRoSS 2020 will be held online on **November 9-11th, 2020**. Check our web-site for more information.
-
-#### VST 2021
-I am co-organizing the [4th Workshop on Validation, Analysis and Evolution of Software Tests](https://vst2021.scch.at/) (VST 2021) co-located with [SANER 2021](https://saner2021.shidler.hawaii.edu/). We welcome the submission of full, position, and tool-demo papers. Check our web-site for more information.
 -->
+
+#### VST 2022
+I am co-organizing the [5th Workshop on Validation, Analysis and Evolution of Software Tests](https://vst2022.scch.at/) (VST 2022) co-located with [SANER 2022](https://saner2022.uom.gr/). We welcome the submission of full, position, and tool-demo papers. Check our web-site for more information.
