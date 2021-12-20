@@ -50,6 +50,19 @@
     display: pdf
   highlight: 1
 
+- title: "A Method for the Joint Analysis of Numerical and Textual IT-System Data to Predict Critical System States"
+  image: 
+  authors: P. Kubiak, S. Rass, M. Pinzger, and S. Schneider
+  proceedings: Software Technologies. Communications in Computer and Information Science
+  pages: vol. 1447, pp. 242-261
+  publisher: Springer
+  year: 2021
+  description: 
+  link:
+    url: ../papers/Kubiak2020-pss.pdf
+    display: pdf
+  highlight: 
+
 - title: "Runtime Protection of Real-time Critical Control Applications against Known Threats"
   image: 
   authors: M. T. Khan, M. Pinzger, D. Serpanos, and H. Shrobe
@@ -60,19 +73,6 @@
   description: 
   link:
     url: ../papers/Khan2020-runtime.pdf
-    display: pdf
-  highlight: 
-
-- title: "A Method for the Joint Analysis of Numerical and Textual IT-System Data to Predict Critical System States"
-  image: 
-  authors: P. Kubiak, S. Rass, M. Pinzger, and S. Schneider
-  proceedings: Software Technologies. Communications in Computer and Information Science
-  pages: vol. 1447, pp. 242-261
-  publisher: Springer
-  year: 2020
-  description: 
-  link:
-    url: ../papers/Kubiak2020-pss.pdf
     display: pdf
   highlight: 
 

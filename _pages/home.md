@@ -10,7 +10,7 @@ permalink: /
 
 <div class="row">
 <div class="col-sm-3">
-<img src="images/MartinDec2013_bw_small.jpg" alt="Martin Pinzger" width="150" />
+<img src="images/MartinPinzgerDec2021.jpeg" alt="Martin Pinzger" width="150" />
 </div>
 <div class="col-sm-7">
 Professor of Software Engineering <br />
