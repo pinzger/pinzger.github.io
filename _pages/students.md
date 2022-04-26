@@ -50,13 +50,17 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing
 
-* Andreas Kopeinig, AAU-SERG
+* Natyra Ferati, Dynatrace
+* Rijad Gerguri, AAU-SERG
+* Oliver Aartsen, AAU-SERG
+* Christian Wuggenig, Infineon
 * Guido Breitenhuber, Joanneum Research
-* Christoph Wedenig, Dynatrace
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Andreas Kopeinig, Fine-grained Change Analysis for TypeScript based Systems, March 2022
+* Christoph Wedenig, Detecting SSRF Attacks in Kubernetes using Distributed Tracing, March 2022
 * Kevin van Dommele, Bridging Component Validation Frameworks, September 2021
 * Andreas Tscheinig, Advanced Analytics for Autonomous Cloud Delivery Operations, August 2021
 * Karin Wagner, Closing the Gap between Firmware Development and Integrated Test Development, June 2019

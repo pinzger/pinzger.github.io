@@ -132,9 +132,9 @@
   image: tsrepair.png
   authors: G. Liva, M. T. Khan, M. Pinzger, F. Spegni, and L. Spalazzi 
   proceedings: IEEE Transactions on Software Engineering (TSE)
-  pages: online
+  pages: vol. 47, no. 11, pp. 2369-2381
   publisher: IEEE
-  year: 2019
+  year: 2021
   description: "We propose a new strategy to automatically repair programs that suffer from timestamp overflows that are manifested in comparison expressions. It unifies the benefits of static analysis and automatic program repair avoiding dependency on testing to identify and correct defected code. Our approach performs an abstract analysis over the time domain of a program using a Time Type System to identify the problematic comparison expressions. The repairing strategy rewrites the timestamp comparisons exploiting the binary representation of machine numbers to correct the code. We have validated the applicability of our approach with 20 open source Java projects. The results show that it is able to correctly repair all 246 identified errors. To further validate the reliability of our approach, we have proved the soundness of both, type system and repairing strategy. Furthermore, several patches for three open source projects have been acknowledged and accepted by their developers" 
   link:
     url: ../papers/Liva2019-repair.pdf
