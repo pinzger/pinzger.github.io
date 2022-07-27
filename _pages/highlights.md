@@ -15,7 +15,7 @@ permalink: /highlights/
 * **2015**: Appointed permanent full professor of software engineering at the [Department for Informatics Systems](https://www.aau.at/en/isys/), [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/)
 * **2014**: Winner of the [ICSME 2014](http://www.icsme.org/) Best Paper Award, together with Daniele Romano and Steven Raemaekers for our work on "Refactoring Fat Interfaces Using a Genetic Algorithm" (picture).
 * **2014**: Assigned head of the [Department for Informatics Systems](https://www.aau.at/en/isys/) at the [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/)
-* **2014**, 2015: Program co-chair of the Working Conference on Mining Software Repositories ([MSR 2014](http://2014.msrconf.org/), [MSR 2015](http://2015.msrconf.org/))
+* **2014, 2015**: Program co-chair of the Working Conference on Mining Software Repositories ([MSR 2014](http://2014.msrconf.org/), [MSR 2015](http://2015.msrconf.org/))
 * **2013**: Winner of the [ICSM 2013 Most Influential Paper (MIP) Award](http://icsm2013.tue.nl/AwardWinners/index.html), together with Michael Fischer and Harald C. Gall for our work on the release history database
 * **2013**: Winner of the [ICSE 2013 Distinguished Paper Award](http://2013.icse-conferences.org/content/icse2013-awards.html), together with Felienne Hermans, Ben Sedee, and Arie van Deursen for our work on data clone detection in spreadsheets
 * **2013**: Inaugural lecture at the [Alpen-Adria-Universität Klagenfurt](http://www.aau.at/), covering the challenges of a knowledgeable software engineer (see also article in [TT](http://mobileapps.tt.com/panorama/gesellschaft/7570438-91/pfundser-an-universit%C3%A4t-berufen.csp) and [Uni News](http://www.uni-klu.ac.at/main/inhalt/uninews_42162.htm))

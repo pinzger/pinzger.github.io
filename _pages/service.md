@@ -57,6 +57,8 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
+* [ESEC/FSE 2023](https://2023.esec-fse.org/) - Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+* [SANER 2023](https://saner2023.must.edu.mo/) - International Conference on Software Analysis, Evolution, and Reengineering
 * [SANER 2022](https://saner2022.uom.gr/) - International Conference on Software Analysis, Evolution, and Reengineering
 * [MSR 2022](https://conf.researchr.org/home/msr-2022) - International Conference on Mining Software Repositories
 * [ESEC/FSE 2022](https://2022.esec-fse.org/) - Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
