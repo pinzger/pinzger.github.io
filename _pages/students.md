@@ -15,36 +15,36 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 #### Ongoing 
 
 * [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
-* [Johann Aichberger](https://www.aau.at/en/team/aichberger-johann/), AAU-SERG
+* [Johann Glock](https://www.aau.at/en/team/glock-johann/), AAU-SERG
 * [Tareq Mohammed Nazir](https://www.aau.at/en/team/nazir-tareq-mohammed/), AAU-SERG
 * [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/), AAU-SERG and Dynatrace
-* Patrick Kubiak, Volkswagen Financial Services Digital Solutions GmbH (co-supervised with Stefan Rass)
-* [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), Alias Robotics (co-supervised with Stefan Rass)
+* [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), AAU and Alias Robotics (co-supervised with Stefan Rass)
 
 #### Finished
 
-* [Giovanni Liva](https://thisthat.github.io/), Formal Analysis & Verification of Timed Programs, AAU, Austria, defended in November 2019
-* [Christian Macho](https://mitschi.github.io/), Preventing and Repairing Build Breakage, AAU, Austria, defended in May 2019
-* [Stefanie Beyer](https://www.aau.at/en/isys/serg/team/beyer-stefanie/), Identifying Android App Developers’ Challenges through Mining Stack Overflow, AAU, Austria, defended in April 2018
-* [Nicolas Dintzner](http://swerl.tudelft.nl/bin/view/NicolasDintzner/WebHome), Feature-Oriented Evolution of Variant-rich Software Systems TU Delft, The Netherlands, defended in July 2017
-* [Anja Guzzi](http://swerl.tudelft.nl/bin/view/Main/AnjaGuzzi), Supporting Developers’ Teamwork from within the IDE, TU Delft, The Netherlands, defended in March 2015
-* [Daniele Romano](http://swerl.tudelft.nl/bin/view/DanieleRomano/WebHome), Analyzing the Change-Proneness of APIs and Web APIs, TU Delft, The Netherlands, defended in January 2015
-* [Felienne Hermans](http://www.felienne.com/), Analyzing and Visualizing Spreadsheets, TU Delft, The Netherlands, defended in January, 2013
+* Patrick Kubiak, An AIOps Solution for the Joint Analysis of Runtime Data and System Events, Universität Klagenfurt and Volkswagen Financial Services, co-supervised with Stefan Rass, August 2022
+* [Giovanni Liva](https://thisthat.github.io/), Formal Analysis & Verification of Timed Programs, Universität Klagenfurt, November 2019
+* [Christian Macho](https://mitschi.github.io/), Preventing and Repairing Build Breakage, Universität Klagenfurt, May 2019
+* [Stefanie Beyer](https://www.aau.at/en/isys/serg/team/beyer-stefanie/), Identifying Android App Developers’ Challenges through Mining Stack Overflow, Universität Klagenfurt, April 2018
+* [Nicolas Dintzner](http://swerl.tudelft.nl/bin/view/NicolasDintzner/WebHome), Feature-Oriented Evolution of Variant-rich Software Systems, Universität Klagenfurt and TU Delft, co-supervised with Arie van Deursen, July 2017
+* [Anja Guzzi](http://swerl.tudelft.nl/bin/view/Main/AnjaGuzzi), Supporting Developers’ Teamwork from within the IDE, Universität Klagenfurt and TU Delft, co-supervised with Arie van Deursen, March 2015
+* [Daniele Romano](http://swerl.tudelft.nl/bin/view/DanieleRomano/WebHome), Analyzing the Change-Proneness of APIs and Web APIs, Universität Klagenfurt and TU Delft, January 2015
+* [Felienne Hermans](http://www.felienne.com/), Analyzing and Visualizing Spreadsheets, TU Delft, co-supervised with Arie van Deursen, January 2013
 
 #### PhD Committee Memberships / Reviewer
-* [Andreas Schörgenhumer](http://mevss.jku.at/?page_id=1647), Data Analysis and Error Analytics in Large-Scale Heterogeneous Software Systems, Johannes Kepler University Linz, defended in August 2021
-* [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano, defended in June 2020
-* [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart, defended in November 2019
-* Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen, defended in June 2019
+* [Andreas Schörgenhumer](http://mevss.jku.at/?page_id=1647), Data Analysis and Error Analytics in Large-Scale Heterogeneous Software Systems, Johannes Kepler University Linz, August 2021
+* [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano, June 2020
+* [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart, November 2019
+* Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen, June 2019
 * Fiorella Zampetti, Studying and Supporting Developers’ Activities in Continuous Delivery Pipelines, University of Sannio
-* [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, University of Lugano, defended in June 2018
-* [Haidar Osman](http://scg.unibe.ch/staff/Osman), Empirically-Grounded Construction of Bug Prediction and Detection Tools, University of Bern, defended in December 2017
-* [Marko Janković](http://si.linkedin.com/in/markojm), Semi-automatic Reconstruction and Documentation of Software Development Methods, University of Ljubljana, defended in January 2020
-* [Gerald Ninaus](http://www.iitf.at/ueber-uns/team/gerald-ninaus/), Recommendation Technologies in Requirements Engineering, Technische Universitaet Graz, defended in April 2016
-* [Jaechang Nam](http://www.cse.ust.hk/~jcnam/), Defect Prediction on Unlabeled Software Datasets, Hong Kong University of Science and Technology, defended in July 2015
-* [Fehmi Jaafar](https://sites.google.com/site/fehmijaafar/), Analyzing Artefacts Dependencies to Evolving Software Systems, University of Montreal, defended in December 2013
-* [Fabian Beck](https://www.vis.wiwi.uni-due.de/en/team/fabian-beck/), Understanding Multi-Dimensional Code Couplings, University of Trier, defended in June 2013
-* Siim Karus, Maintainability of XML Transformations, University of Tartu, defended in June 2011
+* [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, University of Lugano, June 2018
+* [Haidar Osman](http://scg.unibe.ch/staff/Osman), Empirically-Grounded Construction of Bug Prediction and Detection Tools, University of Bern, December 2017
+* [Marko Janković](http://si.linkedin.com/in/markojm), Semi-automatic Reconstruction and Documentation of Software Development Methods, University of Ljubljana, January 2020
+* [Gerald Ninaus](http://www.iitf.at/ueber-uns/team/gerald-ninaus/), Recommendation Technologies in Requirements Engineering, Technische Universitaet Graz, April 2016
+* [Jaechang Nam](http://www.cse.ust.hk/~jcnam/), Defect Prediction on Unlabeled Software Datasets, Hong Kong University of Science and Technology, July 2015
+* [Fehmi Jaafar](https://sites.google.com/site/fehmijaafar/), Analyzing Artefacts Dependencies to Evolving Software Systems, University of Montreal, December 2013
+* [Fabian Beck](https://www.vis.wiwi.uni-due.de/en/team/fabian-beck/), Understanding Multi-Dimensional Code Couplings, University of Trier, June 2013
+* Siim Karus, Maintainability of XML Transformations, University of Tartu, June 2011
 
 ### Master Students
 
@@ -54,11 +54,11 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 * Rijad Gerguri, AAU-SERG
 * Oliver Aartsen, AAU-SERG
 * Christian Wuggenig, Infineon
-* Guido Breitenhuber, Joanneum Research
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Guido Breitenhuber, Testing Expected Behavior of Integrated ROS Applications, August 2022
 * Andreas Kopeinig, Fine-grained Change Analysis for TypeScript based Systems, March 2022
 * Christoph Wedenig, Detecting SSRF Attacks in Kubernetes using Distributed Tracing, March 2022
 * Kevin van Dommele, Bridging Component Validation Frameworks, September 2021

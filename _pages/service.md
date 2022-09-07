@@ -58,6 +58,7 @@ permalink: /service/
 
 ### Program Committee Memberships
 * [ESEC/FSE 2023](https://2023.esec-fse.org/) - Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+* [ICSE NIER 2023](https://conf.researchr.org/track/icse-2023/icse-2023-NIER) - ICSE New Ideas and Emerging Results
 * [SANER 2023](https://saner2023.must.edu.mo/) - International Conference on Software Analysis, Evolution, and Reengineering
 * [SANER 2022](https://saner2022.uom.gr/) - International Conference on Software Analysis, Evolution, and Reengineering
 * [MSR 2022](https://conf.researchr.org/home/msr-2022) - International Conference on Mining Software Repositories
