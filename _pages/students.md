@@ -32,6 +32,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 * [Felienne Hermans](http://www.felienne.com/), Analyzing and Visualizing Spreadsheets, TU Delft, co-supervised with Arie van Deursen, January 2013
 
 #### PhD Committee Memberships / Reviewer
+* [Matteo Ciniselli](https://www.inf.usi.ch/phd/cinism/), Code Completion Using Deep Learning, University of Lugano
 * [Andreas Schörgenhumer](http://mevss.jku.at/?page_id=1647), Data Analysis and Error Analytics in Large-Scale Heterogeneous Software Systems, Johannes Kepler University Linz, August 2021
 * [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano, June 2020
 * [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart, November 2019

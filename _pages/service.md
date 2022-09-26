@@ -57,6 +57,7 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
+* [ICSE 2024](https://conf.researchr.org/home/icse-2024) - International Conference on Software Engineering
 * [ESEC/FSE 2023](https://2023.esec-fse.org/) - Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
 * [ICSE NIER 2023](https://conf.researchr.org/track/icse-2023/icse-2023-NIER) - ICSE New Ideas and Emerging Results
 * [SANER 2023](https://saner2023.must.edu.mo/) - International Conference on Software Analysis, Evolution, and Reengineering
