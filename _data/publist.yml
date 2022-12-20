@@ -1,7 +1,7 @@
 - title: "Presentation: SymDefFix - Sound Automatic Repair Using Symbolic Execution"
   image: 
   authors: T. M. Nazir and M. Pinzger
-  proceedings: 
+  proceedings: International KLEE Workshop on Symbolic Execution
   pages: 
   publisher: CoRR
   year: 2022
@@ -13,7 +13,7 @@
 
 - title: "Hacking planned obsolescense in robotics, towards security-oriented robot teardown"
   image: 
-  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, and F. Maggi, E. Gil-Uriarte
+  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, F. Maggi, and E. Gil-Uriarte
   proceedings: Electronic Communication of the European Association of Software Science and Technology
   pages: vol. 80 (NetSys 2021)
   publisher: 
@@ -26,7 +26,7 @@
 
 - title: "Robot teardown, stripping industrial robots for good"
   image: 
-  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, and F. Maggi, E. Gil-Uriarte
+  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, F. Maggi, and E. Gil-Uriarte
   proceedings: International Journal of Cyber Forensics and Advanced Threat Investigations
   pages: 
   publisher: Concept Techn Publishing
