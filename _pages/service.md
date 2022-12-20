@@ -11,23 +11,18 @@ permalink: /service/
 ### General Chair
 * [SANER 2017](http://saner.aau.at/) General Chair
 * [INFORMATIK 2016](http://www.informatik2016.de/) General Co-Chair
-* [BENEVOL 2012](http://swerl.tudelft.nl/bin/view/Main/BENEVOL2012) Co-Organizer
 
 ### Program Chair
-* [MSR 2015](http://2015.msrconf.org/) Program Co-Chair
-* [MSR 2014](http://2014.msrconf.org/) Program Co-Chair
-* [WCRE 2011](http://www.cs.wm.edu/semeru/wcre2011/) Program Co-Chair
-* [WCRE 2010](http://web.soccerlab.polymtl.ca/wcre2010/) Program Co-Chair
+* [MSR 2015](http://2015.msrconf.org/), [MSR 2014](http://2014.msrconf.org/) Program Co-Chair
+* [WCRE 2011](http://www.cs.wm.edu/semeru/wcre2011/), [WCRE 2010](http://web.soccerlab.polymtl.ca/wcre2010/) Program Co-Chair
 
 ### Co-Organizer
-* [VST 2023](https://vstworkshop.github.io/vst2023/) Co-Organizer
-* [VST 2022](https://vstworkshop.github.io/vst2022/) Co-Organizer
-* [VST 2021](https://vstworkshop.github.io/vst2021/) Co-Organizer
-* [VST 2020](https://vstworkshop.github.io/vst2020/) Co-Organizer
+* [VST 2023](https://vstworkshop.github.io/vst2023/), [VST 2022](https://vstworkshop.github.io/vst2022/), [VST 2021](https://vstworkshop.github.io/vst2021/), [VST 2020](https://vstworkshop.github.io/vst2020/) Co-Organizer
 * [ERRoSS 2020](https://www.erross.org/) Co-Organizer
 * [ICPC 2017](http://icpc2017.unibas.it/) ERA track Co-Chair
 * [FSE 2014](http://fse22.gatech.edu/) Publicity Co-Chair
 * [ICSE 2012](http://www.ifi.uzh.ch/arvo/req/events/ICSE2012/) Posters and Informal Demonstrations Co-Chair
+* [BENEVOL 2012](http://swerl.tudelft.nl/bin/view/Main/BENEVOL2012) Co-Organizer
 * [ICSM 2010](http://icsm2010.upt.ro/) Publicity Co-Chair
 * [WCRE 2009](http://web.soccerlab.polymtl.ca/wcre2009) Tool Demonstration Chair
 * [CSMR 2009](http://csmr2009.iese.fraunhofer.de/) Doctoral Symposium Chair

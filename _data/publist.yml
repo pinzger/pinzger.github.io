@@ -1,3 +1,29 @@
+- title: "Presentation: SymDefFix - Sound Automatic Repair Using Symbolic Execution"
+  image: 
+  authors: T. M. Nazir and M. Pinzger
+  proceedings: 
+  pages: 
+  publisher: CoRR
+  year: 2022
+  description: 
+  link:
+    url: ../papers/Nazir2022-symdeffix.pdf
+    display: pdf
+  highlight: 
+
+- title: "Hacking planned obsolescense in robotics, towards security-oriented robot teardown"
+  image: 
+  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, and F. Maggi, E. Gil-Uriarte
+  proceedings: Electronic Communication of the European Association of Software Science and Technology
+  pages: vol. 80 (NetSys 2021)
+  publisher: 
+  year: 2021
+  description: 
+  link:
+    url: ../papers/Vilches2021-hacking.pdf
+    display: pdf
+  highlight: 
+
 - title: "Comparing fine-grained source code changes and code churn for bug prediction - A retrospective"
   image: 
   authors: M. Pinzger, E. Giger, and H. C. Gall
