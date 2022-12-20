@@ -24,6 +24,19 @@
     display: pdf
   highlight: 
 
+- title: "Robot teardown, stripping industrial robots for good"
+  image: 
+  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, and F. Maggi, E. Gil-Uriarte
+  proceedings: International Journal of Cyber Forensics and Advanced Threat Investigations
+  pages: 
+  publisher: Concept Techn Publishing
+  year: 2021
+  description: 
+  link:
+    url: ../papers/Vilches2021-teardown.pdf
+    display: pdf
+  highlight: 
+
 - title: "Comparing fine-grained source code changes and code churn for bug prediction - A retrospective"
   image: 
   authors: M. Pinzger, E. Giger, and H. C. Gall
