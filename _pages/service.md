@@ -20,9 +20,10 @@ permalink: /service/
 * [WCRE 2010](http://web.soccerlab.polymtl.ca/wcre2010/) Program Co-Chair
 
 ### Co-Organizer
-* [VST 2022](https://vst2022.scch.at/) Co-Organizer
-* [VST 2021](https://vst2021.scch.at/) Co-Organizer
-* [VST 2020](https://vst2020.scch.at/) Co-Organizer
+* [VST 2023](https://vstworkshop.github.io/vst2023/) Co-Organizer
+* [VST 2022](https://vstworkshop.github.io/vst2022/) Co-Organizer
+* [VST 2021](https://vstworkshop.github.io/vst2021/) Co-Organizer
+* [VST 2020](https://vstworkshop.github.io/vst2020/) Co-Organizer
 * [ERRoSS 2020](https://www.erross.org/) Co-Organizer
 * [ICPC 2017](http://icpc2017.unibas.it/) ERA track Co-Chair
 * [FSE 2014](http://fse22.gatech.edu/) Publicity Co-Chair
@@ -59,6 +60,7 @@ permalink: /service/
 ### Program Committee Memberships
 * [ICSE 2024](https://conf.researchr.org/home/icse-2024) - International Conference on Software Engineering
 * [ESEC/FSE 2023](https://2023.esec-fse.org/) - Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+* [MSR 2023](https://conf.researchr.org/home/msr-2023) - International Conference on Mining Software Repositories
 * [ICSE NIER 2023](https://conf.researchr.org/track/icse-2023/icse-2023-NIER) - ICSE New Ideas and Emerging Results
 * [SANER 2023](https://saner2023.must.edu.mo/) - International Conference on Software Analysis, Evolution, and Reengineering
 * [SANER 2022](https://saner2022.uom.gr/) - International Conference on Software Analysis, Evolution, and Reengineering
