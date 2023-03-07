@@ -17,7 +17,6 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 * [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
 * [Johann Glock](https://www.aau.at/en/team/glock-johann/), AAU-SERG
 * [Tareq Mohammed Nazir](https://www.aau.at/en/team/nazir-tareq-mohammed/), AAU-SERG
-* [Veit Frick](https://www.aau.at/en/isys/serg/team/frick-veit/), AAU-SERG and Dynatrace
 * [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), AAU and Alias Robotics (co-supervised with Stefan Rass)
 
 #### Finished
@@ -52,14 +51,15 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing
 
-* Natyra Ferati, Dynatrace
+* Manuel Schönlaub, AAU-SERG
 * Rijad Gerguri, AAU-SERG
 * Oliver Aartsen, AAU-SERG
-* Christian Wuggenig, Infineon
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Christian Wuggenig, Web-based knowledge transfer from R&D to Failure Analysis department at Infineon Technologies Austria AG, February 2023
+* Natyra Ferati, Automating Design Handoff Between UX/UI Design and Development Team, February 2023
 * Guido Breitenhuber, Testing Expected Behavior of Integrated ROS Applications, August 2022
 * Andreas Kopeinig, Fine-grained Change Analysis for TypeScript based Systems, March 2022
 * Christoph Wedenig, Detecting SSRF Attacks in Kubernetes using Distributed Tracing, March 2022

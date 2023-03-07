@@ -1,3 +1,16 @@
+- title: "Hacking planned obsolescense in robotics, towards security-oriented robot teardown"
+  image: 
+  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, F. Maggi, and E. Gil-Uriarte
+  proceedings: Electronic Communication of the European Association of Software Science and Technology
+  pages: vol. 80
+  publisher: 
+  year: 2022
+  description: 
+  link:
+    url: ../papers/Vilches2021-hacking.pdf
+    display: pdf
+  highlight: 
+
 - title: "Presentation: SymDefFix - Sound Automatic Repair Using Symbolic Execution"
   image: 
   authors: T. M. Nazir and M. Pinzger
@@ -8,19 +21,6 @@
   description: 
   link:
     url: ../papers/Nazir2022-symdeffix.pdf
-    display: pdf
-  highlight: 
-
-- title: "Hacking planned obsolescense in robotics, towards security-oriented robot teardown"
-  image: 
-  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, F. Maggi, and E. Gil-Uriarte
-  proceedings: Electronic Communication of the European Association of Software Science and Technology
-  pages: vol. 80 (NetSys 2021)
-  publisher: 
-  year: 2021
-  description: 
-  link:
-    url: ../papers/Vilches2021-hacking.pdf
     display: pdf
   highlight: 
 

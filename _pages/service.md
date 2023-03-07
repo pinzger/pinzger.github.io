@@ -54,6 +54,7 @@ permalink: /service/
 
 ### Program Committee Memberships
 * [ICSE 2024](https://conf.researchr.org/home/icse-2024) - International Conference on Software Engineering
+* [ICSME 2023](https://conf.researchr.org/home/icsme-2023) - International Conference on Software Maintenance and Evolution
 * [ESEC/FSE 2023](https://2023.esec-fse.org/) - Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering
 * [MSR 2023](https://conf.researchr.org/home/msr-2023) - International Conference on Mining Software Repositories
 * [ICSE NIER 2023](https://conf.researchr.org/track/icse-2023/icse-2023-NIER) - ICSE New Ideas and Emerging Results
