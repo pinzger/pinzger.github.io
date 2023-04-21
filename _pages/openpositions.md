@@ -12,7 +12,7 @@ We have the following open positions:
 
 ## PhD Student in Software Engineering / Program Analysis
 
-The [Software Engineering Research Group](https://www.aau.at/en/isys/serg) of the University of Klagenfurt and the [Research Center Hagenberg](https://www.fh-ooe.at/en/hagenberg-campus) of the University of Applied Sciences of Upper Austria are seeking an **enthusiastic student** interested in obtaining a **PhD degree** in software engineering with a focus on **program analysis** using formal methods. The position is for **two years** (with the possibility to extend it) at an employment of 75%. The potential starting date is as soon as possible.
+The [Software Engineering Research Group](https://www.aau.at/en/isys/serg) of the University of Klagenfurt and the [Research Center Hagenberg](https://www.fh-ooe.at/en/hagenberg-campus) of the University of Applied Sciences of Upper Austria are seeking an **enthusiastic student** interested in obtaining a **PhD degree** in software engineering with a focus on **program analysis** using formal methods. The position is for **two years** (with the possibility to extend it) at an employment level of 75%. The potential starting date is as soon as possible.
 
 The PhD student will contribute to the research project COMPASS of the [Software Competence Center Hagenberg](https://www.scch.at/). The main goal of COMPASS is to advance methods in software analytics to facilitate the analysis of complex software systems. The position provides candidates with an excellent opportunity to do a PhD in an international renowned team formed by the Software Engineering Research Group, the Research Center Hagenberg and the Software Competence Center Hagenberg.
 
