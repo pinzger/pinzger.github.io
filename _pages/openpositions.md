@@ -48,7 +48,7 @@ Please note that applications that do not meet these basic requirements will not
 * A list of 3 references that we can contact
 * Your MSc thesis in English (or alternative if your MSc thesis is not in English, a 5-page summary of your MSc thesis in English).
 
-Please submit your application as PDF files *as early as possible* but not later than **June 4th 2023** via email to [Kerstin Smounig](kerstin.smounig@aau.at). Note, applications will be considered until the position is filled.
+Please submit your application as PDF files *as early as possible* but not later than **June 4th 2023** via email to [Kerstin Smounig](mailto:kerstin.smounig@aau.at). Note, applications will be considered until the position is filled.
 
 For more information on the position contact [Martin Pinzger](/) or [Josef Pichler](https://pure.fh-ooe.at/de/persons/josef-pichler). 
 
