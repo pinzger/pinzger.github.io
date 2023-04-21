@@ -22,6 +22,9 @@ A thesis project with me offers you the opportunity:
 
 Below is a list of Thesis projets that are currently available. Of course, you are welcome to propose your own topic. If you are interested, please do not hesitate to contact me.
 
+### Open positions
+Please check [open positions](openpositions) for available positions in my research group.
+
 ### Automating Software Engineering Tasks
 Software developers are typically burdened with (too) many tasks that involve implementing new features, fixing bugs, refactoring, testing, documenting, etc.. Recent research has indicated great potential to partially automate some tasks to "some" extent. The goal in these thesis projects is to find out what this "extent" is for one of the following specific software engineering tasks:
 * fixing build (or full CI/CD) configurations

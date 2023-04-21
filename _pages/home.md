@@ -40,25 +40,15 @@ My research focuses on investigating methods, techniques, and tools to support t
 
 I am always on the lookout for PhD and Master Students with strong technical and research skills for doing a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
 
-<!--
-#### Open positions 
-We have **two** open positions for PhD students in software engineering, with a focus on change and change impact analysis and/or automating software engineering tasks. Each position is for 4 years and the planned starting date is September 1st, 2021. The basic requirements are:
 
-* Completed Master’s degree or graduate degree in Informatics/Computer Science at a domestic or foreign university
-* Demonstrated knowledge in at least one of the following subject areas:
-   * Software Reengineering
-   * Software Testing
-   * Program Analysis
-   * Mining Software Repositories
-* Very good programming skills
-* Fluency in written and spoken English
+## Open positions 
+We have several open positions for PhD students in software engineering. Please check [Open Positions](/wanted/openpositions) for more information.
 
-Should you fulfill these requirements, please do not hesitate to submit your application until  **June 30th, 2021**. More information on the job offer (in German) is available at the [jobs web-site](https://jobs.aau.at/en/job/2-universitaetsassistentinnen/). Click [here to submit your application](https://jobs.aau.at/en/job/2-universitaetsassistentinnen/?bewerben=true).
--->
+
 <!--
 #### ERRoSS
 I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). Both, IRC 2020 and ERRoSS 2020 will be held online on **November 9-11th, 2020**. Check our web-site for more information.
--->
 
 #### VST 2023
 I am co-organizing the [6th Workshop on Validation, Analysis and Evolution of Software Tests](https://vstworkshop.github.io/vst2023/) (VST 2023) co-located with [SANER 2023](https://saner2023.must.edu.mo/). It will take place online on March 21st, 2023. 
+-->
