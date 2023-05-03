@@ -12,7 +12,7 @@ We have the following open positions:
 
 ## PhD Student in Software Engineering / Program Analysis
 
-The [Software Engineering Research Group](https://www.aau.at/en/isys/serg) at the University of Klagenfurt and the [Research Center Hagenberg](https://www.fh-ooe.at/en/hagenberg-campus) of the University of Applied Sciences of Upper Austria are pleased to annouce **1 Predoc position in software engineering (all genders welcome)** with a focus on **program analysis** using formal methods. 
+The [Software Engineering Research Group](https://www.aau.at/en/isys/serg) at the University of Klagenfurt and the [Research Center Hagenberg](https://www.fh-ooe.at/en/hagenberg-campus) of the University of Applied Sciences of Upper Austria are pleased to announce **1 Predoc position in software engineering (all genders welcome)** with a focus on **program analysis** using formal methods. 
 
 **Level of employment:** 75 % (30 hours/week)<br/>
 **Minimum salary:** € 34,411.65 per annum (gross)<br/>
