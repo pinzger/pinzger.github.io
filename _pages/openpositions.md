@@ -36,7 +36,7 @@ The successful candidates are expected to pursue a PhD within the doctoral progr
 ### Requirements for candidates are
 * Master’s degree in computer science or informatics
 * Profound knowledge in one or more of the following areas
-   * Implementing microservices, 
+   * Microservices
    * Program analysis
    * Abstract interpretation
    * Symbolic execution
