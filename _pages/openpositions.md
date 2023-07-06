@@ -19,8 +19,8 @@ The [Software Engineering Research Group](https://www.aau.at/en/isys/serg) at th
 **Level of employment:** 75 % (30 hours/week)<br/>
 **Minimum salary:** € 34,411.65 per annum (gross)<br/>
 **Limited to:** 4 years<br/>
-**Starting date:** September 1st, 2023<br/>
-**Application deadline:** by July 4, 2023<br/>
+**Starting date:** October/November 1st, 2023<br/>
+**Application deadline:** by ~~July 4, 2023~~ **August 15, 2023**<br/>
 
 The successful candidates will contribute to the research project SemImpact: Change Impact Analysis for Microservice-based Systems. The goal of the SemImpact project is to explore novel methods and techniques that enable software developers and system integrators to accurately determine and understand the semantic impact of code and API changes in microservice-based systems, and to use this information to improve the cost-effectiveness of change impact understanding tasks and regression testing. The project is funded by the Austrian FWF and will be performed by the Software Engineering Research Group (SERG) at the University of Klagenfurt. SERG and the University of Klagenfurt provide a vivid, friendly, international and research-oriented environment.
 
@@ -58,7 +58,7 @@ The successful candidates are expected to pursue a PhD within the doctoral progr
 * A list of 3 references that we can contact
 * Your MSc thesis in English (or alternative if your MSc thesis is not in English, a 5-page summary of your MSc thesis in English).
 
-Please submit your application as PDF files *as early as possible* but not later than **July 4th 2023** via email to [Kerstin Smounig](mailto:kerstin.smounig@aau.at). Note, applications will be considered until the positions are filled.
+Please submit your application as PDF files *as early as possible* but not later than **August 15, 2023** via email to [Kerstin Smounig](mailto:kerstin.smounig@aau.at). Please mention **SemImpact** in the email subject. Note, applications will be considered until the positions are filled.
 
 For more information on the position contact [Martin Pinzger](/). 
 
@@ -71,7 +71,7 @@ The [Software Engineering Research Group](https://www.aau.at/en/isys/serg) at th
 **Minimum salary:** € 34,411.65 per annum (gross)<br/>
 **Limited to:** 2 years (with the possibility to extend it)<br/>
 **Starting date:** as soon as possible<br/>
-**Application deadline:** by June 4, 2023<br/>
+**Application deadline:** by ~~June 4, 2023~~ **August 15, 2023**<br/>
 
 The successful candidate will contribute to the research project COMPASS of the [Software Competence Center Hagenberg](https://www.scch.at/). The main goal of COMPASS is to advance methods in software analytics to facilitate the analysis of complex software systems. The position provides candidates with an excellent opportunity to do a PhD in an international renowned team formed by the Software Engineering Research Group, the Research Center Hagenberg and the Software Competence Center Hagenberg.
 
@@ -107,7 +107,7 @@ Please note that applications that do not meet these basic requirements will not
 * A list of 3 references that we can contact
 * Your MSc thesis in English (or alternative if your MSc thesis is not in English, a 5-page summary of your MSc thesis in English).
 
-Please submit your application as PDF files *as early as possible* but not later than **June 4th 2023** via email to [Kerstin Smounig](mailto:kerstin.smounig@aau.at). Note, applications will be considered until the position is filled.
+Please submit your application as PDF files *as early as possible* but not later than **August 15, 2023** via email to [Kerstin Smounig](mailto:kerstin.smounig@aau.at). Please mention **COMPASS** in the email subject. Note, applications will be considered until the position is filled.
 
 For more information on the position contact [Martin Pinzger](/) or [Josef Pichler](https://pure.fh-ooe.at/de/persons/josef-pichler). 
 
