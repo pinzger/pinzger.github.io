@@ -51,13 +51,15 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing
 
+* Julian Fragner, Dynatrace
+* Elias Santner, AAU-SERG
 * Manuel Schönlaub, AAU-SERG
-* Rijad Gerguri, AAU-SERG
 * Oliver Aartsen, AAU-SERG
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Rijad Gerguri, NDiff – Automating notifications for breaking changes by statically analyzing ASP.NET Core Web API source code, July 2023
 * Christian Wuggenig, Web-based knowledge transfer from R&D to Failure Analysis department at Infineon Technologies Austria AG, February 2023
 * Natyra Ferati, Automating Design Handoff Between UX/UI Design and Development Team, February 2023
 * Guido Breitenhuber, Testing Expected Behavior of Integrated ROS Applications, August 2022

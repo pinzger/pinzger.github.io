@@ -1,3 +1,55 @@
+- title: "RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance"
+  image: 
+  authors: 	V. M. Vilches, J. Jabbour, Y.-S. Hsiao, Z. Wan, A. Martínez-Fariña, M. Crespo-Álvarez, M. Stewart, J. M. Reina-Muñoz, P. Nagras, G. Vikhe, M. Bakhshalipour, M. Pinzger, S. Rass, S. Panigrahi, G. Corradi, N. Roy, P. B. Gibbons, S. M. Neuman, B. Plancher, and V. J. Reddi
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2023
+  description: 
+  link:
+    url: ../papers/Vilches2023-robotperf.pdf
+    display: pdf
+  highlight: 
+
+- title: "PentestGPT: An LLM-empowered Automatic Penetration Testing Tool"
+  image: 
+  authors: G. Deng, Y. Liu, V. M. Vilches, P. Liu, Y. Li, Y. Xu, T. Zhang, Y. Liu, M. Pinzger, and S. Rass
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2023
+  description: 
+  link:
+    url: ../papers/Deng2023-pentestgpt.pdf
+    display: pdf
+  highlight: 
+
+- title: "Incentive-Based Software Security: Fair Micro-Payments for Writing Secure Code"
+  image: 
+  authors: S. Rass and M. Pinzger
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2023
+  description: 
+  link:
+    url: ../papers/Rass2023-fair.pdf
+    display: pdf
+  highlight: 
+
+- title: "ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics"
+  image: 
+  authors: V. M. Vilches, G. Deng, Y. Liu, M. Pinzger, and S. Rass
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2023
+  description: 
+  link:
+    url: ../papers/Vilches2023-exploitflow.pdf
+    display: pdf
+  highlight: 
+
 - title: "Hacking planned obsolescense in robotics, towards security-oriented robot teardown"
   image: 
   authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, F. Maggi, and E. Gil-Uriarte
