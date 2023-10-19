@@ -14,6 +14,8 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing 
 
+* [Alessandro Aneggi](https://www.aau.at/en/team/aneggi-alessandro/), AAU-SERG
+* [Stefan Schöberl](https://www.scch.at/team/stefan.schoeberl), AAU-SERG and SSCH
 * [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
 * [Johann Glock](https://www.aau.at/en/team/glock-johann/), AAU-SERG
 * [Tareq Mohammed Nazir](https://www.aau.at/en/team/nazir-tareq-mohammed/), AAU-SERG
@@ -33,6 +35,8 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 #### PhD Committee Memberships / Reviewer
 * [Michael Schröder](https://mcschroeder.github.io/), Inferring Grammars for Ad Hoc Parsers, TU Wien
 * [Matteo Ciniselli](https://www.inf.usi.ch/phd/cinism/), Code Completion Using Deep Learning, University of Lugano
+* [Quentin le Dilavrec](https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html), Co-evolution in constantly evolving software systems, Université de Rennes
+* Adil Mukhtar, Advancing Spreadsheet Quality Assurance: A Novel Fault Localization Approach, User-Centric Evaluations of Explainable Faults, and Tool Over-reliance, TU Graz, November 2023
 * [Andreas Schörgenhumer](http://mevss.jku.at/?page_id=1647), Data Analysis and Error Analytics in Large-Scale Heterogeneous Software Systems, Johannes Kepler University Linz, August 2021
 * [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano, June 2020
 * [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart, November 2019
