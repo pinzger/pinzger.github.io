@@ -54,7 +54,7 @@ The successful candidate is expected to pursue a PhD within the doctoral program
 ### We offer
 * An excellent environment for conducting cutting-edge research
 * Personal and professional advanced training courses, management and career coaching
-* Numerous attractive additional benefits, see also [AAU as employer](https://jobs.aau.at/en/the-university-asemployer/)
+* Numerous attractive additional benefits, see also [AAU as employer](https://jobs.aau.at/en/the-university-as-employer/)
 * Diversity- and family-friendly university culture
 * The opportunity to live and work in the attractive Alps-Adriatic region with a wide range of leisure activities in the spheres of culture, nature and sports 
 
@@ -110,7 +110,7 @@ Please note that applications that do not meet these basic requirements will not
 ### We offer
 * An excellent environment for conducting cutting-edge research
 * Personal and professional advanced training courses, management and career coaching
-* Numerous attractive additional benefits, see also [AAU as employer](https://jobs.aau.at/en/the-university-asemployer/)
+* Numerous attractive additional benefits, see also [AAU as employer](https://jobs.aau.at/en/the-university-as-employer/)
 * Diversity- and family-friendly university culture
 * The opportunity to live and work in the attractive Alps-Adriatic region with a wide range of leisure activities in the spheres of culture, nature and sports 
 
