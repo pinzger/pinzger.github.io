@@ -1,3 +1,16 @@
+- title: "DValidator: An approach for validating dependencies in build configurations"
+  image: 
+  authors: C. Macho, F. Oraze, and M. Pinzger	
+  proceedings: Journal of Systems and Software
+  pages: vol. 209
+  publisher: Elsevier
+  year: 2024
+  description: "In this paper, we propose DValidator, an approach that considers dependencies on project level and method call level for validating dependencies in build configurations. First, DValidator encodes a project’s dependency graph as specified in a build configuration and its call graph into a representation using Answer Set Programming (ASP). Then it uses Clingo as a solver to detect problems with the dependencies in that build configuration. In a preliminary evaluation with four open source Maven projects we show that our approach can detect selected dependency smells in less than eight seconds. Next steps concern the investigation of our approach for automatically improving dependency configurations, such as automatically repairing dependency smells and conflicts. Editor’s note: Open Science material was validated by the Journal of Systems and Software Open Science Board."
+  link:
+    url: ../papers/Macho2023-dvalidator.pdf
+    display: pdf
+  highlight: 1
+
 - title: "RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance"
   image: 
   authors: 	V. M. Vilches, J. Jabbour, Y.-S. Hsiao, Z. Wan, A. Martínez-Fariña, M. Crespo-Álvarez, M. Stewart, J. M. Reina-Muñoz, P. Nagras, G. Vikhe, M. Bakhshalipour, M. Pinzger, S. Rass, S. Panigrahi, G. Corradi, N. Roy, P. B. Gibbons, S. M. Neuman, B. Plancher, and V. J. Reddi
@@ -230,7 +243,7 @@
   link:
     url: ../papers/Liva2019-repair.pdf
     display: pdf
-  highlight: 1
+  highlight:
 
 - title: "What kind of questions do developers ask on Stack Overflow? A comparison of automated approaches to classify posts into question categories"
   image: 
@@ -243,7 +256,7 @@
   link:
     url: ../papers/Beyer2019-questions.pdf
     display: pdf
-  highlight: 1
+  highlight:
 
 - title: "Semantics-Driven Extraction of Timed Automata from Java Programs"
   image: 
@@ -308,7 +321,7 @@
   link:
     url: ../papers/Frick2018-ijm.pdf
     display: pdf
-  highlight: 1
+  highlight:
 
 - title: "DiffViz: A Diff Algorithm Independent Visualization Tool for Edit Scripts"
   image: diffviz.png
