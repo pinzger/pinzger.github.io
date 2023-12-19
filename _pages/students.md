@@ -34,7 +34,7 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### PhD Committee Memberships / Reviewer
 * [Michael Schröder](https://mcschroeder.github.io/), Inferring Grammars for Ad Hoc Parsers, TU Wien
-* [Matteo Ciniselli](https://www.inf.usi.ch/phd/cinism/), Code Completion Using Deep Learning, University of Lugano
+* [Matteo Ciniselli](https://www.inf.usi.ch/phd/cinism/), Studying Strengths and Weaknesses of Code Recommenders, University of Lugano, December 2023
 * [Quentin le Dilavrec](https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html), Co-evolution in constantly evolving software systems, Université de Rennes
 * Adil Mukhtar, Advancing Spreadsheet Quality Assurance: A Novel Fault Localization Approach, User-Centric Evaluations of Explainable Faults, and Tool Over-reliance, TU Graz, November 2023
 * [Andreas Schörgenhumer](http://mevss.jku.at/?page_id=1647), Data Analysis and Error Analytics in Large-Scale Heterogeneous Software Systems, Johannes Kepler University Linz, August 2021
