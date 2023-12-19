@@ -9,7 +9,7 @@ permalink: /wanted/openpositions
 # Open Positions
 We have the following open positions:
 * [1 PhD Student for Change Impact Analysis in Microservice-based Systems](#phd-student-for-change-impact-analysis-in-microservice-based-systems)
-* [1 PhD Student for Program Analysis using Formal Methods](#phd-student-for-program-analysis-using-formal-methods)
+<!-- * [1 PhD Student for Program Analysis using Formal Methods](#phd-student-for-program-analysis-using-formal-methods) -->
 
 
 ## PhD Student for Change Impact Analysis in Microservice-based Systems ##
@@ -69,7 +69,7 @@ Please submit your application as PDF files *as early as possible* via email to 
 
 For more information on the position contact [Martin Pinzger](/). 
 
-
+<!--
 ## PhD Student for Program Analysis using Formal Methods ##
 
 The [Software Engineering Research Group](https://www.aau.at/en/isys/serg) at the University of Klagenfurt and the [Research Center Hagenberg](https://www.fh-ooe.at/en/hagenberg-campus) of the University of Applied Sciences of Upper Austria are pleased to announce **1 Predoc position in software engineering** with a focus on **program analysis** using formal methods. 
@@ -125,4 +125,4 @@ Please submit your application as PDF files *as early as possible* via email to 
 
 For more information on the position contact [Martin Pinzger](/) or [Josef Pichler](https://pure.fh-ooe.at/de/persons/josef-pichler). 
 
-
+-->
