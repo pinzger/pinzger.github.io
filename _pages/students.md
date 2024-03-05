@@ -57,7 +57,6 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 * Julian Fragner, Dynatrace
 * Elias Santner, AAU-SERG
-* Manuel Schönlaub, AAU-SERG
 * Oliver Aartsen, AAU-SERG
 * Christof Bachmann, AAU-ZID
 
