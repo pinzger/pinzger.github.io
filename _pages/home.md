@@ -22,7 +22,7 @@ Universitätsstraße 65-67<br/>
 E-mail: martin.pinzger (atDomain) aau (dot) at <br/>
 Phone: +43 463 2700 3513 <br />
 <!--Fax: +43 463 2700 99 3513 <br /> -->
-Office: S.2.79 <br />
+Office: [S.2.79](https://campusplan.aau.at/?campus=1&q=S.2.79) <br />
 
 <a href="http://www.linkedin.com/in/martinpinzger"><img src="images/linkedin.png" height="25" border="0" alt="View Martin Pinzger's profile on LinkedIn" /></a> <a href="http://dblp.uni-trier.de/pers/hd/p/Pinzger_0001:Martin"><img src="images/dblp.jpg" height="25" border="0" alt="View Martin Pinzger's publications on DBLP" /></a>
 <a href="http://scholar.google.com/citations?user=MTZ0l60AAAAJ&hl=en"><img src="images/google.png" height="25" border="0" alt="View Martin Pinzger's publications on Google Scholar" /></a>

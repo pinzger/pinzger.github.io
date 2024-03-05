@@ -1,7 +1,7 @@
 - title: "DValidator: An approach for validating dependencies in build configurations"
   image: 
   authors: C. Macho, F. Oraze, and M. Pinzger	
-  proceedings: Journal of Systems and Software
+  proceedings: Journal of Systems and Software (JSS)
   pages: vol. 209
   publisher: Elsevier
   year: 2024
@@ -14,10 +14,10 @@
 - title: "RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance"
   image: 
   authors: 	V. M. Vilches, J. Jabbour, Y.-S. Hsiao, Z. Wan, A. Martínez-Fariña, M. Crespo-Álvarez, M. Stewart, J. M. Reina-Muñoz, P. Nagras, G. Vikhe, M. Bakhshalipour, M. Pinzger, S. Rass, S. Panigrahi, G. Corradi, N. Roy, P. B. Gibbons, S. M. Neuman, B. Plancher, and V. J. Reddi
-  proceedings: CoRR
-  pages: 
-  publisher: 
-  year: 2023
+  proceedings: Prodceedings of the International Conference on Robotics and Automation (ICRA)
+  pages: to appear
+  publisher: IEEE 
+  year: 2024
   description: 
   link:
     url: ../papers/Vilches2023-robotperf.pdf

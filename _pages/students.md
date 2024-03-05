@@ -34,14 +34,14 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### PhD Committee Memberships / Reviewer
 * [Michael Schröder](https://mcschroeder.github.io/), Inferring Grammars for Ad Hoc Parsers, TU Wien
+* [Quentin le Dilavrec](https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html), Co-evolution in constantly evolving software systems, Université de Rennes, February 2024
 * [Matteo Ciniselli](https://www.inf.usi.ch/phd/cinism/), Studying Strengths and Weaknesses of Code Recommenders, University of Lugano, December 2023
-* [Quentin le Dilavrec](https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html), Co-evolution in constantly evolving software systems, Université de Rennes
 * Adil Mukhtar, Advancing Spreadsheet Quality Assurance: A Novel Fault Localization Approach, User-Centric Evaluations of Explainable Faults, and Tool Over-reliance, TU Graz, November 2023
 * [Andreas Schörgenhumer](http://mevss.jku.at/?page_id=1647), Data Analysis and Error Analytics in Large-Scale Heterogeneous Software Systems, Johannes Kepler University Linz, August 2021
 * [Lin Bin](https://www.inf.usi.ch/phd/lin/index.html), Opinion Mining Aided Software Development, University of Lugano, June 2020
 * [Daniel Kulesz](https://www.iste.uni-stuttgart.de/institute/team/Kulesz/), Spreadsheet Guardian: Ein Ansatz für die kontinuierliche Prüfung von gemeinschaftlich genutzten Spreadsheets (in German), Universität Stuttgart, November 2019
 * Alexander Asp Bock, Declarative, Parallel Programming For End-User Development, ITU University of Copenhagen, June 2019
-* Fiorella Zampetti, Studying and Supporting Developers’ Activities in Continuous Delivery Pipelines, University of Sannio
+* [Fiorella Zampetti](https://www.unisannio.it/it/users/fzampetti), Studying and Supporting Developers’ Activities in Continuous Delivery Pipelines, University of Sannio, May 2019
 * [Tommaso dal Sasso](http://www.inf.usi.ch/phd/dalsat/), An Object is Worth a Thousand Words: Reification as the Key to Augmenting Software Development, University of Lugano, June 2018
 * [Haidar Osman](http://scg.unibe.ch/staff/Osman), Empirically-Grounded Construction of Bug Prediction and Detection Tools, University of Bern, December 2017
 * [Marko Janković](http://si.linkedin.com/in/markojm), Semi-automatic Reconstruction and Documentation of Software Development Methods, University of Ljubljana, January 2020
