@@ -5,7 +5,7 @@
   pages: vol. 213
   publisher: Elsevier
   year: 2024
-  description: "In this paper, we present PASDA: A partition-based semantic differencing approach with best effort classification of undecided cases. It uses symbolic execution (Symbolic PathFinder) to check the equivalence of all paths found in two versions of a Java program to be either equivalent or non-equivalent, as well as a best effort classification for undecided cases. These are cases, for which the solver (Z3) used by PASDA cannot find a solution or PASDA times out. A comparison with three state-of-the-art approaches showed that PASDA outperforms them in terms of accuracy by 3%-7% on program-level. Moreover, PASDA provides partition-level results also for undecided cases and we briefly discuss the value of this information in three potential uses cases."
+  description: "In this paper, we present PASDA, a partition-based semantic differencing approach with best effort classification of undecided cases. It uses symbolic execution (Symbolic PathFinder) to check the equivalence of all paths found in two versions of a Java program to be either equivalent or non-equivalent, as well as a best effort classification for undecided cases. These are cases, for which the solver (Z3) used by PASDA cannot find a solution or PASDA times out. A comparison with three state-of-the-art approaches showed that PASDA outperforms them in terms of accuracy by 3%-7% on program-level. Moreover, PASDA provides partition-level results also for undecided cases and we briefly discuss the value of this information in three potential uses cases."
   link:
     url: ../papers/Glock2024-pasda.pdf
     display: pdf
