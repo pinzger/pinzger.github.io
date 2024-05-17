@@ -62,16 +62,16 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Finished
 
-* Rijad Gerguri, NDiff – Automating notifications for breaking changes by statically analyzing ASP.NET Core Web API source code, July 2023
+* Rijad Gerguri, [NDiff – Automating notifications for breaking changes by statically analyzing ASP.NET Core Web API source code](https://netlibrary.aau.at/obvuklhs/content/titleinfo/9005853), July 2023
 * Christian Wuggenig, Web-based knowledge transfer from R&D to Failure Analysis department at Infineon Technologies Austria AG, February 2023
-* Natyra Ferati, Automating Design Handoff Between UX/UI Design and Development Team, February 2023
-* Guido Breitenhuber, Testing Expected Behavior of Integrated ROS Applications, August 2022
-* Andreas Kopeinig, Fine-grained Change Analysis for TypeScript based Systems, March 2022
+* Natyra Ferati, [Automating Design Handoff Between UX/UI Design and Development Team](https://netlibrary.aau.at/obvuklhs/content/titleinfo/8504842), February 2023
+* Guido Breitenhuber, [Testing Expected Behavior of Integrated ROS Applications](https://netlibrary.aau.at/obvuklhs/content/titleinfo/8352016), August 2022
+* Andreas Kopeinig, [Fine-grained Change Analysis for TypeScript based Systems](https://netlibrary.aau.at/obvuklhs/content/titleinfo/7773463), March 2022
 * Christoph Wedenig, Detecting SSRF Attacks in Kubernetes using Distributed Tracing, March 2022
 * Kevin van Dommele, Bridging Component Validation Frameworks, September 2021
 * Andreas Tscheinig, Advanced Analytics for Autonomous Cloud Delivery Operations, August 2021
 * Karin Wagner, Closing the Gap between Firmware Development and Integrated Test Development, June 2019
-* Thomas Grassauer, Studying Co-Evolution of Production and Test Code in .NET Open Source Projects, October 2016
+* Thomas Grassauer, [Studying Co-Evolution of Production and Test Code in .NET Open Source Projects](https://netlibrary.aau.at/obvuklhs/content/titleinfo/2411898), October 2016
 * Kavitha Shanmugam, Evolution of Custom SAP Applications (together with Infineon), September 2014
 * Jelle Fresen, Analyzing web applications by visualizing their state-flow graphs (together with Andy Zaidman), October 2013
 * Maria Kalouda, Analyzing the Evolution of WSDL Interfaces using Metrics (together with Daniele Romano and Andy Zaidman), September 2013

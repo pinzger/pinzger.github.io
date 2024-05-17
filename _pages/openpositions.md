@@ -17,7 +17,7 @@ We have the following open positions:
 The [Software Engineering Research Group](https://www.aau.at/en/isys/serg) at the University of Klagenfurt is pleased to announce **1 Predoc position in software engineering** with a focus on **code and API change impact analysis** in microservice-based systems. 
  
 **Level of employment:** 75 % (30 hours/week)<br/>
-**Minimum salary:** € 34,411.65 per annum (gross)<br/>
+**Minimum salary:** € 37.577,4 per annum (gross)<br/>
 **Limited to:** 4 years<br/>
 **Starting date:** as soon as possible<br/>
 **Application deadline:** applications will be considered **until** the position  is filled<br/>
