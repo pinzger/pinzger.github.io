@@ -1,3 +1,9 @@
+- date: <strong>June 2024</strong>
+  headline: "Our paper <strong>PentestGPT: An LLM-empowered Automatic Penetration Testing Tool</strong> has been accepted at <a href=\"https://www.usenix.org/conference/usenixsecurity24\">USENIX Security  2024</a> in Philadelphia, USA. <a href=\"https://arxiv.org/pdf/2308.06782\">Pre-print.</a>" 
+
+- date: <strong>June 2024</strong>
+  headline: "Our paper <strong>Microservice API Evolution in Practice: A Study on Strategies and Challenges</strong> has been accepted for publication in the Journal of Systems and Software (JSS). <a href=\"/papers/Lercher2024-apis.pdf\">Pre-print.</a>"
+
 - date: <strong>April 2024</strong>
   headline: "Our paper <strong>PASDA: A Partition-based Semantic Differencing Approach with Best Effort Classification of Undecided Cases</strong> has been accepted for publication in the Journal of Systems and Software (JSS). <a href=\"/papers/Glock2024-pasda.pdf\">Pre-print.</a>"
 
