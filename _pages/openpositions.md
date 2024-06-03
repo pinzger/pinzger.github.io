@@ -7,9 +7,11 @@ permalink: /wanted/openpositions
 ---
 
 # Open Positions
+At the moment, we do not have any open positions available.
+
+<!--
 We have the following open positions:
 * [1 PhD Student for Change Impact Analysis in Microservice-based Systems](#phd-student-for-change-impact-analysis-in-microservice-based-systems)
-<!-- * [1 PhD Student for Program Analysis using Formal Methods](#phd-student-for-program-analysis-using-formal-methods) -->
 
 
 ## PhD Student for Change Impact Analysis in Microservice-based Systems ##

@@ -42,8 +42,10 @@ I am always on the lookout for PhD and Master Students with strong technical and
 
 
 ## Open positions 
-We have the following open positions for PhD students in software engineering: 
-* [1 PhD Student for Change Impact Analysis in Microservice-based Systems](/wanted/openpositions)
+At the moment we do not have any open positions.
+
+<!-- We have the following open positions for PhD students in software engineering: 
+* [1 PhD Student for Change Impact Analysis in Microservice-based  Systems](/wanted/openpositions) -->
 <!-- * [1 PhD Student for Program Analysis using Formal Methods](/wanted/openpositions#phd-student-for-program-analysis-using-formal-methods) -->
 
 
