@@ -1,4 +1,7 @@
 - date: <strong>June 2024</strong>
+  headline: "Joined the PC of <a href=\"https://conf.researchr.org/home/fse-2025\">FSE 2025</a> in Trondheim, Norway."
+
+- date: <strong>June 2024</strong>
   headline: "Our paper <strong>PentestGPT: An LLM-empowered Automatic Penetration Testing Tool</strong> has been accepted at <a href=\"https://www.usenix.org/conference/usenixsecurity24\">USENIX Security  2024</a> in Philadelphia, USA. <a href=\"https://arxiv.org/pdf/2308.06782\">Pre-print.</a>" 
 
 - date: <strong>June 2024</strong>
@@ -18,6 +21,12 @@
 
 - date: <strong>December 2023</strong>
   headline: "Our paper <strong>DValidator: An approach for validating dependencies in build configurations</strong> has been accepted for publication in the Journal of Systems and Software (JSS). <a href=\"/papers/Macho2023-dvalidator.pdf\">Pre-print.</a>"
+
+- date: <strong>November 2023</strong>
+  headline: "Joined the PC of <a href=\"https://conf.researchr.org/home/icse-2025\">ICSE 2025</a> in Ottawa, Canada."
+
+- date: <strong>September 2023</strong>
+  headline: "Joined the PC of <a href=\"https://conf.researchr.org/home/icsme-2024\">ICSME 2024</a> in Flagstaff, USA."
 
 - date: <strong>September 2023</strong>
   headline: "I am still looking for a PhD student in Software Engineering to work on  <strong>Semantic Change Impact Analysis for Microservice-based Systems</strong>. See <a href=\"/wanted/openpositions\">open positions</a> for how to apply."
