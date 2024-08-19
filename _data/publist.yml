@@ -2,12 +2,12 @@
   image: 
   authors: G. Deng, Y. Liu, V. M. Vilches, P. Liu, Y. Li, Y. Xu, T. Zhang, Y. Liu, M. Pinzger, and S. Rass
   proceedings: Proceedings of the USENIX Security Symposium 
-  pages: to appear
+  pages: pp. 847-864
   publisher: USENIX 
   year: 2024
   description: 
   link:
-    url: https://arxiv.org/pdf/2308.06782
+    url: https://www.usenix.org/system/files/usenixsecurity24-deng.pdf
     display: pdf
   highlight:
 
@@ -52,14 +52,14 @@
 
 - title: "RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance"
   image: 
-  authors: 	V. M. Vilches, J. Jabbour, Y.-S. Hsiao, Z. Wan, A. Martínez-Fariña, M. Crespo-Álvarez, M. Stewart, J. M. Reina-Muñoz, P. Nagras, G. Vikhe, M. Bakhshalipour, M. Pinzger, S. Rass, S. Panigrahi, G. Corradi, N. Roy, P. B. Gibbons, S. M. Neuman, B. Plancher, and V. J. Reddi
+  authors: 	V. M. Vilches, J. Jabbour, Y.-S. Hsiao, Z. Wan, M. Crespo-Álvarez, M. Stewart, J. M. Reina-Muñoz, P. Nagras, G. Vikhe, M. Bakhshalipour, M. Pinzger, S. Rass, S. Panigrahi, G. Corradi, N. Roy, P. B. Gibbons, S. M. Neuman, B. Plancher, and V. J. Reddi
   proceedings: Proceedings of the International Conference on Robotics and Automation (ICRA)
-  pages: to appear
+  pages: pp. 8288-8297
   publisher: IEEE 
   year: 2024
   description: 
   link:
-    url: ../papers/Vilches2023-robotperf.pdf
+    url: ../papers/Vilches2024-robotperf-icra.pdf
     display: pdf
   highlight: 
 

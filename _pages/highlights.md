@@ -8,6 +8,7 @@ permalink: /highlights/
 
 # Professional Highlights
 
+* **2024**: Received my 3rd ICSE Distinguished Reviewer Award (after ICSE 2017 and 2021).
 * **2023**: Received my 2nd ESEC/FSE Distinguished Reviewer Award (after ESEC/FSE 2022).
 * **2021**: Received my 2nd ICSE Distinguished Reviewer Award (after ICSE 2017).
 * **2019**: Chair of the steering committee of the IEEE International Conference on Software Analysis, Evolution, and Reengineering (SANER)
