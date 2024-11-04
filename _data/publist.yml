@@ -1,3 +1,16 @@
+- title: "CertGraph: Towards a Comprehensive Knowledge Graph for Cloud Security Certifications"
+  image: 
+  authors: S. Schöberl, C. Banse, V. Geist, I. Kunz, and M. Pinzger
+  proceedings: Proceedings of the International Conference on Model Driven Engineering Languages and Systems
+  pages: pp. 76-77
+  publisher: ACM
+  year: 2024
+  description: 
+  link:
+    url: ../papers/Schoeberl2024-certgraph.pdf
+    display: pdf
+  highlight:
+
 - title: "PentestGPT: An LLM-empowered Automatic Penetration Testing Tool"
   image: 
   authors: G. Deng, Y. Liu, V. M. Vilches, P. Liu, Y. Li, Y. Xu, T. Zhang, Y. Liu, M. Pinzger, and S. Rass
