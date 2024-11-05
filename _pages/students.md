@@ -8,13 +8,12 @@ permalink: /students/
 
 # PhD and Master Students
 
-I am having and had the privilege of supervising a number of PhD and Master students.
+I have and had the privilege of supervising a number of PhD and Master students.
 
 ### PhD Students
 
 #### Ongoing 
 
-* [Alessandro Aneggi](https://www.aau.at/en/team/aneggi-alessandro/), AAU-SERG
 * [Stefan Schöberl](https://www.scch.at/team/stefan.schoeberl), AAU-SERG and SSCH
 * [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
 * [Johann Glock](https://www.aau.at/en/team/glock-johann/), AAU-SERG
@@ -55,13 +54,13 @@ I am having and had the privilege of supervising a number of PhD and Master stud
 
 #### Ongoing
 
-* Julian Fragner, Dynatrace
 * Elias Santner, AAU-SERG
 * Oliver Aartsen, AAU-SERG
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Julian Fragner, [Lost in Translation? Converting Regular Expressions into Dynatrace Pattern Language](https://netlibrary.aau.at/obvuklhs/content/titleinfo/10579248), August 2024
 * Rijad Gerguri, [NDiff – Automating notifications for breaking changes by statically analyzing ASP.NET Core Web API source code](https://netlibrary.aau.at/obvuklhs/content/titleinfo/9005853), July 2023
 * Christian Wuggenig, Web-based knowledge transfer from R&D to Failure Analysis department at Infineon Technologies Austria AG, February 2023
 * Natyra Ferati, [Automating Design Handoff Between UX/UI Design and Development Team](https://netlibrary.aau.at/obvuklhs/content/titleinfo/8504842), February 2023
