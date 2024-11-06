@@ -49,7 +49,7 @@ Spreadsheets are used extensively in business for all sorts of tasks and purpose
 
 ### Master's Thesis Projects @ Companies
 Please contact me for more information on available Master's Thesis projects @ companies.
-You are also welcome to propose your own project. 
+You are also welcome to propose your own project. **But** note, we will and can not supervise projects requiring us to sign an NDA from the company, potentially limiting our freedom in research.
 
 
 
