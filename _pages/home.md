@@ -33,10 +33,10 @@ I am a Full Professor of Software Engineering at the [Universität Klagenfurt](h
 
 My research focuses on investigating methods, techniques, and tools to support the development and evolution of software systems. My current topics of interest are:
 
-* mining software repositories
-* program analysis
-* software visualization
-* automating software engineering tasks
+* AI for software engineering
+* Mining Software Repositories
+* Program Analysis
+* Software visualization
 
 I am always on the lookout for PhD and Master Students with strong technical and research skills for doing a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
 
