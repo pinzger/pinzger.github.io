@@ -54,6 +54,7 @@ I have and had the privilege of supervising a number of PhD and Master students.
 
 #### Ongoing
 
+* Wilhelm Stuhlpfarrer, AAU-SERG and Glock Technology GmbH
 * Elias Santner, AAU-SERG
 * Oliver Aartsen, AAU-SERG
 * Christof Bachmann, AAU-ZID
