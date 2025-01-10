@@ -14,6 +14,7 @@ I have and had the privilege of supervising a number of PhD and Master students.
 
 #### Ongoing 
 
+* Katharina Stengg, AAU-SERG
 * [Stefan Schöberl](https://www.scch.at/team/stefan.schoeberl), AAU-SERG and SSCH
 * [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
 * [Johann Glock](https://www.aau.at/en/team/glock-johann/), AAU-SERG
@@ -53,8 +54,8 @@ I have and had the privilege of supervising a number of PhD and Master students.
 ### Master Students
 
 #### Ongoing
-
-* Wilhelm Stuhlpfarrer, AAU-SERG and Glock Technology GmbH
+* Volkmer Merlin, AAU-SERG
+* Wilhelm Stuhlpfarrer, Glock Technology GmbH
 * Elias Santner, AAU-SERG
 * Oliver Aartsen, AAU-SERG
 * Christof Bachmann, AAU-ZID

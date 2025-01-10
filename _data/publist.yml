@@ -1,3 +1,30 @@
+- title: "Generating Accurate OpenAPI Descriptions from Java Source Code"
+  image: 
+  authors: A. Lercher, C. Macho, C. Bauer, and M. Pinzger
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2024
+  description: 
+  link:
+    url: ../papers/Lercher2024-AutoOAS.pdf
+    display: pdf
+  highlight: 
+
+- title: "Evaluating AI-Based Code Segmentation for ABAP Programs in an Industrial Use Case"
+  image: 
+  authors: R. Mayer, M. Moser, N. Greif, F. Schnitzhofer, V. Geist, and Martin Pinzger
+  proceedings: Product-Focused Software Process Improvement. Industry-, Workshop-, and Doctoral Symposium Papers, Lecture Notes in Computer Science
+  pages: pp. 131-147
+  publisher: Springer
+  year: 2024
+  description: 
+  link:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-78392-0_9
+    display: pdf
+  highlight:
+
+
 - title: "CertGraph: Towards a Comprehensive Knowledge Graph for Cloud Security Certifications"
   image: 
   authors: S. Schöberl, C. Banse, V. Geist, I. Kunz, and M. Pinzger
@@ -11,18 +38,18 @@
     display: pdf
   highlight:
 
-- title: "PentestGPT: An LLM-empowered Automatic Penetration Testing Tool"
+- title: "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing"
   image: 
   authors: G. Deng, Y. Liu, V. M. Vilches, P. Liu, Y. Li, Y. Xu, T. Zhang, Y. Liu, M. Pinzger, and S. Rass
   proceedings: Proceedings of the USENIX Security Symposium 
   pages: pp. 847-864
   publisher: USENIX 
   year: 2024
-  description: 
+  description: "This paper introduces PentestGPT, an LLM-empowered automated penetration testing framework. PentestGPT is meticulously designed with three self-interacting modules, each addressing individual sub-tasks of penetration testing, to mitigate the challenges related to context loss. Our evaluation shows that PentestGPT outperforms LLMs with a task-completion increase of 228.6% compared to the GPT-3.5 model among the benchmark targets. It also proves effective in tackling real-world penetration testing targets and CTF challenges."
   link:
     url: https://www.usenix.org/system/files/usenixsecurity24-deng.pdf
     display: pdf
-  highlight:
+  highlight: 1
 
 - title: "Microservice API Evolution in Practice: A Study on Strategies and Challenges"
   image: 
@@ -204,7 +231,7 @@
   link: 
     url: ../papers/Macho2021-buildchanges.pdf
     display: pdf
-  highlight: 1
+  highlight:
 
 - title: "A Method for the Joint Analysis of Numerical and Textual IT-System Data to Predict Critical System States"
   image: 
