@@ -14,7 +14,7 @@ I have and had the privilege of supervising a number of PhD and Master students.
 
 #### Ongoing 
 
-* Katharina Stengg, AAU-SERG
+* [Katharina Stengg](https://www.aau.at/en/isys/serg/team/stengg-katharina/), AAU-SERG
 * [Stefan Schöberl](https://www.scch.at/team/stefan.schoeberl), AAU-SERG and SSCH
 * [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
 * [Johann Glock](https://www.aau.at/en/team/glock-johann/), AAU-SERG

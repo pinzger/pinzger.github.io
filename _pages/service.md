@@ -53,6 +53,7 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
+* [ICSME 2025](https://conf.researchr.org/home/icsme-2025) - International Conference on Software Maintenance and Evolution
 * [FSE 2025](https://conf.researchr.org/home/fse-2025) - International Conference on the Foundations of Software Engineering
 * [ICSE 2025](https://conf.researchr.org/home/icse-2025) - International Conference on Software Engineering
 * [ICSME 2024](https://conf.researchr.org/home/icsme-2024) - International Conference on Software Maintenance and Evolution

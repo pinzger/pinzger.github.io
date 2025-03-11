@@ -1,8 +1,17 @@
+- date: <strong>January 2025</strong>
+  headline: "Got invited by the IEEE Transactions on Software Engineering to write a retrospective of our work on ChangeDistiller that was selected as one of the most influential papers of IEEE TSE’s 4th decade. <a href=\"/papers/Fluri2025-retrospective.pdf\">Early Access Version</a>."
+
+- date: <strong>December 2024</strong>
+  headline: "Our tool demo <strong>AutoGuard: Reporting breaking changes of REST APIs from Java Spring Boot source code</strong> has been accepted at <a href=\"https://conf.researchr.org/home/saner-2025\">SANER 2025</a> in Montreal, Canada. <a href=\"https://github.com/MSA-API-Management/AutoGuard\">AutoGuard tool.</a>" 
+
+- date: <strong>November 2024</strong>
+  headline: "Joined the PC of <a href=\"https://conf.researchr.org/home/fse-2025\">ICSME 2025</a> in Auckland, New Zealand."
+
 - date: <strong>June 2024</strong>
   headline: "Joined the PC of <a href=\"https://conf.researchr.org/home/fse-2025\">FSE 2025</a> in Trondheim, Norway."
 
 - date: <strong>June 2024</strong>
-  headline: "Our paper <strong>PentestGPT: An LLM-empowered Automatic Penetration Testing Tool</strong> has been accepted at <a href=\"https://www.usenix.org/conference/usenixsecurity24\">USENIX Security  2024</a> in Philadelphia, USA. <a href=\"https://arxiv.org/pdf/2308.06782\">Pre-print.</a>" 
+  headline: "Our paper <strong>PentestGPT: An LLM-empowered Automatic Penetration Testing Tool</strong> has been accepted at <a href=\"https://www.usenix.org/conference/usenixsecurity24\">USENIX Security 2024</a> in Philadelphia, USA. <a href=\"https://arxiv.org/pdf/2308.06782\">Pre-print.</a>" 
 
 - date: <strong>June 2024</strong>
   headline: "Our paper <strong>Microservice API Evolution in Practice: A Study on Strategies and Challenges</strong> has been accepted for publication in the Journal of Systems and Software (JSS). <a href=\"/papers/Lercher2024-apis.pdf\">Pre-print.</a>"

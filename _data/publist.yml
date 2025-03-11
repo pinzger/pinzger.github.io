@@ -1,3 +1,30 @@
+- title: "A Retrospective of ChangeDistiller: Tree Differencing for Fine-Grained Source Code Change Extraction"
+  image: 
+  authors: B. Fluri, M. Würsch, M. Pinzger, and H. Gall	
+  proceedings: IEEE Transactions on Software Engineering
+  pages: pp. 1-6
+  publisher: IEEE
+  year: 2025
+  description: "This paper presents a retrospective on our research on ChangeDistiller that pioneered the use of abstract syntax trees and associated tree edits for change analysis. We were among the first to introduce a tree-differencing algorithm for source code, enabling a fine-grained examination of modifications. ChangeDistiller has since been widely adopted by researchers in the field of mining software repositories. We reflect on the evolution of our technique, its influence on subsequent research, and its role in the advancement of change analysis methodologies. In addition, we explore how contemporary techniques and tools can draw on our foundational work to enhance their effectiveness."
+  link:
+    url: ../papers/Fluri2025-retrospective.pdf
+    display: pdf
+  highlight: 1
+
+
+- title: "AutoGuard: Reporting breaking changes of REST APIs from Java Spring Boot source code"
+  image: 
+  authors: A. Lercher, C. Bauer, C. Macho, and M. Pinzger
+  proceedings: Proceedings of the International Conference on Software Analysis, Evolution and Reengineering
+  pages: 
+  publisher: IEEE
+  year: 2025
+  description: 
+  link:
+    url: ../papers/Lercher2025-AutoGuard.pdf
+    display: pdf
+  highlight: 
+
 - title: "Generating Accurate OpenAPI Descriptions from Java Source Code"
   image: 
   authors: A. Lercher, C. Macho, C. Bauer, and M. Pinzger
@@ -88,7 +115,7 @@
   link:
     url: ../papers/Macho2023-dvalidator.pdf
     display: pdf
-  highlight: 1
+  highlight:
 
 - title: "RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance"
   image: 
