@@ -39,11 +39,13 @@ My research focuses on investigating methods, techniques, and tools to support t
 * Program Analysis
 * Software Visualization
 
-I am always on the lookout for PhD and Master Students with strong technical and research skills for doing a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
+For more details, see my recent [publications](publications) and [wanted](wanted). 
+
+I am always on the lookout for PhD and Master's Students with strong technical and research skills to do a PhD or Master's Thesis with me. See [wanted](wanted) for more information or drop me an email.
 
 
 ## Open positions 
-At the moment we do not have any open positions.
+At the moment, we do not have any open positions.
 
 <!-- We have the following open positions for PhD students in software engineering: 
 * [1 PhD Student for Change Impact Analysis in Microservice-based  Systems](/wanted/openpositions) -->

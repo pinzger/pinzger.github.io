@@ -17,7 +17,7 @@ permalink: /service/
 * [WCRE 2011](http://www.cs.wm.edu/semeru/wcre2011/), [WCRE 2010](http://web.soccerlab.polymtl.ca/wcre2010/) Program Co-Chair
 
 ### Co-Organizer
-* [VST 2024](https://vstworkshop.github.io/vst2024/), [VST 2023](https://vstworkshop.github.io/vst2023/), [VST 2022](https://vstworkshop.github.io/vst2022/), [VST 2021](https://vstworkshop.github.io/vst2021/), [VST 2020](https://vstworkshop.github.io/vst2020/) Co-Organizer
+* [VST 2025](https://vstworkshop.github.io/vst2025/), [VST 2024](https://vstworkshop.github.io/vst2024/), [VST 2023](https://vstworkshop.github.io/vst2023/), [VST 2022](https://vstworkshop.github.io/vst2022/), [VST 2021](https://vstworkshop.github.io/vst2021/), [VST 2020](https://vstworkshop.github.io/vst2020/) Co-Organizer
 * [ERRoSS 2020](https://www.erross.org/) Co-Organizer
 * [ICPC 2017](http://icpc2017.unibas.it/) ERA track Co-Chair
 * [FSE 2014](http://fse22.gatech.edu/) Publicity Co-Chair
@@ -53,6 +53,7 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
+* [FSE 2026](https://conf.researchr.org/home/fse-2026) - International Conference on the Foundations of Software Engineering
 * [ICSME 2025](https://conf.researchr.org/home/icsme-2025) - International Conference on Software Maintenance and Evolution
 * [FSE 2025](https://conf.researchr.org/home/fse-2025) - International Conference on the Foundations of Software Engineering
 * [ICSE 2025](https://conf.researchr.org/home/icse-2025) - International Conference on Software Engineering
