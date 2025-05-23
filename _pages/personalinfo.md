@@ -27,18 +27,14 @@ There are many beautiful places in the Alps and I still need to discover many of
 
 Bouldering:
 
-* Maltatal, stunning, beautiful area with lots of solid boulders. Important - park your car at the signed parking lot and follow the marked path for accessing the boulders (e.g., do not park, camp on, or cross the farmland!). Leave every spot behind clean. Check [Maltatal Klettern](https://www.facebook.com/maltatalklettern) and [Bergtotal Malta](http://www.bergtotal.com/Bouldergebiete/Oesterreich/Malta-Bouldergebiet.html) for more information.
+* Maltatal, stunning, beautiful area with lots of solid boulders. Important - park your car at the signed parking lot and follow the marked path for accessing the boulders (e.g., do not park, camp on, or cross the farmland!). Leave every spot behind clean. Check [Maltatal Rocks](https://maltatal.rocks/) for more information.
 
 Climbing:
 
 * Kanzianiberg
 * Eisenkappel
 
-I can recommend the following bouldering halls in or close to Klagenfurt for good work outs:
-
-* Boulderama, largest bouldering hall in Klagenfurt, many great problems
-* Megapoint, in the center of Klagenfurt, three blocks provide several routes
-* Bouldergarage, St. Johann im Rosental, a garage full of bouldering problems
+In Klagenfurt, I can recommend [Boulderama](https://boulderama.at/), the largest bouldering and sports climbing facility in Klagenfurt with many great problems.
 
 #### Corsica
 Tafoni, tafoni! Beautiful island that offers everything a climber desires (rocks, sun, rivers, sea, etc.). See the pictures of our 2012 trip to the [Bavella pass, Corsica](http://www.powderski.at/2012/07/15/korsika-2012/).

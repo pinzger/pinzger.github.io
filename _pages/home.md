@@ -35,6 +35,7 @@ My research focuses on investigating methods, techniques, and tools to support t
 
 * AI for Software Engineering
 * Mining Software Repositories
+* Software Testing
 * Program Analysis
 * Software Visualization
 

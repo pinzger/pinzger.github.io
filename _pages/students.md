@@ -18,7 +18,6 @@ I have and had the privilege of supervising a number of PhD and Master students.
 * [Stefan Schöberl](https://www.scch.at/team/stefan.schoeberl), AAU-SERG and SSCH
 * [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
 * [Johann Glock](https://www.aau.at/en/team/glock-johann/), AAU-SERG
-* [Tareq Mohammed Nazir](https://www.aau.at/en/team/nazir-tareq-mohammed/), AAU-SERG
 * [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), AAU and Alias Robotics (co-supervised with Stefan Rass)
 
 #### Finished
@@ -54,14 +53,15 @@ I have and had the privilege of supervising a number of PhD and Master students.
 ### Master Students
 
 #### Ongoing
+* Philipp Fischbacher, AAU-SERG
 * Volkmer Merlin, AAU-SERG
 * Wilhelm Stuhlpfarrer, Glock Technology GmbH
-* Elias Santner, AAU-SERG
 * Oliver Aartsen, AAU-SERG
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Elias Santner, [Evaluating ChatGPT-4 for Automatic Vulnerability Repair in C/C++ Code](https://netlibrary.aau.at/obvuklhs/content/titleinfo/11707134), March 2025
 * Julian Fragner, [Lost in Translation? Converting Regular Expressions into Dynatrace Pattern Language](https://netlibrary.aau.at/obvuklhs/content/titleinfo/10579248), August 2024
 * Rijad Gerguri, [NDiff – Automating notifications for breaking changes by statically analyzing ASP.NET Core Web API source code](https://netlibrary.aau.at/obvuklhs/content/titleinfo/9005853), July 2023
 * Christian Wuggenig, Web-based knowledge transfer from R&D to Failure Analysis department at Infineon Technologies Austria AG, February 2023
