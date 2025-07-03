@@ -18,14 +18,13 @@ I have and had the privilege of supervising a number of PhD and Master students.
 * [Stefan Schöberl](https://www.scch.at/team/stefan.schoeberl), AAU-SERG and SSCH
 * [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
 * [Johann Glock](https://www.aau.at/en/team/glock-johann/), AAU-SERG
-* [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), AAU and Alias Robotics (co-supervised with Stefan Rass)
 
 #### Finished
-
-* Patrick Kubiak, An AIOps Solution for the Joint Analysis of Runtime Data and System Events, Universität Klagenfurt and Volkswagen Financial Services, co-supervised with Stefan Rass, August 2022
-* [Giovanni Liva](https://thisthat.github.io/), Formal Analysis & Verification of Timed Programs, Universität Klagenfurt, November 2019
-* [Christian Macho](https://mitschi.github.io/), Preventing and Repairing Build Breakage, Universität Klagenfurt, May 2019
-* [Stefanie Beyer](https://www.aau.at/en/isys/serg/team/beyer-stefanie/), Identifying Android App Developers’ Challenges through Mining Stack Overflow, Universität Klagenfurt, April 2018
+* [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), Universität Klagenfurt and Alias Robotics, co-supervised with Stefan Rass, June 2025
+* Patrick Kubiak, [An AIOps Solution for the Joint Analysis of Runtime Data and System Events](https://resolver.obvsg.at/urn:nbn:at:at-ubk:1-44968), Universität Klagenfurt and Volkswagen Financial Services, co-supervised with Stefan Rass, August 2022
+* [Giovanni Liva](https://thisthat.github.io/), [Formal Analysis & Verification of Timed Programs](https://resolver.obvsg.at/urn:nbn:at:at-ubk:1-34380), Universität Klagenfurt, November 2019
+* [Christian Macho](https://mitschi.github.io/), [Preventing and Repairing Build Breakage](https://resolver.obvsg.at/urn:nbn:at:at-ubk:1-34024), Universität Klagenfurt, May 2019
+* [Stefanie Beyer](https://www.aau.at/en/isys/serg/team/beyer-stefanie/), [Identifying Android App Developers’ Challenges through Mining Stack Overflow](https://resolver.obvsg.at/urn:nbn:at:at-ubk:1-30316), Universität Klagenfurt, April 2018
 * [Nicolas Dintzner](http://swerl.tudelft.nl/bin/view/NicolasDintzner/WebHome), Feature-Oriented Evolution of Variant-rich Software Systems, Universität Klagenfurt and TU Delft, co-supervised with Arie van Deursen, July 2017
 * [Anja Guzzi](http://swerl.tudelft.nl/bin/view/Main/AnjaGuzzi), Supporting Developers’ Teamwork from within the IDE, Universität Klagenfurt and TU Delft, co-supervised with Arie van Deursen, March 2015
 * [Daniele Romano](http://swerl.tudelft.nl/bin/view/DanieleRomano/WebHome), Analyzing the Change-Proneness of APIs and Web APIs, Universität Klagenfurt and TU Delft, January 2015
