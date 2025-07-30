@@ -54,6 +54,7 @@ permalink: /service/
 
 ### Program Committee Memberships
 * [FSE 2026](https://conf.researchr.org/home/fse-2026) - International Conference on the Foundations of Software Engineering
+* [MSR 2026](https://conf.researchr.org/home/msr-2026) - International Conference on Mining Software Repositories
 * [ICSME 2025](https://conf.researchr.org/home/icsme-2025) - International Conference on Software Maintenance and Evolution
 * [FSE 2025](https://conf.researchr.org/home/fse-2025) - International Conference on the Foundations of Software Engineering
 * [ICSE 2025](https://conf.researchr.org/home/icse-2025) - International Conference on Software Engineering

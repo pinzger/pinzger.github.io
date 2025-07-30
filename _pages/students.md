@@ -54,12 +54,12 @@ I have and had the privilege of supervising a number of PhD and Master students.
 #### Ongoing
 * Philipp Fischbacher, AAU-SERG
 * Volkmer Merlin, AAU-SERG
-* Wilhelm Stuhlpfarrer, Glock Technology GmbH
 * Oliver Aartsen, AAU-SERG
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Wilhelm Stuhlpfarrer, Design and implementation of a version and variant management system for the PLC programming environment SoMachine from Schneider Electric, July 2025
 * Elias Santner, [Evaluating ChatGPT-4 for Automatic Vulnerability Repair in C/C++ Code](https://netlibrary.aau.at/obvuklhs/content/titleinfo/11707134), March 2025
 * Julian Fragner, [Lost in Translation? Converting Regular Expressions into Dynatrace Pattern Language](https://netlibrary.aau.at/obvuklhs/content/titleinfo/10579248), August 2024
 * Rijad Gerguri, [NDiff – Automating notifications for breaking changes by statically analyzing ASP.NET Core Web API source code](https://netlibrary.aau.at/obvuklhs/content/titleinfo/9005853), July 2023

@@ -1,3 +1,29 @@
+- title: "CAI: An Open, Bug Bounty-Ready Cybersecurity AI"
+  image: 
+  authors: V. M. Vilches, L. J. Navarrete-Lozano, M. Sanz-Gómez, L. S. Espejo, M. Crespo-Álvarez, F. Oca-Gonzalez, F. Balassone, A. Glera-Picón, U. A. Carbajo, J. A. Ruiz-Alcalde, S. Rass, M. Pinzger, and E. Gil-Uriarte
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2025
+  description: 
+  link:
+    url: ../papers/Vilches2025-cai.pdf
+    display: pdf
+  highlight: 
+
+- title: "Lost in Translation? Converting RegExes for Log Parsing into Dynatrace Pattern Language"
+  image: 
+  authors: J. Fragner, C. Macho, B. Dieber, and M. Pinzger
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2025
+  description: 
+  link:
+    url: ../papers/Fragner2025-reptile.pdf
+    display: pdf
+  highlight: 
+
 - title: "A Retrospective of ChangeDistiller: Tree Differencing for Fine-Grained Source Code Change Extraction"
   image: 
   authors: B. Fluri, M. Würsch, M. Pinzger, and H. Gall	
@@ -16,7 +42,7 @@
   image: 
   authors: A. Lercher, C. Bauer, C. Macho, and M. Pinzger
   proceedings: Proceedings of the International Conference on Software Analysis, Evolution and Reengineering
-  pages: 
+  pages: pp. 814-818
   publisher: IEEE
   year: 2025
   description: 
