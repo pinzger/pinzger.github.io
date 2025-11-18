@@ -1,13 +1,40 @@
+- title: "Cybersecurity AI (CAI): An open framework for AI Security"
+  image: 
+  authors: V. Mayoral-Vilches, L. J. N. Lozano, M. Sanz-Gómez, L. E. Salas, M. C. Álvarez, F. O. González, F. Balassone, A. Glera-Picón, U. A. Carbajo, J. A. Ruiz-Alcalde, S. Rass, M. Pinzger, E. Gil-Uriarte
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Vilches2026-CAI.pdf
+    display: pdf
+  highlight: 
+
+
+- title: "Cybersecurity AI: Evaluating Agentic Cybersecurity in Attack/Defense CTFs"
+  image: 
+  authors: F. Balassone, V. Mayoral-Vilches, S. Rass, M. Pinzger, G. Perrone, S. P. Romano, P. Schartner
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Vilches2026-CAI-eval.pdf
+    display: pdf
+  highlight: 
+
 - title: "CAI: An Open, Bug Bounty-Ready Cybersecurity AI"
   image: 
-  authors: V. M. Vilches, L. J. Navarrete-Lozano, M. Sanz-Gómez, L. S. Espejo, M. Crespo-Álvarez, F. Oca-Gonzalez, F. Balassone, A. Glera-Picón, U. A. Carbajo, J. A. Ruiz-Alcalde, S. Rass, M. Pinzger, and E. Gil-Uriarte
+  authors: V. Mayoral-Vilches, L. J. Navarrete-Lozano, M. Sanz-Gómez, L. S. Espejo, M. Crespo-Álvarez, F. Oca-Gonzalez, F. Balassone, A. Glera-Picón, U. A. Carbajo, J. A. Ruiz-Alcalde, S. Rass, M. Pinzger, and E. Gil-Uriarte
   proceedings: CoRR
   pages: 
   publisher: 
   year: 2025
   description: 
   link:
-    url: ../papers/Vilches2025-cai.pdf
+    url: ../papers/Vilches2025-CAI-tr.pdf
     display: pdf
   highlight: 
 
@@ -27,7 +54,7 @@
 - title: "A Retrospective of ChangeDistiller: Tree Differencing for Fine-Grained Source Code Change Extraction"
   image: 
   authors: B. Fluri, M. Würsch, M. Pinzger, and H. Gall	
-  proceedings: IEEE Transactions on Software Engineering
+  proceedings: IEEE Transactions on Software Engineering (TSE)
   pages: pp. 1-6
   publisher: IEEE
   year: 2025
@@ -41,7 +68,7 @@
 - title: "AutoGuard: Reporting breaking changes of REST APIs from Java Spring Boot source code"
   image: 
   authors: A. Lercher, C. Bauer, C. Macho, and M. Pinzger
-  proceedings: Proceedings of the International Conference on Software Analysis, Evolution and Reengineering
+  proceedings: Proceedings of the International Conference on Software Analysis, Evolution and Reengineering (SANER)
   pages: pp. 814-818
   publisher: IEEE
   year: 2025
@@ -93,7 +120,7 @@
 
 - title: "PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing"
   image: 
-  authors: G. Deng, Y. Liu, V. M. Vilches, P. Liu, Y. Li, Y. Xu, T. Zhang, Y. Liu, M. Pinzger, and S. Rass
+  authors: G. Deng, Y. Liu, V. Mayoral-Vilches, P. Liu, Y. Li, Y. Xu, T. Zhang, Y. Liu, M. Pinzger, and S. Rass
   proceedings: Proceedings of the USENIX Security Symposium 
   pages: pp. 847-864
   publisher: USENIX 
@@ -145,7 +172,7 @@
 
 - title: "RobotPerf: An Open-Source, Vendor-Agnostic, Benchmarking Suite for Evaluating Robotics Computing System Performance"
   image: 
-  authors: 	V. M. Vilches, J. Jabbour, Y.-S. Hsiao, Z. Wan, M. Crespo-Álvarez, M. Stewart, J. M. Reina-Muñoz, P. Nagras, G. Vikhe, M. Bakhshalipour, M. Pinzger, S. Rass, S. Panigrahi, G. Corradi, N. Roy, P. B. Gibbons, S. M. Neuman, B. Plancher, and V. J. Reddi
+  authors: 	V. Mayoral-Vilches, J. Jabbour, Y.-S. Hsiao, Z. Wan, M. Crespo-Álvarez, M. Stewart, J. M. Reina-Muñoz, P. Nagras, G. Vikhe, M. Bakhshalipour, M. Pinzger, S. Rass, S. Panigrahi, G. Corradi, N. Roy, P. B. Gibbons, S. M. Neuman, B. Plancher, and V. J. Reddi
   proceedings: Proceedings of the International Conference on Robotics and Automation (ICRA)
   pages: pp. 8288-8297
   publisher: IEEE 
@@ -158,7 +185,7 @@
 
 - title: "PentestGPT: An LLM-empowered Automatic Penetration Testing Tool"
   image: 
-  authors: G. Deng, Y. Liu, V. M. Vilches, P. Liu, Y. Li, Y. Xu, T. Zhang, Y. Liu, M. Pinzger, and S. Rass
+  authors: G. Deng, Y. Liu, V. Mayoral-Vilches, P. Liu, Y. Li, Y. Xu, T. Zhang, Y. Liu, M. Pinzger, and S. Rass
   proceedings: CoRR
   pages: 
   publisher: 
@@ -184,7 +211,7 @@
 
 - title: "ExploitFlow, cyber security exploitation routes for Game Theory and AI research in robotics"
   image: 
-  authors: V. M. Vilches, G. Deng, Y. Liu, M. Pinzger, and S. Rass
+  authors: V. Mayoral-Vilches, G. Deng, Y. Liu, M. Pinzger, and S. Rass
   proceedings: CoRR
   pages: 
   publisher: 
@@ -197,7 +224,7 @@
 
 - title: "Hacking planned obsolescense in robotics, towards security-oriented robot teardown"
   image: 
-  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, F. Maggi, and E. Gil-Uriarte
+  authors: V. Mayoral-Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, F. Maggi, and E. Gil-Uriarte
   proceedings: Electronic Communication of the European Association of Software Science and Technology
   pages: vol. 80
   publisher: 
@@ -223,7 +250,7 @@
 
 - title: "Robot teardown, stripping industrial robots for good"
   image: 
-  authors: V. M. Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, F. Maggi, and E. Gil-Uriarte
+  authors: V. Mayoral-Vilches, A. Glera-Picón, U. A. Carbajo, S. Rass, M. Pinzger, F. Maggi, and E. Gil-Uriarte
   proceedings: International Journal of Cyber Forensics and Advanced Threat Investigations
   pages: 
   publisher: Concept Techn Publishing
