@@ -32,6 +32,7 @@ I have and had the privilege of supervising a number of PhD and Master students.
 
 #### PhD Committee Memberships / Reviewer
 * [Michael Schröder](https://mcschroeder.github.io/), Inferring Grammars for Ad Hoc Parsers, TU Wien
+* Pouria Alikhanifard, Accurate Abstract Syntax Tree Differencing: Language-Aware Design, Benchmarking, and Empirical Assessment, Concordia University, September 2025
 * [Quentin le Dilavrec](https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html), Co-evolution in constantly evolving software systems, Université de Rennes, February 2024
 * [Matteo Ciniselli](https://www.inf.usi.ch/phd/cinism/), Studying Strengths and Weaknesses of Code Recommenders, University of Lugano, December 2023
 * Adil Mukhtar, Advancing Spreadsheet Quality Assurance: A Novel Fault Localization Approach, User-Centric Evaluations of Explainable Faults, and Tool Over-reliance, TU Graz, November 2023
