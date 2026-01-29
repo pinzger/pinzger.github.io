@@ -11,7 +11,6 @@
     display: pdf
   highlight: 
 
-
 - title: "Cybersecurity AI: Evaluating Agentic Cybersecurity in Attack/Defense CTFs"
   image: 
   authors: F. Balassone, V. Mayoral-Vilches, S. Rass, M. Pinzger, G. Perrone, S. P. Romano, P. Schartner
@@ -24,6 +23,34 @@
     url: ../papers/Vilches2026-CAI-eval.pdf
     display: pdf
   highlight: 
+
+
+- title: "A Dataset and Preliminary Study of Using GPT-5 for Code-change Impact Analysis"
+  image: 
+  authors: K. Stengg, C. Macho, M. Pinzger
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2025
+  description: 
+  link:
+    url: ../papers/Stengg2025-ciadataset.pdf
+    display: pdf
+  highlight: 
+
+- title: "Teralizer: Semantics-Based Test Generalization from Conventional Unit Tests to Property-Based Tests"
+  image: 
+  authors: 	J. Glock, C. Bauer, M. Pinzger
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2025
+  description: 
+  link:
+    url: ../papers/Glock2025-teralizer.pdf
+    display: pdf
+  highlight: 
+
 
 - title: "CAI: An Open, Bug Bounty-Ready Cybersecurity AI"
   image: 
