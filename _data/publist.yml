@@ -1,3 +1,16 @@
+- title: "Agent-based Dependency-related Build Repair"
+  image: 
+  authors: C. Macho, K. Stengg, M. Pinzger
+  proceedings: Proceedings of the International Conference on Software Analysis, Evolution and Reengineering (SANER)
+  pages: to appear
+  publisher: IEEE
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Macho2026-repair.pdf
+    display: pdf
+  highlight: 
+
 - title: "Cybersecurity AI (CAI): An open framework for AI Security"
   image: 
   authors: V. Mayoral-Vilches, L. J. N. Lozano, M. Sanz-Gómez, L. E. Salas, M. C. Álvarez, F. O. González, F. Balassone, A. Glera-Picón, U. A. Carbajo, J. A. Ruiz-Alcalde, S. Rass, M. Pinzger, E. Gil-Uriarte
