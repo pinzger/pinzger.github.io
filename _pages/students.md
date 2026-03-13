@@ -20,7 +20,7 @@ I have and had the privilege of supervising a number of PhD and Master students.
 * [Johann Glock](https://www.aau.at/en/team/glock-johann/), AAU-SERG
 
 #### Finished
-* [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), Universität Klagenfurt and Alias Robotics, co-supervised with Stefan Rass, June 2025
+* [Víctor Mayoral Vilches](https://www.linkedin.com/in/vmayoral/), [Offensive robot cybersecurity Cyber-protecting robots by hacking-them-first with Game Theory and Machine Learning](https://netlibrary.aau.at/obvuklhs/content/titleinfo/12259277) Universität Klagenfurt and Alias Robotics, co-supervised with Stefan Rass, June 2025
 * Patrick Kubiak, [An AIOps Solution for the Joint Analysis of Runtime Data and System Events](https://resolver.obvsg.at/urn:nbn:at:at-ubk:1-44968), Universität Klagenfurt and Volkswagen Financial Services, co-supervised with Stefan Rass, August 2022
 * [Giovanni Liva](https://thisthat.github.io/), [Formal Analysis & Verification of Timed Programs](https://resolver.obvsg.at/urn:nbn:at:at-ubk:1-34380), Universität Klagenfurt, November 2019
 * [Christian Macho](https://mitschi.github.io/), [Preventing and Repairing Build Breakage](https://resolver.obvsg.at/urn:nbn:at:at-ubk:1-34024), Universität Klagenfurt, May 2019
@@ -53,6 +53,10 @@ I have and had the privilege of supervising a number of PhD and Master students.
 ### Master Students
 
 #### Ongoing
+* Laura Likar, Care Solutions
+* Laura Randl, Dynatrace
+* Sandro Moser, Dynatrace
+* Rustam Gurbanov, Infineon 
 * Philipp Fischbacher, AAU-SERG
 * Volkmer Merlin, AAU-SERG
 * Oliver Aartsen, AAU-SERG
