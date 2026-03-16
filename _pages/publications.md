@@ -12,7 +12,7 @@ permalink: /publications/
 We include the publications on this page to ensure timely dissemination on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their publications here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by the copyrights. These publications may not be reposted without the explicit permission of the copyright holder.
 
 ## Recent Publications
-For the [full list of publications](#full-list) see below or check my profile on [DBLP](http://dblp.uni-trier.de/pers/hd/p/Pinzger_0001:Martin) and [Google Scholar](http://scholar.google.com/citations?user=MTZ0l60AAAAJ&hl=en)
+For the [full list of publications](#full-list) see below or check my profile on [DBLP](https://dblp.org/pid/98/5177.html) and [Google Scholar](http://scholar.google.com/citations?user=MTZ0l60AAAAJ&hl=en)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
