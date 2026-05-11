@@ -45,10 +45,11 @@ I am always on the lookout for PhD and Master's Students with strong technical a
 
 
 ## Open positions 
-<!--At the moment, we do not have any open positions.-->
+At the moment, we do not have any open positions.
 
+<!--
 We have the following open positions for PhD students in software engineering: 
-* 2 PhD Students in Software Engineering. See the official [job announcement](https://jobs.aau.at/en/job/2-predoc-scientists-all-genders-welcome-in-german-universitaetsassistentin/) for more details and submitting your application.
+* 2 PhD Students in Software Engineering. See the official [job announcement](https://jobs.aau.at/en/job/2-predoc-scientists-all-genders-welcome-in-german-universitaetsassistentin/) for more details and submitting your application.-->
 <!-- * [1 PhD Student for Program Analysis using Formal Methods](/wanted/openpositions#phd-student-for-program-analysis-using-formal-methods) -->
 
 

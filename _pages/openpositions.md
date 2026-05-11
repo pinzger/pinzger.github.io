@@ -7,9 +7,10 @@ permalink: /wanted/openpositions
 ---
 
 # Open Positions
-<!-- At the moment, we do not have any open positions available. -->
+At the moment, we do not have any open positions available.
 
-We are looking for two PhD students in Software Engineering. See the official [job announcement](https://jobs.aau.at/en/job/2-predoc-scientists-all-genders-welcome-in-german-universitaetsassistentin/) for more details and submitting your application. 
+<!--
+We are looking for two PhD students in Software Engineering. See the official [job announcement](https://jobs.aau.at/en/job/2-predoc-scientists-all-genders-welcome-in-german-universitaetsassistentin/) for more details and submitting your application. -->
 
 <!--
 We have the following open positions:
