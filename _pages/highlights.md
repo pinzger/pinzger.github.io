@@ -8,6 +8,7 @@ permalink: /highlights/
 
 # Professional Highlights
 
+* **2026**: Elevated to ACM Senior Member
 * **2025**: Received my 3rd FSE Distinguished Reviewer Award (after ESEC/FSE 2023).
 * **2025**: Our work on ChangeDistiller got selected by TSE as one of the most influential papers of IEEE TSE’s 4th decade ([pdf](https://pinzger.github.io/papers/Fluri2025-retrospective.pdf)).
 * **2024**: Received my 3rd ICSE Distinguished Reviewer Award (after ICSE 2017 and 2021).
