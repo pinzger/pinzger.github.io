@@ -56,7 +56,7 @@ We have the following open positions for PhD students in software engineering:
 <!--
 #### ERRoSS
 I am co-organizing the [1st International Workshop on Engineering Resilient Robot Software Systems](https://www.erross.org/) (ERRoSS) co-located with [IRC 2020](http://irc.asia.edu.tw/2020). Both, IRC 2020 and ERRoSS 2020 will be held online on **November 9-11th, 2020**. Check our web-site for more information.
-
-#### VST 2026
-I am co-organizing the [9th Workshop on Validation, Analysis and Evolution of Software Tests](https://vstworkshop.github.io/vst2026/) (VST 2026) co-located with [SANER 2026](https://conf.researchr.org/home/saner-2026). It will take place online on March 17th, 2026. 
 -->
+
+#### VST 2027
+I am co-organizing the [9th Workshop on Validation, Analysis and Evolution of Software Tests](https://vstworkshop.github.io/vst2027/) (VST 2027) co-located with [SANER 2027](https://conf.researchr.org/home/saner-2027). It will take place online on March 9th, 2027. 

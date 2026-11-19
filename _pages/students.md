@@ -14,6 +14,8 @@ I have and had the privilege of supervising a number of PhD and Master students.
 
 #### Ongoing 
 
+* [Clemens Bauer](https://www.aau.at/en/isys/serg/team/bauer-clemens/), AAU-SERG
+* [David Jamnig](https://www.aau.at/en/team/jamnig-david-alexander/), AAU-SERG
 * [Katharina Stengg](https://www.aau.at/en/isys/serg/team/stengg-katharina/), AAU-SERG
 * [Stefan Schöberl](https://www.scch.at/team/stefan.schoeberl), AAU-SERG and SSCH
 * [Alexander Lercher](https://www.aau.at/en/team/lercher-alexander-gerhard/), AAU-SERG
@@ -31,6 +33,7 @@ I have and had the privilege of supervising a number of PhD and Master students.
 * [Felienne Hermans](http://www.felienne.com/), Analyzing and Visualizing Spreadsheets, TU Delft, co-supervised with Arie van Deursen, January 2013
 
 #### PhD Committee Memberships / Reviewer
+* Francesco Di Gennaro, Innovative Deep Learning Methods and a Benchmarking Dataset for Intrusion Detection Systems in Software-Defined Networks, IMT School for Advanced Studies, June 2026
 * [Michael Schröder](https://mcschroeder.github.io/), Inferring Grammars for Ad Hoc Parsers, TU Wien
 * Pouria Alikhanifard, Accurate Abstract Syntax Tree Differencing: Language-Aware Design, Benchmarking, and Empirical Assessment, Concordia University, September 2025
 * [Quentin le Dilavrec](https://perso.eleves.ens-rennes.fr/people/quentin.le-dilavrec/home.html), Co-evolution in constantly evolving software systems, Université de Rennes, February 2024
@@ -59,11 +62,13 @@ I have and had the privilege of supervising a number of PhD and Master students.
 * Rustam Gurbanov, Infineon 
 * Philipp Fischbacher, AAU-SERG
 * Volkmer Merlin, AAU-SERG
-* Oliver Aartsen, AAU-SERG
 * Christof Bachmann, AAU-ZID
 
 #### Finished
 
+* Oliver Aartsen, [Evaluation of Optimisation Methods in Unity that Improve the Performance of Video Games](https://netlibrary.aau.at/obvuklhs/content/titleinfo/14808320), September 2026
+* Clemens Bauer, [Generating Property-based Tests for Java Methods](https://netlibrary.aau.at/obvuklhs/content/titleinfo/14151851), June 2026
+* David Jamnig [Designing and Evaluating a Systematic Communication Approach for REST API Change Notifications](https://netlibrary.aau.at/obvuklhs/content/titleinfo/14512166), July 2026 
 * Wilhelm Stuhlpfarrer, Design and implementation of a version and variant management system for the PLC programming environment SoMachine from Schneider Electric, July 2025
 * Elias Santner, [Evaluating ChatGPT-4 for Automatic Vulnerability Repair in C/C++ Code](https://netlibrary.aau.at/obvuklhs/content/titleinfo/11707134), March 2025
 * Julian Fragner, [Lost in Translation? Converting Regular Expressions into Dynatrace Pattern Language](https://netlibrary.aau.at/obvuklhs/content/titleinfo/10579248), August 2024

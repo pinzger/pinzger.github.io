@@ -1,8 +1,21 @@
+- title: "Towards Cybersecurity Superintelligence"
+  image: 
+  authors: V. Mayoral Vilches, S. Rass, M. Pinzger, E. Gil-Uriarte, U. Ayucar Carbajo, J. A. Ruiz-Alcalde, M. del Mundo de Torres, M. Sanz-Gómez, F. Balassone, C. R. J. Veas Chavez, V. Turiel, A. Glera-Picón, D. Sánchez-Prieto, Y. Salvatierra, P. Zabalegui-Landa, R. Reydel Cabrera-Álvarez, P. Mayoral-Pizarroso
+  proceedings: Proceedings of the AAAI Summer Sumposia
+  pages: pp. 272-280
+  publisher: AAAI Press
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Vilches2026-guidedCSI-aaai.pdf
+    display: pdf
+  highlight: 
+
 - title: "Agent-based Dependency-related Build Repair"
   image: 
   authors: C. Macho, K. Stengg, M. Pinzger
   proceedings: Proceedings of the International Conference on Software Analysis, Evolution and Reengineering (SANER)
-  pages: to appear
+  pages: pp. 1-6
   publisher: IEEE
   year: 2026
   description: 
@@ -11,16 +24,44 @@
     display: pdf
   highlight: 
 
-- title: "Cybersecurity AI (CAI): An open framework for AI Security"
+- title: "Towards Cybersecurity Superintelligence: from AI-guided humans to human-guided AI"
   image: 
-  authors: V. Mayoral-Vilches, L. J. N. Lozano, M. Sanz-Gómez, L. E. Salas, M. C. Álvarez, F. O. González, F. Balassone, A. Glera-Picón, U. A. Carbajo, J. A. Ruiz-Alcalde, S. Rass, M. Pinzger, E. Gil-Uriarte
+  authors: V. Mayoral Vilches, S. Rass, M. Pinzger, E. Gil-Uriarte, U. Ayucar Carbajo, J. A. Ruiz-Alcalde, M. del Mundo de Torres, L. J. Navarrete-Lozano, M. Sanz-Gómez, F. Balassone, C. R. J. V. Chavez, V. Turiel, A. Glera-Picón, D. Sánchez-Prieto, Y. Salvatierra, P. Zabalegui-Landa, R. Reydel Cabrera-Álvarez, P. Mayoral-Pizarroso
   proceedings: CoRR
   pages: 
   publisher: 
   year: 2026
   description: 
   link:
-    url: ../papers/Vilches2026-CAI.pdf
+    url: ../papers/Vilches2026-guidedCSI.pdf
+    display: pdf
+  highlight: 
+
+
+- title: "Security Incentivization: An Empirical Study of how Micropayments Impact Code Security"
+  image: 
+  authors: S. Rass, M. Pinzger, R. W. Alexandrowicz, G. Sengstbratl, J. Glock, A. Lercher, F. Oraze, C. Wedenig
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Rass2026-incentivation.pdf
+    display: pdf
+  highlight: 
+
+
+- title: "Towards Cybersecurity SuperIntelligence (CSI): What's the best harness for cybersecurity?"
+  image: 
+  authors: V. Mayoral Vilches, F. Balassone, M. Sanz-Gómez, P. Zabalegui-Landa, D. Sánchez-Prieto, M. Oteiza Álvarez, D. Quarta, M. Pinzger
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Vilches2026-towardsCSI.pdf
     display: pdf
   highlight: 
 
@@ -30,7 +71,7 @@
   proceedings: CoRR
   pages: 
   publisher: 
-  year: 2026
+  year: 2025
   description: 
   link:
     url: ../papers/Vilches2026-CAI-eval.pdf
