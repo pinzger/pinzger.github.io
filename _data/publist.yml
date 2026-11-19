@@ -5,7 +5,7 @@
   pages: vol. 244
   publisher: Elsevier
   year: 2026
-  description: "This introduces AutoOAS, our approach extract accurate OpenAPI descriptions from Java source code. It detects exposed REST API endpoint paths, corresponding HTTP methods, HTTP response codes, and the data models of request parameters and responses
+  description: "This paper introduces AutoOAS, our approach to extract accurate OpenAPI descriptions from Java source code. It detects exposed REST API endpoint paths, corresponding HTTP methods, HTTP response codes, and the data models of request parameters and responses
 directly from Java source code. The evaluation is performed on 15 real-world Java projects developed with the two popular frameworks Spring
 Boot and JAX-RS and we compare it with four state-of-the-art approaches. Based on a manually created ground truth, AutoOAS achieved the highest precision and recall when identifying REST API endpoint paths, HTTP methods, parameters, and responses. It outperformed the second-best approach, Respector, by 29 percentage points in precision and 27 in recall when identifying parameters, and by 25 percentage points in precision and 34 in recall when identifying responses. Furthermore, AutoOAS generated more accurate OpenAPI data model schemas than the framework-specific approaches springdoc-openapi and Swagger Core, outperforming them by 30 and 14 percentage points, respectively."
   link:
