@@ -1,3 +1,18 @@
+- title: "Generating Accurate OpenAPI Descriptions from Java Source Code"
+  image: 
+  authors: A. Lercher, D. Jamnig, C. Macho, C. Bauer, and M. Pinzger	
+  proceedings: Journal of Systems and Software (JSS)
+  pages: vol. 244
+  publisher: Elsevier
+  year: 2026
+  description: "This introduces AutoOAS, our approach extract accurate OpenAPI descriptions from Java source code. It detects exposed REST API endpoint paths, corresponding HTTP methods, HTTP response codes, and the data models of request parameters and responses
+directly from Java source code. The evaluation is performed on 15 real-world Java projects developed with the two popular frameworks Spring
+Boot and JAX-RS and we compare it with four state-of-the-art approaches. Based on a manually created ground truth, AutoOAS achieved the highest precision and recall when identifying REST API endpoint paths, HTTP methods, parameters, and responses. It outperformed the second-best approach, Respector, by 29 percentage points in precision and 27 in recall when identifying parameters, and by 25 percentage points in precision and 34 in recall when identifying responses. Furthermore, AutoOAS generated more accurate OpenAPI data model schemas than the framework-specific approaches springdoc-openapi and Swagger Core, outperforming them by 30 and 14 percentage points, respectively."
+  link:
+    url: ../papers/Lercher2026-genopenapi.pdf
+    display: pdf
+  highlight: 1
+
 - title: "Towards Cybersecurity Superintelligence"
   image: 
   authors: V. Mayoral Vilches, S. Rass, M. Pinzger, E. Gil-Uriarte, U. Ayucar Carbajo, J. A. Ruiz-Alcalde, M. del Mundo de Torres, M. Sanz-Gómez, F. Balassone, C. R. J. Veas Chavez, V. Turiel, A. Glera-Picón, D. Sánchez-Prieto, Y. Salvatierra, P. Zabalegui-Landa, R. Reydel Cabrera-Álvarez, P. Mayoral-Pizarroso
@@ -223,7 +238,7 @@
   link:
     url: ../papers/Lercher2024-apis.pdf
     display: pdf
-  highlight: 1
+  highlight:
 
 - title: "PASDA: A Partition-based Semantic Differencing Approach with Best Effort Classification of Undecided Cases"
   image: 
