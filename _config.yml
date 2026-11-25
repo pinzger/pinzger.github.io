@@ -21,6 +21,7 @@ include:
 
 sass:
   sass_dir: _sass
+  quiet_deps: true
 
 # Conversion
 markdown: kramdown
