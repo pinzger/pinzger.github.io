@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Publications
 
-We include the publications on this page to ensure timely dissemination on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their publications here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by the copyrights. These publications may not be reposted without the explicit permission of the copyright holder.
+We include the publications on this page to ensure timely dissemination on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their publications here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by the copyrights. These publications may not be reposted without the explicit permission of the copyright holder. <img src="{{ site.url }}{{ site.baseurl }}/images/preprint.svg" class="pub-badge" width="16" height="16" alt="preprint" /> marks a preprint (not peer-reviewed) and <img src="{{ site.url }}{{ site.baseurl }}/images/accepted.svg" class="pub-badge" width="16" height="16" alt="accepted" /> marks a publication that has been accepted or published after peer review.
 
 ## Recent Publications
 For the [full list of publications](#full-list) see below or check my profile on [DBLP](https://dblp.org/pid/98/5177.html) and [Google Scholar](http://scholar.google.com/citations?user=MTZ0l60AAAAJ&hl=en)
@@ -20,13 +20,17 @@ For the [full list of publications](#full-list) see below or check my profile on
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
 
+{% assign pp = publi.preprint | append: "" %}
+{% assign badge = "accepted" %}
+{% if publi.proceedings == "CoRR" or pp == "1" %}{% assign badge = "preprint" %}{% endif %}
+
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
+  <pubtit><img src="{{ site.url }}{{ site.baseurl }}/images/{{ badge }}.svg" class="pub-badge" width="16" height="16" alt="{{ badge }}" title="{{ badge | capitalize }}" />{{ publi.title }}</pubtit>
   {% if publi.image != null and publi.image != "" %} <img src="{{ site.url }}{{ site.baseurl }}/images/pubpics/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" /> {% endif %}
   <p>{{ publi.description }}</p>
   <p>{{ publi.authors }} {% if publi.link.url != null and publi.link.url != "" %}(<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>){% endif %}</p>
@@ -54,7 +58,11 @@ For the [full list of publications](#full-list) see below or check my profile on
 
 {% for publi in site.data.publist %}
 
-  <strong>{{ publi.title }} </strong> {% if  publi.link.url != null and publi.link.url != "" %} (<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>) {% endif %} <br /> 
+{% assign pp = publi.preprint | append: "" %}
+{% assign badge = "accepted" %}
+{% if publi.proceedings == "CoRR" or pp == "1" %}{% assign badge = "preprint" %}{% endif %}
+
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ badge }}.svg" class="pub-badge" width="16" height="16" alt="{{ badge }}" title="{{ badge | capitalize }}" /><strong>{{ publi.title }} </strong> {% if  publi.link.url != null and publi.link.url != "" %} (<a href="{{ publi.link.url }}">{{ publi.link.display }}</a>) {% endif %} <br /> 
   {{ publi.authors }}. {{ publi.proceedings }}, {{ publi.pages }}, {{ publi.publisher }}, {{ publi.year }}. {% if publi.award != null and publi.award != "" %} <strong>{{ publi.award }}</strong> {% endif %}
 
 

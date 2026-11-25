@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112.16 112.16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3.36px;
+      }
+
+      .cls-2 {
+        fill: #108441;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <path id="path8525" class="cls-2" d="M0,56.08C0,25.11,25.11,0,56.08,0s56.08,25.11,56.08,56.08-25.11,56.08-56.08,56.08S0,87.05,0,56.08Z"/>
+    <path id="path8809" class="cls-1" d="M80.4,39.68v54.48H29.36V25.49l36.99-.13"/>
+    <path id="path8811" class="cls-1" d="M39.6,58.16h30.44"/>
+    <path id="path8813" class="cls-1" d="M39.6,64.72h30.44"/>
+    <path id="path8815" class="cls-1" d="M39.6,71.28h30.44"/>
+    <path id="path8817" class="cls-1" d="M39.6,77.84h30.44"/>
+    <path id="path8819" class="cls-1" d="M39.6,84.56h30.44"/>
+    <path id="path8821" class="cls-1" d="M39.6,51.44h30.44"/>
+    <path id="path8823" class="cls-1" d="M39.6,44.88h30.44"/>
+    <path id="path8825" class="cls-1" d="M88.53,28.8c-.06,3.47.08,7.17,0,10.64h-21.57v-21.12l18.47.09"/>
+    <path id="path8827" class="cls-1" d="M73.04,27.92l5.25,5.49"/>
+    <path id="path8829" class="cls-1" d="M78.16,33.61l13.85-15.77"/>
+  </g>
+</svg>

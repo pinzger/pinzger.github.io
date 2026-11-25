@@ -53,6 +53,7 @@ permalink: /service/
 * Guest editor of the Springer Empirical Software Engineering, special issue on WCRE 2010
 
 ### Program Committee Memberships
+* [SANER 2027](https://conf.researchr.org/home/saner-2027) - International Conference on Software Analysis, Evolution, and Reengineering
 * [FSE 2026](https://conf.researchr.org/home/fse-2026) - International Conference on the Foundations of Software Engineering
 * [MSR 2026](https://conf.researchr.org/home/msr-2026) - International Conference on Mining Software Repositories
 * [ICSME 2025](https://conf.researchr.org/home/icsme-2025) - International Conference on Software Maintenance and Evolution
