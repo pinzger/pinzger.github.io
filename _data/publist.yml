@@ -1,3 +1,69 @@
+- title: "Generating Property-Based Regression Tests from Source Code Semantics"
+  image: 
+  authors: C. Bauer, J. Glock, M. Pinzger
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Bauer2026-genprop.pdf
+    display: pdf
+  highlight: 
+
+- title: "Teralizer: A Tool for Generalizing JUnit Tests into Property-Based jqwik Tests"
+  image: 
+  authors: J. Glock, C. Bauer, M. Pinzger
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Glock2026-teralizer-tool.pdf
+    display: pdf
+  highlight: 
+
+- title: "Hybrid Source Code Change Impact Analysis"
+  image: 
+  authors: K. Stengg, C. Macho, M. Pinzger
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Stengg2026-katia.pdf
+    display: pdf
+  highlight: 
+
+- title: "SBVUL: Statement-Based Vulnerability Detection"
+  image: 
+  authors: M. Pinzger, K. Stengg, C. Macho, S. Schöberl, V. Mayoral Vilches
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Pinzger2026-sbvul.pdf
+    display: pdf
+  highlight: 
+
+- title: "Do Coding Agents Still Need a Debugger? Frontier-Model-Based Fault Localization at the Accuracy Ceiling"
+  image: 
+  authors: C. Daxerer, J. Glock, C. Macho, R. Ramler, M. Pinzger, J. Pichler
+  proceedings: CoRR
+  pages: 
+  publisher: 
+  year: 2026
+  description: 
+  link:
+    url: ../papers/Daxerer2026-debugger.pdf
+    display: pdf
+  highlight: 
+
+
 - title: "Generating Accurate OpenAPI Descriptions from Java Source Code"
   image: 
   authors: A. Lercher, D. Jamnig, C. Macho, C. Bauer, and M. Pinzger	

@@ -59,4 +59,4 @@ I am co-organizing the [1st International Workshop on Engineering Resilient Robo
 -->
 
 #### VST 2027
-I am co-organizing the [9th Workshop on Validation, Analysis and Evolution of Software Tests](https://vstworkshop.github.io/vst2027/) (VST 2027) co-located with [SANER 2027](https://conf.researchr.org/home/saner-2027). It will take place online on March 9th, 2027. 
+I am co-organizing the [9th Workshop on Validation, Analysis and Evolution of Software Tests](https://vstworkshop.github.io/vst2027/) (VST 2027) co-located with [SANER 2027](https://conf.researchr.org/home/saner-2027). It will take place on March 9th, 2027 in Richmond, Virginia, USA. 
